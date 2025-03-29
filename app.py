@@ -70,6 +70,7 @@ elif page == "Food Wastage Level Prediction":
             input_data = input_data.drop(columns=['Country', 'Year'], errors='ignore')
             
             # Apply Standard Scaling
+            scaler=StandaradScaler()
             input_scaled = scaler.fit_transform(df.drop(columns=['Country', 'Year'], errors='ignore'))
             
             # Apply LDA transformation
