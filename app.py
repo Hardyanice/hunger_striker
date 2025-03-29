@@ -83,5 +83,5 @@ elif page == "Food Wastage Level Prediction":
             input_lda = lda.transform(input_scaled)  # Transform new input
 
             # Prediction
-            prediction = wastage_model.predict(input_lda)
+            prediction = svm_model.predict(input_lda)
             st.write(f'Predicted Food Wastage Level: {prediction[0]}')
