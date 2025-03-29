@@ -70,12 +70,12 @@ elif page == "Food Wastage Level Prediction":
             input_data = input_data.drop(columns=['Country', 'Year'], errors='ignore')
             
             # Apply Standard Scaling
-            scaler=StandardScaler()
-            input_scaled = scaler.fit_transform(input_data)
+            input_scaled = scaler.fit_transform(df.drop(columns=['Country', 'Year'], errors='ignore'))
             
             # Apply LDA transformation
             lda = LinearDiscriminantAnalysis(n_components=2)
             X_lda = lda.fit_transform(input_scaled, wastage_model.classes_)
+            input_lda = lda.transform(input_scaled[input_data.index])
             
-            prediction = wastage_model.predict(X_lda)
-            st.write(f'Predicted Food Wastage Level: {prediction[0]}')
+            prediction = wastage_model.predict(input_lda)
+            st.write(f'Predicted Food Wastage Level: {prediction[0]}'
