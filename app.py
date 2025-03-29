@@ -10,6 +10,9 @@ model = joblib.load(model_filename)
 df = pd.read_csv('Prediction Data')
 df.drop(columns=['Unnamed: 0'], inplace=True, errors='ignore')
 
+# Ensure feature alignment
+expected_features = joblib.load('model_features.pkl')  # Load expected feature names
+
 # Streamlit UI
 st.title('Food Shortage Prediction')
 st.write('Enter a country and year to predict the food shortage level.')
@@ -28,6 +31,9 @@ if st.button('Predict'):
     else:
         # Drop unnecessary columns before prediction
         input_data = input_data.drop(columns=['Country', 'Year'], errors='ignore')
+        
+        # Ensure columns match model expectations
+        input_data = input_data.reindex(columns=expected_features, fill_value=0)
         
         # Make prediction
         prediction = model.predict(input_data)
