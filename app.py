@@ -56,11 +56,11 @@ elif page == "Food Wastage Level Prediction":
     st.header('Food Wastage Level Prediction')
     st.write('Enter a country and year to predict the food wastage level.')
     
-    country = st.selectbox('Select Country', df1['Country'].unique(), key='wastage_country')
+    country = st.selectbox('Select Country', df1['country'].unique(), key='wastage_country')
     year = st.selectbox('Select Year', sorted(df1['Year'].unique()), key='wastage_year')
     
     if st.button('Predict', key='wastage_predict'):
-        input_data = df1[(df1['Country'] == country) & (df1['Year'] == year)]
+        input_data = df1[(df1['country'] == country) & (df1['Year'] == year)]
         
         if input_data.empty:
             st.write('No data available for the selected country and year.')
