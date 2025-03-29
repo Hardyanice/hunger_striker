@@ -78,7 +78,7 @@ elif page == "Food Wastage Level Prediction":
             
             # Apply LDA transformation
             lda = LinearDiscriminantAnalysis(n_components=2)
-            X_lda = lda.fit_transform(X_scaled, y_wastage)
+            X_lda = lda.fit_transform(input_scaled, y_wastage)
             input_lda = lda.transform(input_scaled[input_data.index])
             
             prediction = wastage_model.predict(input_lda)
