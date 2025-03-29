@@ -84,5 +84,8 @@ elif page == "Food Wastage Level Prediction":
 
             # Prediction
             prediction = wastage_model.predict(input_lda)
-            st.write(f'Predicted Food Wastage Level: {prediction[0]}')
+            wastage_mapping = {0: 'Very Low', 1: 'Low', 2: 'Medium', 3: 'High', 4: 'Critical'}
+            mapped_prediction = wastage_mapping.get(prediction[0], 'Unknown')
+            st.write(f'Predicted Food Wastage Level: {mapped_prediction}')
+
             
