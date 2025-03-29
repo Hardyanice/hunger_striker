@@ -1,7 +1,22 @@
-streamlit
-pandas
-numpy
-joblib
-sqlite3
-scikit-learn
-matplotlib
+# Streamlit for UI
+streamlit==1.27.2
+
+# Data Handling
+pandas==2.1.4
+numpy==1.26.2
+
+# Machine Learning
+joblib==1.3.2
+scikit-learn==1.3.2  # If you use sklearn models
+
+# Flask for Backend
+Flask==3.0.0
+Flask-SQLAlchemy==3.1.1  # If using Flask with SQL
+SQLAlchemy==2.0.25  # For database interactions
+
+# Database Connector (Choose the one you need)
+psycopg2==2.9.9  # For PostgreSQL (if using)
+mysql-connector-python==8.2.0  # For MySQL (if using)
+
+# Others
+requests==2.31.0  # If making API calls
