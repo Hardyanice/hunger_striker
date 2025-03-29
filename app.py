@@ -45,6 +45,8 @@ if page == "Food Shortage Prediction":
             
             # Ensure columns match model expectations
             input_data = input_data.reindex(columns=expected_features, fill_value=0)
+            prediction = model.predict(input_data)
+            st.write(f'Predicted Food Shortage chance: {round(prediction[0], 2) * 100}%')
             
 
 elif page == "Food Wastage Level Prediction":
