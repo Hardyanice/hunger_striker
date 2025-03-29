@@ -83,5 +83,8 @@ elif page == "Food Wastage Level Prediction":
             input_lda = lda.transform(input_scaled)  # Transform new input
 
             # Prediction
+            from sklearn.svm import SVC
+            svm_model = SVC(kernel="rbf", C=1.0, random_state=42)
+            svm_model.fit(input_lda, y_wastage)
             prediction = svm_model.predict(input_lda)
             st.write(f'Predicted Food Wastage Level: {prediction[0]}')
