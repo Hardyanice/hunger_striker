@@ -66,9 +66,13 @@ elif page == "Food Wastage Level Prediction":
             st.write('No data available for the selected country and year.')
         else:
             input_data = input_data.drop(columns=['Country', 'Year'], errors='ignore')
-            input_data = input_data.reindex(columns=wastage_features, fill_value=0)
-            prediction = wastage_model.predict(input_data)
-            st.write(f'Predicted Food Wastage Level: {prediction[0]}')
-
             
-            x
+            # Apply Standard Scaling
+            input_scaled = scaler.transform(input_data)
+            
+            # Apply LDA transformation
+            lda = LinearDiscriminantAnalysis(n_components=2)
+            X_lda = lda.fit_transform(input_scaled, wastage_model.classes_)
+            
+            prediction = wastage_model.predict(X_lda)
+            st.write(f'Predicted Food Wastage Level: {prediction[0]}')
