@@ -60,42 +60,27 @@ elif page == "Food Wastage Level Prediction":
     st.header('Food Wastage Level Prediction')
     st.write('Enter a country and year to predict the food wastage level.')
 
-    if len(y_wastage) == len(df):
-        y_wastage = y_wastage.values.ravel()
-    else:
-        y_wastage = y_wastage.iloc[1::2].values.ravel()  # Ensure alignment
-
-    # Apply Standard Scaling
-    scaler=StandardScaler()
-    X_scaled = scaler.fit_transform(input_data, errors='ignore')
-    
-    # Ensure lengths match before applying LDA
-    if len(X_scaled) != len(y_wastage):
-        raise ValueError(f"Mismatch: X_scaled has {len(X_scaled)} rows, but y_wastage has {len(y_wastage)} rows.")
-
-# Apply LDA transformation
-    lda = LinearDiscriminantAnalysis(n_components=2)
-    X_lda = lda.fit_transform(X_scaled, y_wastage)
-    
     country = st.selectbox('Select Country', df1['country'].unique(), key='wastage_country')
     year = st.selectbox('Select Year', sorted(df1['Year'].unique()), key='wastage_year')
-    
+
     if st.button('Predict', key='wastage_predict'):
         input_data = df1[(df1['country'] == country) & (df1['Year'] == year)]
         
         if input_data.empty:
             st.write('No data available for the selected country and year.')
         else:
-            input_data = input_data.drop(columns=['country', 'Year'])
-            
+            input_data = input_data.drop(columns=['country', 'Year'], errors='ignore')
+
             # Apply Standard Scaling
-            scaler=StandardScaler()
-            input_scaled = scaler.fit_transform(input_data, errors='ignore')
-            
+            scaler = StandardScaler()
+            full_scaled = scaler.fit_transform(df1.drop(columns=['country', 'Year'], errors='ignore'))
+            input_scaled = scaler.transform(input_data)
+
             # Apply LDA transformation
             lda = LinearDiscriminantAnalysis(n_components=2)
-            X_lda = lda.fit_transform(input_scaled, y_wastage)
-           
-            
-            prediction = wastage_model.predict(X_lda)
+            X_lda = lda.fit_transform(full_scaled, y_wastage)  # Train once
+            input_lda = lda.transform(input_scaled)  # Transform new input
+
+            # Prediction
+            prediction = wastage_model.predict(input_lda)
             st.write(f'Predicted Food Wastage Level: {prediction[0]}')
