@@ -2,12 +2,15 @@ import streamlit as st
 import pandas as pd
 import joblib
 
-# Load the trained model
+# Load the trained models
 model_filename = 'model.pkl'
 model = joblib.load(model_filename)
 
-# Extract expected feature names from the model
+wastage_model = joblib.load('svm_model.pkl')
+
+# Extract expected feature names from the models
 expected_features = model.feature_names_in_
+wastage_features = wastage_model.feature_names_in_
 
 # Load the dataset
 df = pd.read_csv('Prediction Data')
@@ -42,6 +45,26 @@ if page == "Food Shortage Prediction":
             
             # Ensure columns match model expectations
             input_data = input_data.reindex(columns=expected_features, fill_value=0)
+            
+
+elif page == "Food Wastage Level Prediction":
+    st.header('Food Wastage Level Prediction')
+    st.write('Enter a country and year to predict the food wastage level.')
+    
+    country = st.selectbox('Select Country', df['Country'].unique(), key='wastage_country')
+    year = st.selectbox('Select Year', sorted(df['Year'].unique()), key='wastage_year')
+    
+    if st.button('Predict', key='wastage_predict'):
+        input_data = df[(df['Country'] == country) & (df['Year'] == year)]
+        
+        if input_data.empty:
+            st.write('No data available for the selected country and year.')
+        else:
+            input_data = input_data.drop(columns=['Country', 'Year'], errors='ignore')
+            input_data = input_data.reindex(columns=wastage_features, fill_value=0)
+            prediction = wastage_model.predict(input_data)
+            st.write(f'Predicted Food Wastage Level: {prediction[0]}')
+
             
             # Make prediction
             prediction = model.predict(input_data)
