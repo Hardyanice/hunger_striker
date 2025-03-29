@@ -1,41 +1,36 @@
 import streamlit as st
 import pandas as pd
-import numpy as np
-import joblib  # If the model is saved as a pickle file
+import joblib
 
-# Load the trained ML model
-model = joblib.load("model.pkl")  # Update with correct model path
+# Load the trained model
+model_filename = 'model.pkl'
+model = joblib.load(model_filename)
 
-# Load dataset from CSV
-csv_file_path = "Prediction Data"  # Update with the actual file path
-df = pd.read_csv(csv_file_path)
+# Load the dataset
+df = pd.read_csv('Prediction Data')
+df.drop(columns=['Unnamed: 0'], inplace=True, errors='ignore')
 
 # Streamlit UI
-st.title("Food Shortage Early Warning System")
+st.title('Food Shortage Prediction')
+st.write('Enter a country and year to predict the food shortage level.')
 
-st.sidebar.header("User Input")
-country = st.sidebar.text_input("Enter Country Name")
-year = st.sidebar.number_input("Enter Year", min_value=2000, max_value=2100, step=1)
+# User inputs
+country = st.selectbox('Select Country', df['Country'].unique())
+year = st.selectbox('Select Year', sorted(df['Year'].unique()))
 
-if st.sidebar.button("Predict"):
-    # Filter dataset for the given country and year
-    filtered_data = df[(df["Country"] == country) & (df["Year"] == year)]
-
-    if not filtered_data.empty:
-        # Drop non-numeric columns before passing to the model
-        X = filtered_data.drop(columns=["Country", "Year"])  
-
-        # Make predictions
-        predictions = model.predict(X)
-
-        # Display results
-        st.subheader("Predicted Food Shortage Probability")
-        st.write(predictions)
-
-        # Optional: Visualization
-        st.bar_chart(predictions)
-
+# Predict button
+if st.button('Predict'):
+    # Filter data based on user input
+    input_data = df[(df['Country'] == country) & (df['Year'] == year)]
+    
+    if input_data.empty:
+        st.write('No data available for the selected country and year.')
     else:
-        st.error("No data found for the given country and year.")
-
-st.sidebar.write("Note: Predictions are based on historical data and trends.")
+        # Drop unnecessary columns before prediction
+        input_data = input_data.drop(columns=['Country', 'Year'], errors='ignore')
+        
+        # Make prediction
+        prediction = model.predict(input_data)
+        
+        # Display prediction
+        st.write(f'Predicted Food Shortage Level: {prediction[0]}')
