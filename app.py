@@ -70,6 +70,7 @@ elif page == "Food Wastage Level Prediction":
             input_data = input_data.drop(columns=['Country', 'Year'], errors='ignore')
             
             # Apply Standard Scaling
+            scaler=StandardScaler()
             input_scaled = scaler.transform(input_data)
             
             # Apply LDA transformation
