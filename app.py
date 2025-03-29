@@ -6,12 +6,12 @@ import joblib
 model_filename = 'model.pkl'
 model = joblib.load(model_filename)
 
+# Extract expected feature names from the model
+expected_features = model.feature_names_in_
+
 # Load the dataset
 df = pd.read_csv('Prediction Data')
 df.drop(columns=['Unnamed: 0'], inplace=True, errors='ignore')
-
-# Ensure feature alignment
-expected_features = joblib.load('model_features.pkl')  # Load expected feature names
 
 # Streamlit UI
 st.title('Food Shortage Prediction')
