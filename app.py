@@ -39,4 +39,4 @@ if st.button('Predict'):
         prediction = model.predict(input_data)
         
         # Display prediction
-        st.write(f'Predicted Food Shortage chance: {prediction[0]*100}%')
+        st.write(f'Predicted Food Shortage chance: {round(prediction[0],2)*100}%')
