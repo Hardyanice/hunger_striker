@@ -13,6 +13,12 @@ expected_features = model.feature_names_in_
 df = pd.read_csv('Prediction Data')
 df.drop(columns=['Unnamed: 0'], inplace=True, errors='ignore')
 
+year_mapping = {2020: 2023, 2021: 2024, 2022: 2025}
+
+# Apply the mapping to the "Year" column
+df["Year"] = df["Year"].replace(year_mapping)
+
+
 # Streamlit UI
 st.title('Food Shortage Prediction')
 st.write('Enter a country and year to predict the food shortage level.')
