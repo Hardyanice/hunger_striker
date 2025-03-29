@@ -23,6 +23,7 @@ df["Year"] = df["Year"].replace(year_mapping)
 
 # Load dataset-2
 df1=pd.read_csv("Waste prediction data")
+df2=pd.read_csv("Waste classified data")
 
 page = st.sidebar.selectbox("Choose Predictor", ["Food Shortage Prediction", "Food Wastage Level Prediction"])
 
