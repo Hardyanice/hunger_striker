@@ -86,11 +86,11 @@ elif page == "Food Wastage Level Prediction":
         if input_data.empty:
             st.write('No data available for the selected country and year.')
         else:
-            input_data = input_data.drop(columns=['Country', 'Year'], errors='ignore')
+            input_data = input_data.drop(columns=['country', 'Year'], errors='ignore')
             
             # Apply Standard Scaling
             scaler=StandardScaler()
-            input_scaled = scaler.fit_transform(df.drop(columns=['Country', 'Year'], errors='ignore'))
+            input_scaled = scaler.fit_transform(input_data, errors='ignore'))
             
             # Apply LDA transformation
             lda = LinearDiscriminantAnalysis(n_components=2)
