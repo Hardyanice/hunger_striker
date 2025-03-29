@@ -71,7 +71,7 @@ elif page == "Food Wastage Level Prediction":
             
             # Apply Standard Scaling
             scaler=StandardScaler()
-            input_scaled = scaler.transform(input_data)
+            input_scaled = scaler.fit_transform(input_data)
             
             # Apply LDA transformation
             lda = LinearDiscriminantAnalysis(n_components=2)
