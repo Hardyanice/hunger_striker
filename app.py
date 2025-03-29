@@ -5,7 +5,7 @@ import joblib  # If model is saved as a pickle file
 import sqlite3
 
 # Load the trained ML model
-model = joblib.load("your_model.pkl")  # Change this to the correct model path
+model = joblib.load("model.pkl")  # Change this to the correct model path
 
 # Database connection
 conn = sqlite3.connect("your_database.db")  # Change to your actual database
