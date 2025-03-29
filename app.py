@@ -66,7 +66,7 @@ elif page == "Food Wastage Level Prediction":
         y_wastage = y_wastage.iloc[1::2].values.ravel()  # Ensure alignment
 
     # Apply Standard Scaling
-    X_scaled = scaler.fit_transform(input_data, errors='ignore'))
+    X_scaled = scaler.fit_transform(input_data, errors='ignore')
     
     # Ensure lengths match before applying LDA
         if len(X_scaled) != len(y_wastage):
