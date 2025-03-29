@@ -27,6 +27,9 @@ df["Year"] = df["Year"].replace(year_mapping)
 df1=pd.read_csv("Waste prediction data")
 df2=pd.read_csv("Waste classified data")
 
+y_wastage = pd.read_csv('Waste classified data')
+y_wastage = y_wastage.iloc[1::2].values.ravel()
+
 page = st.sidebar.selectbox("Choose Predictor", ["Food Shortage Prediction", "Food Wastage Level Prediction"])
 
 if page == "Food Shortage Prediction":
@@ -75,7 +78,7 @@ elif page == "Food Wastage Level Prediction":
             
             # Apply LDA transformation
             lda = LinearDiscriminantAnalysis(n_components=2)
-            X_lda = lda.fit_transform(input_scaled, wastage_model.classes_)
+            X_lda = lda.fit_transform(X_scaled, y_wastage)
             input_lda = lda.transform(input_scaled[input_data.index])
             
             prediction = wastage_model.predict(input_lda)
