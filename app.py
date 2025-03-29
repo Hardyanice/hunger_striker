@@ -19,11 +19,11 @@ year = st.sidebar.number_input("Enter Year", min_value=2000, max_value=2100, ste
 
 if st.sidebar.button("Predict"):
     # Filter dataset for the given country and year
-    filtered_data = df[(df["country"] == country) & (df["year"] == year)]
+    filtered_data = df[(df["Country"] == country) & (df["Year"] == year)]
 
     if not filtered_data.empty:
         # Drop non-numeric columns before passing to the model
-        X = filtered_data.drop(columns=["country", "year"])  
+        X = filtered_data.drop(columns=["Country", "Year"])  
 
         # Make predictions
         predictions = model.predict(X)
