@@ -28,7 +28,6 @@ df1=pd.read_csv("Waste prediction data")
 df2=pd.read_csv("Waste classified data")
 
 y_wastage = pd.read_csv('Waste classified data')
-y_wastage = y_wastage.iloc[1::2].values.ravel()
 
 page = st.sidebar.selectbox("Choose Predictor", ["Food Shortage Prediction", "Food Wastage Level Prediction"])
 
@@ -60,6 +59,22 @@ if page == "Food Shortage Prediction":
 elif page == "Food Wastage Level Prediction":
     st.header('Food Wastage Level Prediction')
     st.write('Enter a country and year to predict the food wastage level.')
+
+    if len(y_wastage) == len(df):
+        y_wastage = y_wastage.values.ravel()
+    else:
+        y_wastage = y_wastage.iloc[1::2].values.ravel()  # Ensure alignment
+
+    # Apply Standard Scaling
+    X_scaled = scaler.fit_transform(input_data, errors='ignore'))
+    
+    # Ensure lengths match before applying LDA
+        if len(X_scaled) != len(y_wastage):
+            raise ValueError(f"Mismatch: X_scaled has {len(X_scaled)} rows, but y_wastage has {len(y_wastage)} rows.")
+
+# Apply LDA transformation
+lda = LinearDiscriminantAnalysis(n_components=2)
+X_lda = lda.fit_transform(X_scaled, y_wastage)
     
     country = st.selectbox('Select Country', df1['country'].unique(), key='wastage_country')
     year = st.selectbox('Select Year', sorted(df1['Year'].unique()), key='wastage_year')
