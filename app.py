@@ -86,7 +86,7 @@ elif page == "Food Wastage Level Prediction":
         if input_data.empty:
             st.write('No data available for the selected country and year.')
         else:
-            input_data = input_data.drop(columns=['country', 'Year'], errors='ignore')
+            input_data = input_data.drop(columns=['country', 'Year'])
             
             # Apply Standard Scaling
             scaler=StandardScaler()
