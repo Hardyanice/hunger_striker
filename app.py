@@ -28,6 +28,7 @@ df1=pd.read_csv("Waste prediction data")
 df2=pd.read_csv("Waste classified data")
 
 y_wastage = pd.read_csv('Waste classified data')
+y_wastage = y_wastage.iloc[1::2].values.ravel()
 
 page = st.sidebar.selectbox("Choose Predictor", ["Food Shortage Prediction", "Food Wastage Level Prediction"])
 
