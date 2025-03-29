@@ -10,7 +10,7 @@ wastage_model = joblib.load('svm_model.pkl')
 
 # Extract expected feature names from the models
 expected_features = model.feature_names_in_
-wastage_features = wastage_model.feature_names_in_
+wastage_features = joblib.load('wastage_model_features.pkl') 
 
 # Load the dataset
 df = pd.read_csv('Prediction Data')
