@@ -30,9 +30,21 @@ df2=pd.read_csv("Waste classified data")
 y_wastage = pd.read_csv('Waste classified data')
 y_wastage = y_wastage.iloc[1::2].values.ravel()
 
-page = st.sidebar.selectbox("Choose Predictor", ["Food Shortage Prediction", "Food Wastage Level Prediction"])
+page = st.sidebar.selectbox("Choose Predictor", ["Home","Food Shortage Prediction", "Food Wastage Level Prediction"])
 
-if page == "Food Shortage Prediction":
+if page == "Home":
+    st.header("🏠 Welcome to the Food Security Prediction Dashboard!")
+    st.write("""
+        This tool provides insights into **food shortages** and **food wastage levels** across different countries.
+        
+        🌱 **Food Shortage Prediction**: Predicts the probability of food shortages in a given country and year.  
+        🍽️ **Food Wastage Level Prediction**: Classifies food wastage levels from Very Low to Critical.  
+
+        Use the **sidebar** to select a prediction tool.  
+    """)
+
+
+elif page == "Food Shortage Prediction":
     # Streamlit UI
     st.title('Food Shortage Prediction')
     st.write('Enter a country and year to predict the food shortage level.')
