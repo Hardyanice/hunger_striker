@@ -25,6 +25,7 @@ y_wastage = y_wastage.iloc[1::2].values.ravel()
 # Apply Standard Scaling to the entire dataset
 X_scaled = scaler.fit_transform(df.drop(columns=['Country', 'Year'], errors='ignore'))
 
+"""
 # Apply LDA transformation
 lda = LinearDiscriminantAnalysis(n_components=2)
 if X_scaled.shape[0] == y_wastage.shape[0]:
@@ -35,6 +36,9 @@ else:
 
 # Mapping for food wastage levels
 wastage_mapping = {0: 'Very Low', 1: 'Low', 2: 'Medium', 3: 'High', 4: 'Critical'}
+
+"""
+
 
 # Streamlit UI with enhanced professional styling
 st.set_page_config(page_title='Food Security Prediction', layout='wide')
@@ -74,6 +78,7 @@ elif page == "📉 Food Shortage Prediction":
             prediction = shortage_model.predict(input_data)
             st.success(f'📊 Predicted Food Shortage Chance: **{round(prediction[0], 2) * 100}%**')
 
+"""
 elif page == "🍽️ Food Wastage Level Prediction":
     st.header('🍽️ Food Wastage Level Prediction')
     st.write('Select a country and year to predict the food wastage level.')
