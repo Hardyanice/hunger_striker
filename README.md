@@ -21,3 +21,6 @@ Understanding the purpose of each file:
 **6. wastage_model_features.pkl :** Just contains a list of feature names for the food wastage model in pickle format.
 
 **7. app.py :** This is the python file used for deploying this website, loading and using the models and displaying the corresponding predictions according to user input
+
+**8. streamlit-app-2025-03-30-19-03-46.webm :** Video of demo usage of website.
+
