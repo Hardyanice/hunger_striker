@@ -40,9 +40,19 @@ st.markdown("---")
 # Sidebar navigation with improved styling
 st.sidebar.header("Navigation")
 st.sidebar.markdown("Select a predictor from below:")
-page = st.sidebar.radio("Choose Predictor", ["📉 Food Shortage Prediction", "🍽️ Food Wastage Level Prediction"])
+page = st.sidebar.radio("Choose Page", ["Home","📉 Food Shortage Prediction", "🍽️ Food Wastage Level Prediction"])
 
-if page == "📉 Food Shortage Prediction":
+if page == "🏠 Home":
+    st.header("🏠 Welcome to the Food Security Prediction Dashboard!")
+    st.write("""
+        This tool provides insights into **food shortages** and **food wastage levels** across different countries.
+        
+        🌱 **Food Shortage Prediction**: Predicts the probability of food shortages in a given country and year.  
+        🍽️ **Food Wastage Level Prediction**: Classifies food wastage levels from Very Low to Critical.  
+
+        Use the **sidebar** to select a prediction tool.""")  
+        
+elif page == "📉 Food Shortage Prediction":
     st.header('📉 Food Shortage Prediction')
     st.write('Select a country and year to predict the food shortage level.')
     
