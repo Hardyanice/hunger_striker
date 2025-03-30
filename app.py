@@ -20,7 +20,7 @@ scaler = StandardScaler()
 
 # Load the classified labels for LDA
 y_wastage = pd.read_csv('Waste classified data')
-y_wastage = y_wastage.values.ravel()
+y_wastage = y_wastage.iloc[1::2].values.ravel()
 
 # Apply Standard Scaling to the entire dataset
 X_scaled = scaler.fit_transform(df.drop(columns=['Country', 'Year'], errors='ignore'))
