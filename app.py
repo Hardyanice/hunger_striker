@@ -5,7 +5,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
 
 # Load the trained models
-shortage_model = joblib.load('shortage_model.pkl')
+shortage_model = joblib.load('model.pkl')
 wastage_model = joblib.load('svm_model.pkl')
 
 # Extract expected feature names from the shortage model
