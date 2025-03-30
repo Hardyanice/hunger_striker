@@ -9,7 +9,7 @@ shortage_model = joblib.load('shortage_model.pkl')
 wastage_model = joblib.load('svm_model.pkl')
 
 # Extract expected feature names from the shortage model
-shortage_features = shortage_model.feature_names_in_
+shortage_features = model.feature_names_in_
 
 # Load the dataset
 df = pd.read_csv('Prediction Data')
