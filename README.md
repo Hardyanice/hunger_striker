@@ -12,7 +12,7 @@ Understanding the purpose of each file:
 
  **2. Analysis_model_food_insecurity.ipynb and Analysis_model_foodwaste_indicator.ipynb :** These ipynb files show us the analysis including Data preprocessing, EDA, and comaprison of different model fits on the "Merged_data" and "Food wastage data" respectively.
 
-**3. Prediction Data.csv, Waste classified data.csv and Waste prediction data.csv :**  "Prediction Data" is the final training data for the food insecurity model and, "Waste classified data" and "Waste prediction data" are the datasets including the explanatory variables and study variable for the food waste indicator model.
+**3. Prediction Data.csv, Waste classified data.csv and Waste prediction data.csv :**  "Prediction Data" is the final training data for the food insecurity model and, "Waste classified data" and "Waste prediction data" are the datasets including the  study variable and explanatory variables for the food waste indicator model.
 
 **4. Pretraining_model_food_insecurity.ipynb and Pretraining_model_foodwaste_indicator.ipynb :** These ipynb files include the final training for the models which have been use for predicting "Food insecurity" and "Food wastage indicator" respectively.
 
