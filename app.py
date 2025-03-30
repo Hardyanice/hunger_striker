@@ -33,7 +33,7 @@ y_wastage = y_wastage.iloc[1::2].values.ravel()
 page = st.sidebar.selectbox("Choose Predictor", ["Home","Food Shortage Prediction", "Food Wastage Level Prediction"])
 
 if page == "Home":
-    st.header("🏠 Welcome to the Food Security Prediction Dashboard!")
+    st.header("🏠 Welcome to the Hunger Striker!")
     st.write("""
         This tool provides insights into **food shortages** and **food wastage levels** across different countries.
         
