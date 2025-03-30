@@ -27,7 +27,11 @@ X_scaled = scaler.fit_transform(df.drop(columns=['Country', 'Year'], errors='ign
 
 # Apply LDA transformation
 lda = LinearDiscriminantAnalysis(n_components=2)
-X_lda = lda.fit_transform(X_scaled, y_wastage)
+if X_scaled.shape[0] == y_wastage.shape[0]:
+    X_lda = lda.fit_transform(X_scaled, y_wastage)
+else:
+    raise ValueError(f"Mismatch: X_scaled has {X_scaled.shape[0]} rows, but y_wastage has {y_wastage.shape[0]} rows")
+
 
 # Mapping for food wastage levels
 wastage_mapping = {0: 'Very Low', 1: 'Low', 2: 'Medium', 3: 'High', 4: 'Critical'}
