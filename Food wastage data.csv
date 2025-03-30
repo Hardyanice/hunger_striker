@@ -1,0 +1,2137 @@
+Country,Year,Food Category,Total Waste (Tons),Economic Loss (Million $),Avg Waste per Capita (Kg),Population (Million),Household Waste (%),Valid
+France,2023,Fruits & Vegetables,46299.69,40551.22,120.19,953.05,31.91,Keep
+France,2023,Beverages,33096.57,36980.82,104.74,1105.47,36.06,Keep
+India,2024,Fruits & Vegetables,11962.89,11196.04,136.21,1311.91,37.09,Keep
+Germany,2024,Prepared Food,45038.72,39191.25,179.27,1349.45,68.93,Keep
+South Africa,2024,Frozen Food,39478.7,40087.26,155.55,375.84,31.16,Keep
+USA,2024,Beverages,22924.85,22406.24,89.59,836.05,45.43,Keep
+India,2023,Meat & Seafood,33403.26,39125.38,137.6,1299.21,36.55,Keep
+Italy,2023,Fruits & Vegetables,30875.29,31341.6,198.26,349.04,52.64,Keep
+Saudi Arabia,2024,Prepared Food,33085.77,28923.13,37.71,552.45,38.96,Keep
+Indonesia,2024,Frozen Food,26812.66,28028.3,57,891.66,48.81,Keep
+South Korea,2023,Frozen Food,29848.3,27362.18,47.82,1131.8,49.97,Keep
+Brazil,2024,Grains & Cereals,39420.56,34541.01,65.63,513.73,56.49,Keep
+Brazil,2024,Prepared Food,37292.94,35268.41,80.6,619.76,57,Keep
+Japan,2023,Bakery Items,40398.07,48103.94,177.95,367.79,32.26,Keep
+China,2024,Frozen Food,11766.79,11890.12,21.26,84.69,37.22,Keep
+Italy,2024,Fruits & Vegetables,20238.65,18395.86,22.64,467.6,50.9,Keep
+UK,2023,Grains & Cereals,23609.83,25520.57,152.21,272.87,66.14,Keep
+South Korea,2024,Grains & Cereals,38427.68,31258.66,92.89,952.23,40.69,Keep
+Germany,2023,Bakery Items,33550.41,32946.48,193.85,1333.3,55.02,Keep
+UK,2023,Meat & Seafood,30022.09,24487.08,92.64,1278.03,54.63,Keep
+Canada,2024,Frozen Food,29007.66,28622.38,34.53,1327.02,56.87,Keep
+Italy,2023,Dairy Products,46189.14,42351.8,150.95,253.83,33.01,Keep
+Saudi Arabia,2024,Fruits & Vegetables,1104.56,1300.14,134.77,906.42,37.85,Keep
+Turkey,2024,Frozen Food,49640.44,43002.21,147.97,1199.99,66.46,Keep
+Germany,2024,Fruits & Vegetables,26111.99,21589.27,168.69,1172.25,50.31,Keep
+Saudi Arabia,2023,Dairy Products,12894.18,13051.48,160.37,418.74,46.87,Keep
+Germany,2023,Prepared Food,46296.01,45513.35,53.07,754.61,34.16,Keep
+Indonesia,2023,Prepared Food,35998.11,32227.85,69.8,672.05,48.3,Keep
+India,2024,Bakery Items,19940.67,16685,69.49,1246.79,54.64,Keep
+India,2024,Beverages,25894.46,23584.07,85.66,1317.81,64.46,Keep
+Japan,2024,Grains & Cereals,6206.67,5227.1,109.03,1303.51,63.17,Keep
+UK,2023,Prepared Food,6158.59,5344.53,52.96,271.03,39.15,Keep
+France,2023,Prepared Food,45216.87,53291.62,199.27,1258.49,66.59,Keep
+UK,2023,Beverages,37270.62,43998.68,148.18,459.9,41.16,Keep
+Indonesia,2024,Meat & Seafood,41624.99,42883.64,88.01,674.31,45.05,Keep
+Italy,2023,Beverages,11714.16,10116,103.42,918.9,31.39,Keep
+Australia,2023,Beverages,3628.5,4199.04,100.92,654.55,59.03,Keep
+Brazil,2023,Bakery Items,30854.25,28373.57,115.04,747.57,51.99,Keep
+Italy,2024,Meat & Seafood,46852.8,55386.73,139.02,24.51,62.87,Keep
+Japan,2023,Fruits & Vegetables,2192.54,2459.51,181.4,705.89,58.22,Keep
+Argentina,2023,Frozen Food,27521.46,25452.38,176.44,1116.1,50.88,Keep
+USA,2024,Prepared Food,35924.32,30004.9,192.56,1109.32,42.27,Keep
+Spain,2024,Meat & Seafood,33791.28,31479.67,65.9,219.46,30.43,Keep
+Indonesia,2023,Meat & Seafood,48216.19,51593.84,151.14,353.04,56.75,Keep
+France,2024,Frozen Food,1314.06,1332.64,128.69,1082.83,40.81,Keep
+Saudi Arabia,2024,Prepared Food,37050.71,38365.47,196.14,116.66,67.64,Keep
+Brazil,2023,Prepared Food,16972.96,14320.65,99.26,165.4,34.47,Keep
+Spain,2023,Dairy Products,13937.28,15512.11,108.3,27.87,40.63,Keep
+Japan,2024,Dairy Products,47567.09,46165.99,94.32,32.61,65.82,Keep
+South Africa,2024,Fruits & Vegetables,16963.98,19065.76,193.04,1268.4,35.61,Keep
+Indonesia,2024,Frozen Food,3567.42,3713.77,51.71,255.85,57.8,Keep
+India,2023,Meat & Seafood,43446.92,47096.44,35.45,16.15,54.82,Keep
+Australia,2023,Bakery Items,35899.52,36123.81,127.57,503.69,64.55,Keep
+China,2024,Dairy Products,41094.36,42324.94,81.2,760.09,61.26,Keep
+Saudi Arabia,2023,Prepared Food,31798.5,27380.38,45.11,462.38,31.35,Keep
+Turkey,2023,Frozen Food,6743.26,6479.62,55.33,1118.23,44.54,Keep
+Spain,2023,Beverages,46787.67,50857,53.42,663.44,69.02,Keep
+Argentina,2024,Fruits & Vegetables,34377.5,29795.03,119.44,790.96,30.6,Keep
+Turkey,2023,Bakery Items,23215.07,23317.07,195.51,669.66,35.83,Keep
+UK,2023,Bakery Items,8030.17,7356.13,76.42,454.39,50.03,Keep
+France,2024,Bakery Items,3959.24,4269.63,107.29,987.09,33.89,Keep
+Saudi Arabia,2024,Meat & Seafood,7049.17,7695.97,136.52,643.09,41.24,Keep
+South Korea,2024,Dairy Products,5058.24,4824.18,144.75,1382.05,63.4,Keep
+Japan,2024,Beverages,40854.18,40444.58,68.81,47.02,49.97,Keep
+Indonesia,2023,Beverages,32931.8,37000.2,24.98,358.18,44.08,Keep
+South Africa,2024,Grains & Cereals,23137.63,27294.6,173.68,808.33,34.76,Keep
+Italy,2023,Fruits & Vegetables,31130.27,36622.71,139.05,415.19,60.61,Keep
+Canada,2024,Meat & Seafood,6167.66,6479.29,165.44,1190.31,62.48,Keep
+France,2023,Grains & Cereals,42544.59,39659.69,97.09,58.21,65.41,Keep
+France,2023,Bakery Items,15275.97,13016.74,39.68,640.22,60.68,Keep
+France,2023,Dairy Products,16869.71,14181.75,157.22,874.04,37.1,Keep
+Brazil,2023,Meat & Seafood,21397.48,18490.31,177.98,956.45,45.71,Keep
+Spain,2023,Frozen Food,9716.22,10604.28,149.42,963.75,41.6,Keep
+China,2024,Frozen Food,30243.94,26197.12,171.54,863.36,45.77,Keep
+Germany,2023,Beverages,35643.89,41185.44,65.93,1062.33,32.18,Keep
+South Korea,2023,Fruits & Vegetables,41482.57,46333.09,121.92,244.71,61.46,Keep
+China,2024,Fruits & Vegetables,31630.65,36217.51,181.08,270.32,56.04,Keep
+South Korea,2024,Dairy Products,7654.24,8374.5,40.54,850.74,60.9,Keep
+South Korea,2023,Frozen Food,38328.79,41982.15,32.63,785.91,57.74,Keep
+Indonesia,2024,Dairy Products,42665.84,50088.64,158.69,661.13,47.57,Keep
+India,2023,Beverages,41053.02,45487.65,157.25,886.32,57.9,Keep
+Spain,2024,Fruits & Vegetables,47975.09,57145.29,197.07,1192.25,37.85,Keep
+Italy,2023,Grains & Cereals,49823.95,57142.48,59.49,1028.07,64.88,Keep
+China,2023,Frozen Food,47358.87,41016.65,172.4,829.62,34.05,Keep
+UK,2024,Dairy Products,47696.15,42730.6,29.76,1149.91,35.22,Keep
+Argentina,2024,Fruits & Vegetables,27091.6,29279.15,138.61,1150.97,46.48,Keep
+Saudi Arabia,2023,Frozen Food,16959.33,16228.69,62.9,515.74,58.05,Keep
+Brazil,2024,Frozen Food,31823.4,32839.68,82.47,1080.81,57.03,Keep
+South Korea,2024,Prepared Food,12463.29,14521.65,110.45,1200.44,64.35,Keep
+France,2023,Grains & Cereals,13851.18,11430.7,119.26,1157.56,52.12,Keep
+USA,2024,Meat & Seafood,13285.19,14486.71,82.34,310.96,40.72,Keep
+Canada,2024,Fruits & Vegetables,28461.83,24132.13,86.06,1246.6,56.4,Keep
+Mexico,2024,Prepared Food,32998.71,31325.02,49.89,868.78,59.66,Keep
+France,2024,Fruits & Vegetables,39609.6,33231.19,64.46,855.57,46.09,Keep
+Saudi Arabia,2023,Meat & Seafood,27318.34,25841.38,35.52,339.53,57.15,Keep
+Russia,2023,Meat & Seafood,37886.84,41860.68,129.59,657.36,31.69,Keep
+Indonesia,2024,Bakery Items,2225.09,1836.76,104.14,1157.3,62.86,Keep
+France,2024,Dairy Products,10300.52,11104.21,62.1,1315.28,49.86,Keep
+USA,2024,Prepared Food,9272.98,10324.97,182.31,675.39,46.24,Keep
+Turkey,2024,Grains & Cereals,10668.1,9622.69,102.58,737.64,58.15,Keep
+Argentina,2023,Grains & Cereals,8416.1,6929.97,126.12,830.43,66.51,Keep
+Italy,2023,Bakery Items,5158.83,5533.23,187.33,954.11,51.57,Keep
+USA,2024,Dairy Products,2512.68,2273.25,183.28,820.54,67.48,Keep
+Spain,2023,Bakery Items,26866.42,29648.63,171.62,1242.59,65.29,Keep
+Canada,2023,Frozen Food,10961.77,12576.03,176.8,977.68,32.32,Keep
+Russia,2024,Meat & Seafood,7620.64,8232.41,175.09,1322.56,61.92,Keep
+Japan,2023,Beverages,36013.66,34055.43,28.84,1218.87,45.61,Keep
+Canada,2023,Grains & Cereals,42828.76,44223.92,108.41,1372.05,39.46,Keep
+Canada,2024,Dairy Products,47299.18,47088.76,69.3,1087.99,50.75,Keep
+Italy,2024,Bakery Items,13588.97,12125.32,192.19,430.73,38.93,Keep
+India,2024,Bakery Items,42905.2,43781.19,147.07,866.71,33.3,Keep
+France,2023,Bakery Items,24942.52,22397.14,156.77,791.47,31.11,Keep
+UK,2024,Grains & Cereals,38667.49,32165.91,104.41,759.94,41.99,Keep
+UK,2023,Meat & Seafood,20556.93,17089.99,48.42,1128.96,35.93,Keep
+Canada,2023,Prepared Food,32521.12,32543.38,136.11,754.46,58.45,Keep
+Mexico,2023,Bakery Items,41431.57,41218.18,87.76,644.84,46.69,Keep
+Russia,2023,Fruits & Vegetables,33865.11,38931.11,113.98,353.68,49.73,Keep
+Indonesia,2023,Dairy Products,3191.57,3288.83,59.33,841.8,34.68,Keep
+Japan,2023,Meat & Seafood,7153.42,7576.53,161.84,773.92,68.05,Keep
+Spain,2023,Dairy Products,19324.44,22476.63,132.93,131.5,32.01,Keep
+Mexico,2023,Meat & Seafood,515.3,467.63,78.96,70.77,56.56,Keep
+South Africa,2024,Dairy Products,42244.94,47489.87,110.12,909.79,47.89,Keep
+USA,2023,Bakery Items,37466.65,37017.5,42.3,575.13,53.65,Keep
+Turkey,2024,Fruits & Vegetables,25477.84,26272.99,143.08,432.71,55.54,Keep
+USA,2024,Beverages,38466.65,45817.07,134.68,901.1,40.37,Keep
+Spain,2023,Meat & Seafood,11862.67,10071.38,136.18,1384.63,40.99,Keep
+Indonesia,2023,Fruits & Vegetables,11877.33,9911.33,164.78,269.03,61.79,Keep
+Indonesia,2023,Bakery Items,22177.05,19044.94,106.83,1124.13,62.86,Keep
+France,2023,Grains & Cereals,17060.48,15970.34,182.68,97.29,69.69,Keep
+France,2024,Grains & Cereals,4646.46,5532.06,31.12,350.61,54.91,Keep
+South Korea,2024,Bakery Items,7710.62,8555.34,82.11,38.08,31.74,Keep
+Russia,2024,Fruits & Vegetables,43629.68,40012.99,20.87,787.2,43.97,Keep
+Indonesia,2023,Frozen Food,37589.73,35781.77,79.67,1203.93,34.59,Keep
+USA,2023,Meat & Seafood,4220.33,4951.63,37.86,290.17,54.36,Keep
+UK,2024,Beverages,28113.02,22698.02,108.53,191.39,32.73,Keep
+Russia,2024,Fruits & Vegetables,32749.78,35677.31,130.84,574.11,57.17,Keep
+Russia,2024,Grains & Cereals,46372.26,48183.74,181.94,453.34,45.24,Keep
+South Africa,2023,Beverages,8389.64,7379.73,155.47,1172.12,56.23,Keep
+Argentina,2023,Fruits & Vegetables,40294.06,35993.26,157.24,620.35,67.19,Keep
+Italy,2023,Frozen Food,40851.8,40926.25,47.25,1080.35,33.56,Keep
+Brazil,2023,Grains & Cereals,14249.66,14160.14,77.06,639.32,47.96,Keep
+Brazil,2023,Dairy Products,32010.17,35709.12,64.25,1231.62,53.26,Keep
+South Korea,2023,Frozen Food,4159.18,4790.84,46.69,1251.98,31.27,Keep
+UK,2023,Prepared Food,13538.84,13488.94,118.35,1357.24,59.54,Keep
+Australia,2024,Dairy Products,7143.71,7952.53,27.61,88.75,54.41,Keep
+South Africa,2023,Frozen Food,24038.76,22319.98,63.27,1189.87,49.05,Keep
+UK,2024,Frozen Food,3044.54,3598.9,177.55,1285.61,40.26,Keep
+South Africa,2023,Bakery Items,4162.13,3946.3,97.69,739.64,50.14,Keep
+South Korea,2023,Dairy Products,41189.15,40978.8,104.1,323.72,46.78,Keep
+India,2023,Frozen Food,11292.96,12418.68,191.13,690.74,61.75,Keep
+Saudi Arabia,2024,Meat & Seafood,6791.87,5504.78,191.39,72.75,62.61,Keep
+Argentina,2023,Beverages,7329.99,7119.51,27.24,774.64,49.72,Keep
+Spain,2023,Beverages,43508.87,38666.55,70.84,1354.06,60.11,Keep
+Spain,2024,Frozen Food,14042.05,13913.87,159.81,671.9,58.43,Keep
+Australia,2023,Frozen Food,45075.81,49946.6,98.29,918.86,50.72,Keep
+Australia,2023,Dairy Products,37062.88,34362.98,36.36,1205.59,37.88,Keep
+Japan,2023,Fruits & Vegetables,23699.63,24189.61,70.28,1303.1,49.77,Keep
+Canada,2024,Beverages,13936.71,13293.1,31.23,548.69,57.03,Keep
+Germany,2024,Fruits & Vegetables,9448.44,9574.78,136.95,395.09,36.7,Keep
+Turkey,2023,Beverages,27838.3,22942.91,107.53,768.74,49.26,Keep
+Spain,2024,Meat & Seafood,32261.02,30056.23,37.22,1061.95,42.26,Keep
+Turkey,2023,Prepared Food,29270.96,28088.74,53.89,194.08,44.06,Keep
+Brazil,2023,Meat & Seafood,30627.2,32844.64,191.73,453.18,50.42,Keep
+Argentina,2024,Dairy Products,24562.19,22556.23,163.15,799.37,33.17,Keep
+UK,2024,Fruits & Vegetables,13311.78,15226.26,49.49,93.63,39.37,Keep
+South Korea,2024,Prepared Food,11274.34,9453.84,162.85,898.82,49.86,Keep
+Brazil,2023,Grains & Cereals,31856.68,28869.02,185.37,820.56,38.64,Keep
+India,2023,Beverages,35046.88,28836.4,61.06,877.75,32.48,Keep
+Japan,2023,Dairy Products,34738.28,27945.72,133.57,126.33,57.38,Keep
+Germany,2024,Beverages,32804.56,27648.66,199.49,832.19,44.46,Keep
+India,2023,Beverages,29511.37,26246.42,29.4,55.16,44.16,Keep
+Germany,2024,Dairy Products,7521.02,6162.1,125.48,811.53,47.85,Keep
+Turkey,2024,Frozen Food,1034.78,918.78,144.59,1097.06,40.69,Keep
+Italy,2023,Grains & Cereals,22878.01,18853.74,96.88,731.86,60.9,Keep
+UK,2024,Frozen Food,39984.13,38330.43,165.75,849.12,45.39,Keep
+India,2024,Beverages,14354.36,15921.53,83.92,777.68,34.24,Keep
+South Africa,2023,Dairy Products,8999.88,8655.15,196.23,1269.93,46.42,Keep
+South Africa,2024,Prepared Food,44823.94,52763.9,103.61,227.69,54.66,Keep
+India,2024,Fruits & Vegetables,3826.59,3414.23,167.08,1380.53,32.44,Keep
+Turkey,2024,Fruits & Vegetables,32314.45,34638.56,25.06,1144.69,50.94,Keep
+Saudi Arabia,2024,Grains & Cereals,14124.13,12918.47,198.89,800.59,37.68,Keep
+UK,2024,Beverages,42759.18,42036.89,117.14,483.78,48.8,Keep
+Brazil,2023,Frozen Food,30809.52,29577.54,165.09,1303.11,59.56,Keep
+Indonesia,2024,Fruits & Vegetables,40420.06,41377.71,148.52,1078.09,66.05,Keep
+China,2024,Meat & Seafood,21595.8,20770.57,187.58,363.04,38.62,Keep
+South Korea,2023,Beverages,7828.63,6513.48,174.68,1393.99,33.43,Keep
+Australia,2023,Prepared Food,13625.18,13845.11,128.26,12.22,69.8,Keep
+Mexico,2024,Meat & Seafood,816.85,717.12,108.96,916.84,32.48,Keep
+South Korea,2023,Prepared Food,14451.64,12964.99,197.13,1209.09,32.37,Keep
+India,2024,Beverages,9530.67,11364.44,155.78,61.85,32.93,Keep
+Argentina,2024,Meat & Seafood,1831.93,1767.05,77.49,549.05,59.9,Keep
+Mexico,2023,Bakery Items,45674.14,49013,39.91,403.69,34.85,Keep
+Australia,2024,Bakery Items,10846.97,10032.31,45.76,1099.76,53.1,Keep
+Mexico,2023,Prepared Food,14473.2,12874.04,112.53,113.44,48.44,Keep
+France,2023,Frozen Food,20381.9,20085.37,51.3,654.89,46.68,Keep
+China,2024,Meat & Seafood,23632.77,22368.76,83.34,39.28,62.62,Keep
+South Africa,2023,Beverages,17647.73,18779.23,121.14,958.1,60.62,Keep
+Germany,2024,Frozen Food,26229.04,24689.61,152.53,361.3,50.82,Keep
+France,2023,Frozen Food,692.3,823.34,177.65,175.57,36.82,Keep
+Canada,2024,Meat & Seafood,31935.65,27163.23,121.64,776.33,43.24,Keep
+Saudi Arabia,2024,Bakery Items,47562.85,55737.39,165.18,85.26,43.58,Keep
+Germany,2023,Frozen Food,20660.74,19312.94,111.07,765.49,64.81,Keep
+Argentina,2024,Dairy Products,29583.53,33481.65,45.69,1063.91,61.92,Keep
+Russia,2023,Grains & Cereals,36095.48,43115.74,37.43,899.35,34.95,Keep
+South Africa,2023,Meat & Seafood,19445.22,19020.37,73.58,1319.94,31.32,Keep
+Germany,2024,Dairy Products,14674.52,14947.46,133.02,744.1,52.74,Keep
+Mexico,2024,Dairy Products,23080.87,20864.58,81.56,581.19,59.94,Keep
+Brazil,2023,Grains & Cereals,13744.82,14829.62,184.28,877.75,62.38,Keep
+Argentina,2024,Fruits & Vegetables,48462.45,49443.65,71.76,1061.38,39.67,Keep
+Turkey,2023,Frozen Food,43576.62,43775.85,131.91,583.8,45.93,Keep
+Indonesia,2024,Meat & Seafood,8838.53,8867.16,107.69,1064.13,49.5,Keep
+Turkey,2023,Prepared Food,9879.96,10722.25,95.61,452.07,44.95,Keep
+Canada,2024,Prepared Food,37542.25,32066.37,156.09,135.95,45.03,Keep
+France,2024,Fruits & Vegetables,31099.34,29441.29,79.2,984.27,44.93,Keep
+USA,2023,Fruits & Vegetables,2475.43,2330.35,49.42,911.06,34.29,Keep
+Brazil,2023,Prepared Food,48522.23,44276.44,171.9,1123.89,46.34,Keep
+China,2023,Prepared Food,10738.97,8613.14,162.96,987.99,68.57,Keep
+Italy,2024,Prepared Food,49164.98,56638.77,185.73,662.41,38.8,Keep
+Mexico,2024,Fruits & Vegetables,46577.19,54740.16,138.28,1022.88,41.48,Keep
+Mexico,2023,Fruits & Vegetables,41515.29,42488.1,185.66,62.21,47.39,Keep
+Russia,2024,Frozen Food,8352.67,9536.98,27.32,1063.02,31.35,Keep
+Mexico,2024,Bakery Items,5740.16,6006.83,105.41,1257.32,69.8,Keep
+Italy,2023,Bakery Items,15102.01,16515.17,182.79,547.22,64.59,Keep
+Russia,2023,Meat & Seafood,9594.9,8635.68,89.41,1318.44,60.51,Keep
+Turkey,2024,Meat & Seafood,44122.03,37487.87,81.04,552.7,31.65,Keep
+Brazil,2024,Bakery Items,49284.51,52917.99,116.39,83.06,40.09,Keep
+Indonesia,2023,Fruits & Vegetables,20585.97,21867.46,197.18,1151.35,64.32,Keep
+Spain,2024,Beverages,38566.47,31631.59,172.43,858.26,37.56,Keep
+USA,2024,Grains & Cereals,26806.05,24067.04,92.95,776.13,65.27,Keep
+Indonesia,2024,Beverages,16338.96,13830.73,167.76,1250.52,38.71,Keep
+USA,2024,Frozen Food,9827.45,9747.39,53.24,574.88,36.69,Keep
+Germany,2024,Prepared Food,11296.78,11830.97,21.64,645.44,48.2,Keep
+South Africa,2024,Fruits & Vegetables,45682.04,39117.34,42.62,404.16,32.21,Keep
+Germany,2024,Meat & Seafood,38470.33,43779.81,119.22,337.73,31.69,Keep
+Turkey,2024,Beverages,28825.21,30502.34,107.12,537.79,54.1,Keep
+Saudi Arabia,2023,Meat & Seafood,47231.97,53421.64,109.68,1275.11,64.23,Keep
+Turkey,2023,Dairy Products,22963.66,24723.96,105.7,1265.02,30.8,Keep
+South Korea,2023,Beverages,27610.31,27250.78,141.58,444.92,48.76,Keep
+Italy,2024,Fruits & Vegetables,25148.53,26580.93,96.84,1373.75,61.78,Keep
+UK,2024,Meat & Seafood,4897.73,3924.03,164.04,1066.56,38.14,Keep
+France,2023,Fruits & Vegetables,42584.45,34687.74,190.89,671.16,66.02,Keep
+India,2023,Prepared Food,12889.02,12044.44,25.54,920.02,34.98,Keep
+Argentina,2023,Meat & Seafood,12996.1,10791.47,176.69,1219.29,32,Keep
+Germany,2023,Dairy Products,39640.67,45257.9,172.04,884.85,44.74,Keep
+Spain,2024,Bakery Items,40774.51,40166.64,170.8,418.7,31.65,Keep
+Italy,2024,Prepared Food,17805.95,14344.08,98.43,737.86,59.02,Keep
+UK,2024,Fruits & Vegetables,1770.01,1586.6,124.12,465.5,36.5,Keep
+China,2024,Frozen Food,44571.72,38799.41,64.52,265.2,36.46,Keep
+Germany,2023,Dairy Products,34265.32,31824.29,36.36,85.99,57.52,Keep
+South Africa,2024,Dairy Products,37272.33,36169.5,164.31,221.67,64.28,Keep
+India,2023,Prepared Food,22824.99,21668.59,69.44,965.14,62.27,Keep
+Germany,2023,Fruits & Vegetables,11793.7,14057.41,186.27,1086.43,60.27,Keep
+South Korea,2024,Frozen Food,44274.37,48037.82,93.24,635.66,43.19,Keep
+UK,2024,Beverages,28410.76,27734.23,139.37,581.96,59.77,Keep
+Indonesia,2023,Bakery Items,46548.17,38763.17,78.95,21.75,65.04,Keep
+Germany,2023,Prepared Food,15781.53,15316.49,87.81,1354.7,41.74,Keep
+South Korea,2024,Grains & Cereals,45096.37,36342.17,142.82,663.2,42.1,Keep
+India,2023,Beverages,36185.23,35302.89,54.87,1187.7,69.36,Keep
+Turkey,2023,Dairy Products,49901.29,58558.02,140.66,772.79,37.36,Keep
+Saudi Arabia,2023,Frozen Food,24337.9,28971.13,180.03,1116.72,55.66,Keep
+South Africa,2023,Frozen Food,43003.8,37348.25,116.74,711.68,54.9,Keep
+China,2024,Dairy Products,41378.19,49135.69,129.79,304.39,34.31,Keep
+Mexico,2023,Dairy Products,3279.54,2827.11,136.78,1203.45,51.79,Keep
+South Africa,2024,Meat & Seafood,27306.53,29348.47,170.03,1050.27,69.87,Keep
+China,2023,Bakery Items,38641.38,34253.48,174.9,305.32,67.81,Keep
+Mexico,2023,Dairy Products,6420.44,6483.5,58.89,806.78,49.29,Keep
+Mexico,2023,Prepared Food,1194.85,1136.47,177.31,530.85,38.71,Keep
+Saudi Arabia,2024,Dairy Products,20831.11,23262.24,24.05,736.89,46.48,Keep
+India,2024,Prepared Food,19680.23,23231.43,48.72,1379.67,50.77,Keep
+Brazil,2024,Bakery Items,3712.67,3865.38,29.77,1288.16,61.34,Keep
+South Africa,2024,Dairy Products,15408.5,13885.66,170.36,650.01,40.99,Keep
+Japan,2023,Grains & Cereals,6480.74,5694.1,25.66,479.48,42.73,Keep
+Germany,2024,Fruits & Vegetables,6620.95,7772.36,71.95,707.73,45.88,Keep
+Brazil,2024,Frozen Food,29138.47,29241.06,119.04,562.3,45.59,Keep
+Italy,2023,Prepared Food,10434.59,10683.6,47.91,77.19,61.28,Keep
+Italy,2024,Prepared Food,19679.93,17477.72,194.07,318.35,48.81,Keep
+Spain,2024,Meat & Seafood,24233.58,23642.65,152.56,439.75,32.11,Keep
+Saudi Arabia,2024,Meat & Seafood,1431.67,1583.08,164.46,715.16,46.57,Keep
+Germany,2024,Grains & Cereals,31978.88,28163.85,40.76,958.48,59.34,Keep
+Brazil,2024,Grains & Cereals,46528.85,37983.77,95.75,1113.76,44.13,Keep
+Russia,2024,Meat & Seafood,14892.13,13964.05,60.85,835.15,63.38,Keep
+Japan,2024,Prepared Food,42632.27,34780.26,34.82,88.86,58.32,Keep
+Brazil,2024,Grains & Cereals,4554.03,4992.48,27.3,1104.7,45.99,Keep
+Italy,2023,Bakery Items,35870.23,36198.08,165.96,538.36,37.73,Keep
+Brazil,2023,Meat & Seafood,42648.4,45802.88,113.25,913.45,32.22,Keep
+South Africa,2023,Beverages,20008.2,18401.35,169.33,84.58,51.57,Keep
+Argentina,2023,Bakery Items,40238.94,44387.84,119.8,289.05,57.56,Keep
+Spain,2024,Prepared Food,17664.69,17838.92,93.64,1029.06,58.23,Keep
+Spain,2024,Beverages,41075.85,43800,104.1,1221.33,44.81,Keep
+Italy,2024,Dairy Products,1115.3,1284.47,90.67,912.65,61.24,Keep
+USA,2024,Beverages,28584.45,28500.76,171.68,1002.04,43.86,Keep
+Germany,2023,Prepared Food,18111.13,20384.84,153.77,244.66,49.65,Keep
+South Africa,2024,Bakery Items,31998.09,25693.59,196.25,309.62,30.87,Keep
+Argentina,2024,Prepared Food,13074.51,14667.3,110.13,549.63,63.09,Keep
+UK,2023,Prepared Food,21672.82,24875.84,98.25,192.75,35.49,Keep
+Brazil,2023,Meat & Seafood,41472.17,35977.69,151.85,615,42.41,Keep
+UK,2024,Meat & Seafood,17844.4,14300.73,77.12,1234.5,42.94,Keep
+Argentina,2024,Fruits & Vegetables,37037.13,37620.57,26.79,101.88,41.65,Keep
+Indonesia,2023,Fruits & Vegetables,21279.19,22604.89,160.58,362.46,34.14,Keep
+Japan,2024,Beverages,35367.51,35898.89,47.67,686.95,35.4,Keep
+UK,2023,Dairy Products,20877.01,22489.55,83.03,786.66,30.15,Keep
+Japan,2023,Prepared Food,44053.48,44075.72,33.34,1388.68,61.32,Keep
+Spain,2024,Meat & Seafood,18123.51,20935.21,44.6,556.72,30.86,Keep
+France,2024,Frozen Food,33109.85,39031.62,164.41,1151.56,64.99,Keep
+Indonesia,2024,Fruits & Vegetables,38628.78,39024.03,79.19,1067.24,62.7,Keep
+USA,2023,Bakery Items,39056.25,37705.58,156.16,338.01,32.47,Keep
+Brazil,2024,Grains & Cereals,27207.95,27249.53,151.93,153.87,43.24,Keep
+Spain,2023,Dairy Products,45066.36,43571.49,198.87,376.17,64.61,Keep
+Argentina,2024,Beverages,23393.96,24355.11,109.23,108.6,69.81,Keep
+Indonesia,2024,Frozen Food,15863.75,14755.62,94.25,898.18,55.75,Keep
+South Africa,2024,Grains & Cereals,44128.03,42983.4,50.66,992.53,61.83,Keep
+Brazil,2023,Grains & Cereals,47791.81,47489.1,62.64,721.89,34.17,Keep
+South Africa,2024,Bakery Items,15262.77,14992.95,190.44,1284.1,47.19,Keep
+Russia,2024,Meat & Seafood,45746.48,52728.75,75.63,311.69,50.13,Keep
+South Africa,2023,Bakery Items,24515.74,28891.78,150.78,514.75,56.84,Keep
+Turkey,2023,Dairy Products,9784.34,10088.25,43.8,201.24,42.26,Keep
+Australia,2024,Prepared Food,43312.69,36537.57,125,275.28,44.99,Keep
+Indonesia,2024,Grains & Cereals,20707.63,22686.73,165.69,1269.47,39.46,Keep
+Saudi Arabia,2023,Prepared Food,3605.46,4044.41,45.06,485.01,45.71,Keep
+Brazil,2024,Prepared Food,29820.2,30839.88,93.78,76.33,59.04,Keep
+Spain,2023,Beverages,12867.49,11675.71,143.76,1362.94,30.38,Keep
+India,2024,Prepared Food,35856.35,42291.85,177.24,989.02,45.6,Keep
+Indonesia,2023,Beverages,37381.05,43622.57,28.71,607,51.34,Keep
+Italy,2023,Dairy Products,28851.4,25076.78,73.23,689.37,41.97,Keep
+India,2024,Prepared Food,11614.12,9959.1,75.21,1290.53,55.98,Keep
+China,2024,Prepared Food,12738.75,11551.29,132.52,807.33,61.92,Keep
+South Korea,2024,Bakery Items,24536.44,24892.3,147.49,305.21,54.25,Keep
+Mexico,2023,Grains & Cereals,47074.42,50848.46,128.51,124.8,64.75,Keep
+Spain,2023,Prepared Food,47691.12,42560.6,97.16,476.43,39.74,Keep
+Spain,2024,Beverages,11463.72,10968.53,40.79,727.11,50.16,Keep
+Japan,2023,Dairy Products,47354.14,37996.01,103.25,350.58,50,Keep
+Brazil,2023,Prepared Food,49231.61,45743.9,43.04,971.47,39.59,Keep
+USA,2024,Prepared Food,28293.2,27917.29,136.94,1276.82,57.11,Keep
+Germany,2023,Beverages,29574.47,34769.68,136.65,495.08,51.01,Keep
+Germany,2023,Beverages,6355.69,6599.21,37.45,821.11,30.92,Keep
+Germany,2024,Fruits & Vegetables,38728.72,35494.63,160.46,160.58,62.81,Keep
+Germany,2024,Frozen Food,3513.33,4052.67,133.87,363.3,54.85,Keep
+Canada,2023,Bakery Items,48403.15,54948.5,175.17,160.14,36.3,Keep
+France,2024,Prepared Food,11808.79,9716.69,26.98,929.6,47.29,Keep
+Spain,2024,Frozen Food,43174.51,44863.41,106.07,1045.29,66.83,Keep
+Canada,2024,Frozen Food,29213.17,32840.66,196.08,720.28,61.88,Keep
+Russia,2023,Fruits & Vegetables,30114.14,35677.05,48.9,609.87,49.16,Keep
+China,2024,Bakery Items,45901.37,45831.98,85.68,1026.24,49.64,Keep
+Saudi Arabia,2023,Bakery Items,40840.5,38524.82,141.79,1368.67,41.5,Keep
+Brazil,2023,Prepared Food,18777.45,20043.85,126.6,744.7,41.41,Keep
+Italy,2023,Meat & Seafood,26903.69,24908.69,35.1,623.3,41.26,Keep
+Argentina,2023,Prepared Food,12372.33,12415.82,138.17,1138.27,52.01,Keep
+South Africa,2024,Prepared Food,17657.47,18438.18,75.73,276.64,47.82,Keep
+Indonesia,2023,Fruits & Vegetables,18031.41,19215.43,85.46,365.47,36.96,Keep
+Spain,2023,Bakery Items,5790.86,5547.58,28.85,1214.86,45.32,Keep
+France,2023,Bakery Items,44497.57,46476.28,172.75,247.47,57,Keep
+South Korea,2024,Prepared Food,30053.52,34959.69,133.09,1193.69,57.82,Keep
+USA,2024,Prepared Food,4538.11,4999.14,26.16,932.89,61.71,Keep
+Indonesia,2024,Frozen Food,27988.79,32506.92,60.95,543.37,56.63,Keep
+Argentina,2024,Bakery Items,46936.57,47407.6,87.18,1057.21,35.09,Keep
+Spain,2024,Fruits & Vegetables,2283.1,2654.6,116.93,344.81,49.01,Keep
+Japan,2024,Grains & Cereals,1899.36,2058.86,49.89,955.05,55.36,Keep
+Japan,2024,Meat & Seafood,37391.39,39782.84,133.13,732.21,42.74,Keep
+Germany,2024,Frozen Food,24319.52,28927.51,77.55,162.23,34.26,Keep
+Saudi Arabia,2023,Beverages,7137.78,8416.94,55.96,552.89,35.4,Keep
+South Africa,2023,Frozen Food,18189.87,16385.44,92.06,922.1,46.46,Keep
+South Korea,2024,Prepared Food,35706.01,31406.22,162.59,1276.55,56.51,Keep
+Canada,2023,Beverages,5754.93,4784.14,79.15,313.05,63.89,Keep
+Spain,2023,Frozen Food,13016.73,15553.12,92.19,746.25,40.14,Keep
+UK,2024,Frozen Food,20686.92,24116.77,84.96,894.16,46.65,Keep
+Argentina,2024,Prepared Food,22659.37,26691.89,78.15,1129.9,56.07,Keep
+South Korea,2023,Grains & Cereals,27421.17,22348.6,84.8,915.98,35.38,Keep
+Turkey,2024,Grains & Cereals,14393.52,12636.77,189.58,407.1,31.49,Keep
+Canada,2023,Meat & Seafood,8175.92,8432.6,34.19,294.24,30.73,Keep
+Argentina,2023,Beverages,41797.93,40312.72,74.46,448.26,57.45,Keep
+Japan,2024,Frozen Food,28821.56,29584.17,152.78,1080.56,59.78,Keep
+Spain,2024,Prepared Food,12524.47,10671.38,180.96,1153.44,51.93,Keep
+Russia,2024,Fruits & Vegetables,563.82,483.7,87.46,936.48,53.48,Keep
+Mexico,2023,Frozen Food,24218.15,20941.25,143.37,1258.71,36.81,Keep
+Saudi Arabia,2024,Grains & Cereals,45925.08,47953.86,99.48,1383.18,60,Keep
+Brazil,2023,Meat & Seafood,15173.08,12308.37,130.24,878.37,54.07,Keep
+India,2023,Frozen Food,44284.99,38861.06,51.28,908.33,55.69,Keep
+South Korea,2024,Beverages,16128.56,14838.72,75.31,106.57,56.83,Keep
+India,2023,Beverages,23087.01,27030.78,78.16,424.13,54.91,Keep
+Saudi Arabia,2024,Bakery Items,19816.91,22843.49,22.03,1125.39,60.82,Keep
+Russia,2024,Fruits & Vegetables,48862.19,39240.6,182.57,1164.68,53.72,Keep
+USA,2024,Frozen Food,36454.83,36970.89,92.61,1282.4,42.42,Keep
+Germany,2024,Frozen Food,33695.26,38272.43,152.54,1396.52,68.04,Keep
+UK,2023,Frozen Food,40742.24,41870.59,130.91,269.85,32.64,Keep
+Saudi Arabia,2023,Bakery Items,48092.85,49579.36,177.78,902.87,51.75,Keep
+Canada,2023,Dairy Products,3006.19,3128.94,192.61,989.04,49.17,Keep
+Mexico,2023,Fruits & Vegetables,7025.55,5854.36,154.08,633.21,60.45,Keep
+Spain,2024,Frozen Food,38121.7,40311.64,198.79,604.01,68.25,Keep
+UK,2023,Frozen Food,43341.18,50022.11,134.44,845.7,35.4,Keep
+Mexico,2023,Dairy Products,17959.47,17095.59,196.54,286.94,56.39,Keep
+Italy,2024,Bakery Items,30882.6,27595.88,97.22,250.83,56.52,Keep
+Mexico,2023,Bakery Items,47661.94,40313.2,147.01,173.82,57.07,Keep
+France,2024,Prepared Food,41760.67,39426.82,176.93,681.6,56.6,Keep
+Australia,2024,Bakery Items,45135.33,41771.59,173.04,1306.91,38.21,Keep
+France,2024,Dairy Products,46191.21,42204.85,88.13,1011.99,58.09,Keep
+Russia,2024,Grains & Cereals,26250.32,25541.43,116.24,536.73,42.45,Keep
+Italy,2023,Bakery Items,30733.72,33769.58,120.73,1189.92,61.7,Keep
+Canada,2024,Meat & Seafood,4882.01,4313.83,180.47,1137.07,43.28,Keep
+China,2023,Beverages,48055.47,55114.24,187.57,499.69,63.2,Keep
+China,2023,Meat & Seafood,8890.9,9996.09,151.08,523.31,58.67,Keep
+UK,2024,Bakery Items,6558.35,5615.49,57.99,1049.71,56.6,Keep
+Italy,2023,Dairy Products,37860.05,41876.1,27.72,631.05,65.08,Keep
+Canada,2023,Grains & Cereals,15877.32,17233.58,84.86,46.27,33.7,Keep
+USA,2024,Frozen Food,6575.91,6249.36,118.44,635.65,63.01,Keep
+Russia,2023,Beverages,28516.52,26477.35,110.39,1151.44,43.3,Keep
+South Korea,2024,Beverages,2971.47,3030.6,39.05,352.07,45.35,Keep
+South Africa,2023,Beverages,24558.37,28500.24,140.45,576.19,58.53,Keep
+South Africa,2024,Prepared Food,13227.42,14726.89,179.67,16.93,41.71,Keep
+China,2023,Meat & Seafood,19338.41,20365.97,190.1,424.67,31.52,Keep
+Russia,2023,Grains & Cereals,1207.37,1390.41,128.87,1061.17,67.48,Keep
+Italy,2024,Fruits & Vegetables,2474.83,2663.13,91.22,1382.17,58.15,Keep
+Russia,2023,Meat & Seafood,4618.68,5138.08,69.78,280.37,53.06,Keep
+India,2023,Beverages,1634.45,1960.97,71.68,23.17,54.52,Keep
+France,2023,Beverages,45126.17,49357.92,156.41,1162.42,33.92,Keep
+Spain,2024,Prepared Food,1732.31,1610.76,195.49,684.97,66.98,Keep
+Indonesia,2024,Dairy Products,18682.94,16863.27,69.9,1362.25,67.05,Keep
+UK,2024,Bakery Items,46857.01,53113.51,114.12,518.64,36.55,Keep
+China,2023,Prepared Food,4611.94,4929.34,41.21,53.58,58.18,Keep
+Indonesia,2023,Prepared Food,49816.86,41239.85,134.88,1382.02,67.85,Keep
+Turkey,2024,Prepared Food,11404.52,11204.75,75.84,326.42,34.57,Keep
+South Korea,2023,Prepared Food,1498.6,1441.45,179.65,79.16,62.74,Keep
+France,2024,Fruits & Vegetables,24659.88,23758.67,62.68,1397.01,59.92,Keep
+France,2023,Bakery Items,13901.18,11299.59,64.06,21.9,66.77,Keep
+Italy,2024,Beverages,7032.21,8297.39,196.12,603.96,57.14,Keep
+Italy,2024,Fruits & Vegetables,8065.54,9121.86,33.12,292.34,65.14,Keep
+Russia,2023,Fruits & Vegetables,28458.05,32053.14,111.9,1023.31,43.09,Keep
+Japan,2024,Prepared Food,7236.25,5985.85,112.63,41.66,37.49,Keep
+Saudi Arabia,2024,Fruits & Vegetables,35483.41,33462.87,188.4,802.52,31.58,Keep
+South Africa,2024,Bakery Items,34795.8,36643.27,90.7,922.21,67.29,Keep
+Australia,2023,Fruits & Vegetables,13010.89,13474.49,187.25,466.68,53.45,Keep
+South Korea,2024,Dairy Products,17681.37,18549.68,141.22,402.52,46.95,Keep
+China,2023,Meat & Seafood,32497.32,33166.68,155.52,99.24,44.86,Keep
+Russia,2023,Meat & Seafood,22245.81,24544.51,153.27,1030.64,32.55,Keep
+Turkey,2023,Beverages,4747.33,5287.71,117.05,264.62,59.6,Keep
+Japan,2023,Meat & Seafood,27099.72,28239.68,155.83,20.78,40.5,Keep
+Saudi Arabia,2024,Bakery Items,39581.84,41930.82,104.09,342.77,36.49,Keep
+USA,2023,Frozen Food,41112.98,38944.29,125.91,1118.7,48.87,Keep
+Australia,2023,Fruits & Vegetables,34771.88,39746.31,108.15,531.36,53.2,Keep
+Saudi Arabia,2023,Grains & Cereals,44376.96,38365.99,126.78,1395.67,33.04,Keep
+Japan,2024,Prepared Food,26996.77,22247.24,141.2,195.3,63.68,Keep
+Argentina,2023,Frozen Food,39575.31,33679.46,156.9,820.08,58.06,Keep
+South Korea,2024,Frozen Food,44477.01,51554.51,135.69,634.67,47.85,Keep
+Russia,2024,Prepared Food,19136.57,15632.33,36.34,726.02,60.73,Keep
+Saudi Arabia,2024,Dairy Products,10346.33,8873.46,178.04,174.47,46.91,Keep
+Mexico,2024,Fruits & Vegetables,11663.37,9373.54,27.2,1132.72,47.42,Keep
+Russia,2023,Grains & Cereals,47754.5,43538.98,84.26,724.99,57.5,Keep
+Mexico,2024,Dairy Products,46335.1,44293.66,68.29,878.73,66.64,Keep
+Australia,2023,Fruits & Vegetables,32008.19,37944.81,96.91,293.21,40.81,Keep
+South Korea,2023,Beverages,26692.28,27029.96,35.13,830.67,55.57,Keep
+Saudi Arabia,2024,Beverages,38673.18,34473.09,190.61,803.85,44.24,Keep
+Spain,2024,Dairy Products,21328.53,21673.87,56.09,365.74,50.62,Keep
+USA,2024,Bakery Items,37219.35,38057.65,186.06,904.55,62.48,Keep
+South Korea,2023,Beverages,12317.88,10632.5,186.06,993.41,42.45,Keep
+Brazil,2023,Fruits & Vegetables,19516.89,16728.23,118.66,299.23,30.85,Keep
+Brazil,2024,Grains & Cereals,39730.33,32152.11,99.6,1232.91,54.37,Keep
+Brazil,2023,Frozen Food,28256.65,26235.52,76.73,294.5,54.39,Keep
+Italy,2024,Fruits & Vegetables,40628.72,32673.05,122.42,982.85,31,Keep
+Indonesia,2023,Bakery Items,32291.89,28109.53,128.13,647.42,40.17,Keep
+South Africa,2023,Grains & Cereals,18519.25,19892.46,69.69,800.92,56.28,Keep
+Italy,2024,Fruits & Vegetables,11568.58,13468.51,137.79,417.49,37.65,Keep
+Australia,2024,Beverages,47042.59,46315.24,170.85,273.42,56.22,Keep
+Canada,2024,Dairy Products,28578.74,30720.54,21.53,1288.55,43.81,Keep
+Italy,2024,Dairy Products,33143.48,27390.55,198.88,1229.88,64.08,Keep
+Russia,2024,Meat & Seafood,3571.28,4051.43,197.55,220.99,56.09,Keep
+Canada,2023,Grains & Cereals,23410.02,20912.79,58.78,1350.89,58.11,Keep
+Germany,2023,Dairy Products,32805.49,27652.9,187.31,858.85,48.83,Keep
+Russia,2024,Dairy Products,22720.68,21947.26,79.97,858.05,66.92,Keep
+Italy,2023,Prepared Food,45865.38,47164.59,42.96,194.31,49.63,Keep
+Brazil,2024,Meat & Seafood,16537.53,18897.13,168.59,866.61,63.31,Keep
+Turkey,2023,Prepared Food,36370.28,42376.5,42.69,513.06,56.74,Keep
+Canada,2023,Fruits & Vegetables,3328.11,3896.18,103.8,1341.94,57.66,Keep
+Brazil,2023,Dairy Products,41514.19,37913.97,58.18,1182.06,63.16,Keep
+Russia,2023,Bakery Items,44961.18,40280.46,56.72,593.33,67.19,Keep
+Italy,2024,Bakery Items,17376.06,17601.38,91.5,1323.92,36.82,Keep
+Italy,2023,Prepared Food,33813.66,37518.62,183.18,283.27,41.38,Keep
+UK,2024,Grains & Cereals,5527.56,6587.05,33.26,1194.06,62.01,Keep
+Mexico,2023,Frozen Food,32919.76,39313.15,124.41,379.92,51.61,Keep
+China,2024,Prepared Food,30618.56,34281.61,21.66,1015.92,43.26,Keep
+Russia,2023,Grains & Cereals,9845.39,9764.39,59.4,876.16,45.66,Keep
+Indonesia,2024,Fruits & Vegetables,32844.67,35654.28,114.02,762.99,64.8,Keep
+Indonesia,2023,Fruits & Vegetables,1518.82,1441.51,53.56,430.12,49.45,Keep
+South Africa,2024,Bakery Items,40131.85,40786.47,78.6,1385.86,58.46,Keep
+Canada,2023,Prepared Food,15799.66,15339,87.49,887.33,35.11,Keep
+South Africa,2023,Grains & Cereals,20766.05,22909.68,33.99,973.73,39.52,Keep
+South Africa,2023,Grains & Cereals,22756.14,19733.92,140.48,965.39,35.42,Keep
+UK,2023,Grains & Cereals,5717.85,5416.86,83.75,1334.57,69.95,Keep
+Australia,2024,Frozen Food,26748.08,27086.57,67.2,598.69,46.57,Keep
+South Korea,2023,Beverages,37904.41,42959,161.82,157.75,68.93,Keep
+Indonesia,2023,Grains & Cereals,33312.33,35144.44,96.49,1035.22,40.92,Keep
+Germany,2023,Prepared Food,35051.75,30279.11,117.21,37.35,34.26,Keep
+South Africa,2024,Grains & Cereals,1107.72,1306.42,120.16,282.2,54.34,Keep
+India,2024,Meat & Seafood,49234.79,57327.57,150.79,90.32,62.46,Keep
+Spain,2023,Bakery Items,3663.49,4005.62,179.17,799.08,61.17,Keep
+China,2024,Grains & Cereals,8868.1,9640.64,107.74,668.52,54.3,Keep
+Saudi Arabia,2024,Frozen Food,33168.18,39427.5,160.48,749.4,45.93,Keep
+USA,2024,Bakery Items,14150.56,13191.58,188.36,1066.05,64.5,Keep
+Argentina,2024,Prepared Food,33975.04,38624.05,165.13,124.39,32.92,Keep
+Japan,2024,Bakery Items,35661.32,31712.14,168.58,1097.42,33.92,Keep
+China,2023,Beverages,23310.77,27804.91,111.3,1075.49,49.71,Keep
+Turkey,2023,Beverages,26154.24,23605.36,97.74,952.86,61.6,Keep
+Saudi Arabia,2024,Fruits & Vegetables,33000.57,27199.3,47.58,967.79,63.97,Keep
+USA,2024,Bakery Items,28585.83,31170.26,82.82,560.49,38.67,Keep
+Argentina,2023,Grains & Cereals,25283.83,27769.57,164.1,174.2,47.45,Keep
+Australia,2023,Prepared Food,15560.43,17229.01,33.94,135.85,61.85,Keep
+Saudi Arabia,2024,Prepared Food,27017.13,29962.85,128.51,444.85,55.7,Keep
+Germany,2024,Meat & Seafood,10328.38,9680.69,113.97,113.64,50.43,Keep
+South Korea,2023,Meat & Seafood,1381.98,1215.77,183.86,1064.29,41.61,Keep
+Japan,2023,Bakery Items,31658.12,25907.78,182.21,466.22,69.25,Keep
+India,2023,Bakery Items,32311.01,26850.99,22.03,245.47,52.84,Keep
+China,2024,Frozen Food,36041.71,41442.24,172.55,309.4,58.45,Keep
+Italy,2024,Meat & Seafood,34178.23,27478.34,105.28,993.67,33.85,Keep
+USA,2023,Dairy Products,44920.38,36015.96,58.26,320.81,32.69,Keep
+Turkey,2024,Prepared Food,34201.89,39119.8,24.43,888.89,31.99,Keep
+Indonesia,2023,Bakery Items,1712.49,2031.46,101.2,878.61,54.97,Keep
+Turkey,2023,Beverages,47671.19,44285.41,34.27,333.53,38.82,Keep
+France,2024,Beverages,7967.52,9053.55,78.26,1089.85,55.08,Keep
+China,2023,Grains & Cereals,41850.06,43474.2,66.45,216.97,42.47,Keep
+Australia,2024,Prepared Food,37434.92,42099.74,41.77,620.77,36.97,Keep
+South Africa,2024,Meat & Seafood,13361.44,12970.16,27.01,609.6,31.72,Keep
+China,2023,Bakery Items,842.5,947.94,123.55,1097,33.03,Keep
+UK,2024,Dairy Products,38171.54,38081.43,140.05,340.75,41.56,Keep
+Italy,2024,Frozen Food,43166.14,42762.22,90.23,721.96,45.47,Keep
+Germany,2023,Dairy Products,12295.52,12498.26,158.68,1210.98,69.08,Keep
+Mexico,2024,Grains & Cereals,32745.8,29929.73,113.34,222.23,38.08,Keep
+Turkey,2024,Meat & Seafood,45030.47,41196.59,92.94,1119.04,56.87,Keep
+Italy,2023,Grains & Cereals,49737.09,57141.36,48.65,291.33,63.28,Keep
+UK,2024,Prepared Food,44233.62,48960.11,41.35,454.89,54.46,Keep
+Japan,2023,Prepared Food,29950.37,29371.74,80.39,1337.46,32.64,Keep
+Australia,2023,Bakery Items,13151.02,12029.98,192.59,682.76,50.71,Keep
+Canada,2023,Grains & Cereals,48793.72,49727.43,83.06,557.59,38.67,Keep
+Russia,2023,Bakery Items,42578.56,47128.22,110.62,343.53,31.41,Keep
+South Africa,2023,Prepared Food,32124.53,30188.52,27.19,1275.71,62.15,Keep
+Germany,2023,Frozen Food,40808.56,36086.34,52.59,833.59,53.29,Keep
+Mexico,2024,Prepared Food,47536.2,46886.22,84.49,376.19,57.53,Keep
+China,2024,Meat & Seafood,12728.31,12115.94,55.08,760.37,38.63,Keep
+Turkey,2023,Fruits & Vegetables,23351.45,19223.95,94.34,771.32,46.08,Keep
+Argentina,2024,Dairy Products,31029.16,29166.87,146.09,184.15,44.95,Keep
+China,2024,Beverages,43886.44,39205.98,51.59,1135.3,31.61,Keep
+Saudi Arabia,2023,Frozen Food,13448.93,11774.96,99.43,250.36,68.27,Keep
+UK,2023,Prepared Food,40338.02,32405.22,42.45,153.05,69.49,Keep
+Germany,2023,Beverages,10440.31,9644.16,84.2,1143.59,49.7,Keep
+Canada,2024,Grains & Cereals,39155.04,32634.58,151.69,610.65,38.28,Keep
+France,2024,Dairy Products,45066.06,49348.46,145.63,1298.84,47.08,Keep
+South Korea,2023,Bakery Items,7353.5,6107.4,166.22,123.76,32.85,Keep
+China,2023,Frozen Food,31398.56,35945.1,29.25,627.03,36.15,Keep
+South Africa,2024,Bakery Items,33519.8,36757.81,161.69,276.08,56.4,Keep
+Indonesia,2024,Dairy Products,26014.74,22046.11,139.72,30.95,64.94,Keep
+USA,2023,Dairy Products,38649.18,31579.18,56.11,814.16,60.69,Keep
+Russia,2023,Prepared Food,19438.29,22652.07,86.85,865.23,36.73,Keep
+Canada,2024,Grains & Cereals,21004.82,16927.09,109.2,840.09,39.94,Keep
+India,2023,Dairy Products,47035.68,52552.41,43.53,187.69,46.27,Keep
+Australia,2024,Grains & Cereals,30731.56,35981.04,185.96,986.66,41.94,Keep
+Spain,2024,Dairy Products,14592.73,14443.07,76.33,752.73,55.75,Keep
+Brazil,2024,Dairy Products,28942.01,26738.86,47.05,879.48,55.25,Keep
+USA,2023,Frozen Food,8312.01,7442.82,106.56,929.78,47.64,Keep
+India,2024,Fruits & Vegetables,12090.15,10281.78,193.08,1288.65,68.67,Keep
+Indonesia,2024,Beverages,41578.83,37298.89,136.07,901.48,58.37,Keep
+Turkey,2024,Fruits & Vegetables,36283.83,41217.28,56.31,729,62.54,Keep
+USA,2024,Meat & Seafood,15071.26,16957.71,146.47,254.85,49.46,Keep
+Russia,2023,Bakery Items,28659.64,33469.89,43.48,448.9,38.2,Keep
+Turkey,2023,Frozen Food,22853.53,19743.52,118.02,1219.84,48.11,Keep
+Russia,2024,Meat & Seafood,42576.12,36608.89,122.1,232.32,49.14,Keep
+Germany,2024,Grains & Cereals,9932.43,8383.34,120.27,908.01,43.93,Keep
+Saudi Arabia,2024,Fruits & Vegetables,6032.18,6151.26,112.3,1332.45,52.37,Keep
+South Korea,2023,Frozen Food,39730.81,44325.47,163.16,61.71,46.91,Keep
+India,2023,Fruits & Vegetables,20208.42,19286.57,182.45,1016.39,48.33,Keep
+South Africa,2023,Frozen Food,22382.54,23012.5,57.26,1333.93,42.26,Keep
+Turkey,2023,Meat & Seafood,23202.62,25711.18,108.2,58.44,30.02,Keep
+Saudi Arabia,2024,Frozen Food,41603.87,33990.35,192.64,744.29,32.44,Keep
+USA,2024,Dairy Products,32272.29,26747.69,159.76,1197.26,44.98,Keep
+Germany,2024,Bakery Items,34146.15,38664.02,72.19,504.22,55.84,Keep
+UK,2023,Prepared Food,6901.13,7359.68,135.48,229.89,36.8,Keep
+Canada,2023,Bakery Items,37560.08,30645.7,120.84,516.13,44.2,Keep
+Saudi Arabia,2023,Dairy Products,2544.13,2929.07,117.33,302.85,51.96,Keep
+Germany,2023,Meat & Seafood,5914.08,5072.79,113.07,899.36,33.87,Keep
+Saudi Arabia,2023,Beverages,4282.13,4826.13,35.54,749.21,59.35,Keep
+Turkey,2023,Dairy Products,45027.58,46548.39,174.97,383.44,45.99,Keep
+Brazil,2023,Dairy Products,9633.28,8830.22,68.34,834.84,61.75,Keep
+Brazil,2024,Beverages,46556.75,42942.59,135.63,263.77,51.01,Keep
+Turkey,2023,Meat & Seafood,46136,45904.35,160.68,974.32,41.4,Keep
+China,2024,Fruits & Vegetables,10124.3,8979.47,181.05,613.93,44.56,Keep
+Canada,2024,Bakery Items,10290.86,11048.84,81.46,1276.02,39.57,Keep
+Brazil,2024,Meat & Seafood,15462.15,15203.97,79.32,349.84,36.14,Keep
+Spain,2023,Frozen Food,5575.76,5997.71,168.26,920.7,42.2,Keep
+Germany,2024,Fruits & Vegetables,16313.98,13151.48,117.37,857.42,65.39,Keep
+China,2023,Beverages,6962.05,7390.53,113.45,453.29,66.12,Keep
+South Africa,2024,Prepared Food,34323.78,29914.05,90.8,802.77,64.26,Keep
+South Korea,2023,Beverages,7317,6147.99,37.85,285.31,38.59,Keep
+South Korea,2023,Bakery Items,36457.7,35507.75,156.06,822.5,42.21,Keep
+Argentina,2023,Frozen Food,1401.65,1589.87,100.81,715.88,36.45,Keep
+Germany,2023,Dairy Products,9224.55,10662.32,194.63,1325.1,66.16,Keep
+Saudi Arabia,2023,Frozen Food,28636.48,28091.86,46.01,287.34,57.16,Keep
+UK,2024,Frozen Food,30576.71,28635.98,130.77,606.2,69.26,Keep
+Spain,2023,Fruits & Vegetables,9824.63,10166.38,170.95,95.48,65.78,Keep
+South Africa,2023,Bakery Items,37209.84,40772.12,113.06,270.27,30.78,Keep
+Japan,2023,Fruits & Vegetables,44872.35,47160.34,181.13,472.4,39.23,Keep
+Italy,2023,Dairy Products,33351.71,31582.14,115.37,1235.16,48.63,Keep
+UK,2023,Grains & Cereals,1265.6,1137.41,153.28,1143.34,63.32,Keep
+Italy,2023,Grains & Cereals,42611.76,38701.72,125.01,215.56,41.39,Keep
+Japan,2024,Frozen Food,12384.55,14688.14,89.78,1211.37,42.82,Keep
+Brazil,2023,Meat & Seafood,37229.3,40593.28,99.41,720.92,58.29,Keep
+UK,2023,Prepared Food,49712.54,56999.64,96.74,257.65,48.86,Keep
+Australia,2024,Prepared Food,25740.38,23155.14,20.8,563.68,62.64,Keep
+Germany,2023,Fruits & Vegetables,24960.18,29567.69,63.59,113.95,42.9,Keep
+Indonesia,2024,Dairy Products,25986.24,26731.26,88.34,893.18,46.04,Keep
+Australia,2023,Dairy Products,26547.08,23261.13,174.71,1142.1,62.1,Keep
+Italy,2023,Meat & Seafood,43906.35,45589.86,43.27,339.69,48.85,Keep
+South Africa,2024,Meat & Seafood,515.22,585.58,57.61,217.64,63.02,Keep
+Indonesia,2023,Prepared Food,44160.14,36660.14,66.5,455.52,67.87,Keep
+France,2023,Frozen Food,44567.04,40658.54,79.75,1131.86,57.96,Keep
+Spain,2024,Bakery Items,21022.29,23137.14,97.09,374.62,64.55,Keep
+India,2023,Fruits & Vegetables,39158.17,31840.85,31.95,457.26,59.23,Keep
+Spain,2023,Grains & Cereals,10239.45,9673.78,176.18,1042.88,44.43,Keep
+Mexico,2023,Fruits & Vegetables,38729.38,35954.47,174.94,565.14,41.28,Keep
+Australia,2023,Bakery Items,47579.06,45990.76,140.14,892.05,32.55,Keep
+Turkey,2024,Grains & Cereals,19593.47,18976.55,89.08,334.55,39.33,Keep
+France,2023,Dairy Products,46175.25,44497.24,106.95,1298.51,33.72,Keep
+Mexico,2023,Prepared Food,42915.38,37429.73,26.55,1202.98,46.84,Keep
+Italy,2024,Meat & Seafood,47405.16,51124.55,107.4,882.89,35.94,Keep
+Turkey,2024,Grains & Cereals,30900.63,28588.22,136.07,1387.48,33.5,Keep
+Canada,2024,Fruits & Vegetables,20440.62,20123.5,195.15,139.24,33.39,Keep
+Indonesia,2023,Dairy Products,31465.08,36586.91,124.43,295.86,65.71,Keep
+Australia,2023,Dairy Products,22957.97,22260.35,151.78,1177.05,59.7,Keep
+Saudi Arabia,2023,Bakery Items,19071.25,16117.06,101.98,627.98,58.09,Keep
+India,2023,Dairy Products,19935.2,16517.49,65.71,422.08,61.08,Keep
+USA,2024,Prepared Food,9805.62,10171.56,28.74,204.11,58.95,Keep
+Japan,2024,Beverages,28349.59,30062.85,38.75,498.19,58.5,Keep
+Saudi Arabia,2023,Beverages,20022.07,18355.89,174.56,607.7,63.33,Keep
+Saudi Arabia,2023,Frozen Food,1410.3,1386.31,129.18,1199.88,64.73,Keep
+Indonesia,2024,Beverages,34860.29,30988.4,32.18,935.91,69.99,Keep
+Spain,2023,Prepared Food,23587.98,23027.08,53.12,562.52,45.51,Keep
+Canada,2024,Bakery Items,11448.82,13665.84,176.83,287.98,48.15,Keep
+Germany,2024,Meat & Seafood,1025.25,841.87,64.02,871.3,38.56,Keep
+Indonesia,2024,Bakery Items,15180.87,17081.77,27.43,805.85,68.04,Keep
+Spain,2023,Beverages,19181.75,22185.26,93.97,568.08,66.83,Keep
+Saudi Arabia,2023,Frozen Food,17410.79,15757.23,132.34,830.5,64.33,Keep
+USA,2023,Grains & Cereals,6399.7,7049.6,61.54,850.42,63.4,Keep
+Argentina,2023,Frozen Food,24214.07,23528.51,90.26,1083.41,60.78,Keep
+South Africa,2024,Prepared Food,48708.21,56324.24,142.47,386.81,40.2,Keep
+South Korea,2023,Frozen Food,15533.74,16349.63,127.92,892.76,42.66,Keep
+Turkey,2024,Prepared Food,48558.23,52809.09,139.97,486.72,46.24,Keep
+UK,2023,Grains & Cereals,3294.79,3145.7,36.53,1157.07,54.24,Keep
+Argentina,2023,Fruits & Vegetables,31350.95,34430.63,167.05,15.95,58.55,Keep
+Turkey,2024,Grains & Cereals,31836.59,32047.25,123.61,734.36,49.83,Keep
+UK,2024,Grains & Cereals,38818.58,42081.85,66.88,1355.79,63.79,Keep
+China,2024,Prepared Food,5529.26,5661.64,190.12,372.58,36.96,Keep
+USA,2024,Fruits & Vegetables,22790.85,18513.51,104.57,382.3,58.65,Keep
+South Korea,2024,Meat & Seafood,18935.15,21548.3,168.02,212.16,41.64,Keep
+Canada,2023,Grains & Cereals,24204.54,20642.66,23.09,990.67,50.77,Keep
+Mexico,2024,Frozen Food,9773.83,10242.02,99.76,844.89,66.02,Keep
+Turkey,2024,Bakery Items,5740.99,5175.08,26.29,466.57,49.57,Keep
+Italy,2024,Fruits & Vegetables,39012.38,39009.82,97.73,150.37,43.72,Keep
+Germany,2023,Beverages,39163.83,36725.5,96.93,1354.12,45.77,Keep
+India,2024,Fruits & Vegetables,27293.62,22003.31,61.47,264.66,67.67,Keep
+Russia,2024,Beverages,12148.55,10214.13,68.7,1209.48,62.66,Keep
+Brazil,2024,Bakery Items,27987.95,24427.79,66.28,91.78,43.46,Keep
+Spain,2023,Meat & Seafood,5117.51,5392.38,44.55,521.32,50.14,Keep
+USA,2024,Frozen Food,14821.69,15577.51,141.58,541.52,36.38,Keep
+India,2024,Frozen Food,40414.19,42394.85,188.16,327.1,41.82,Keep
+Japan,2023,Dairy Products,21409.3,24661.22,159.22,1252.33,32.39,Keep
+Saudi Arabia,2023,Fruits & Vegetables,41572.87,49079.89,146.02,190.57,64.13,Keep
+Spain,2023,Beverages,35263.78,32027.17,114.62,772.03,33.78,Keep
+Saudi Arabia,2024,Dairy Products,13535.23,15210.86,185.76,490.98,65.92,Keep
+Turkey,2024,Prepared Food,36016.89,37081.95,86.78,774.29,44.86,Keep
+Japan,2023,Fruits & Vegetables,9837.02,11627.82,115.82,877.07,68.11,Keep
+UK,2024,Frozen Food,39780.81,36194.44,136.25,1372.46,58.15,Keep
+South Africa,2024,Beverages,24694.29,21980.41,123.96,292.27,35.35,Keep
+Indonesia,2024,Dairy Products,1618.65,1579.4,31.44,707.74,37.06,Keep
+South Korea,2024,Grains & Cereals,33870.28,33802.04,46.63,1124.04,33.43,Keep
+Mexico,2023,Meat & Seafood,13878.66,13795.11,165.73,355.82,63.51,Keep
+Germany,2024,Beverages,43681.35,39417.42,30.52,17.13,49.14,Keep
+USA,2023,Frozen Food,16518.26,18623.18,142.12,1266.48,68.68,Keep
+China,2024,Dairy Products,18058.32,19654.95,178.49,180.81,51.2,Keep
+Germany,2023,Fruits & Vegetables,47934.04,50098.02,34.45,164.08,56.89,Keep
+USA,2023,Frozen Food,21314.1,23935.46,163.08,482.21,62.02,Keep
+Brazil,2024,Dairy Products,4539.78,4398.12,153.06,729.47,66.11,Keep
+South Korea,2024,Bakery Items,935.82,926.19,149.58,848.45,53.24,Keep
+South Africa,2024,Frozen Food,2950.2,3293.61,53.62,221.09,61.88,Keep
+China,2023,Meat & Seafood,15959.71,14776.27,120.64,1363.66,51.99,Keep
+Italy,2024,Frozen Food,41621.75,42568.89,187.12,571.31,34.87,Keep
+Mexico,2023,Meat & Seafood,5096.32,6100.3,102.1,789.88,67.45,Keep
+Australia,2023,Beverages,30967.14,35080.79,25.27,1108.84,50.08,Keep
+USA,2023,Dairy Products,1350.66,1486.33,126.25,916.87,45.74,Keep
+India,2023,Grains & Cereals,2196.07,1810.24,25.67,169.53,35,Keep
+Italy,2023,Beverages,10984.97,13178.29,78.5,320.86,55.25,Keep
+USA,2024,Beverages,32046.76,37019.97,102.53,1308.16,33.08,Keep
+Japan,2023,Dairy Products,43696.87,35154.77,189.95,907.73,57.32,Keep
+Canada,2023,Prepared Food,30183.19,24591.72,115.97,695.44,51.22,Keep
+Turkey,2024,Prepared Food,21645.26,18587.6,57.84,1101.87,44.43,Keep
+Canada,2023,Meat & Seafood,24769.11,21827.22,114.9,1098.97,38.93,Keep
+Italy,2024,Prepared Food,8760.69,8508.18,58.15,1316.45,60.8,Keep
+Brazil,2023,Frozen Food,32324.65,34652.36,159.72,387.42,47.87,Keep
+Mexico,2023,Beverages,25781.28,22716.09,107.49,47.45,69.31,Keep
+Spain,2024,Fruits & Vegetables,8893.76,8935.25,178.61,345.33,38.67,Keep
+Mexico,2024,Beverages,5706.66,4808.6,56.84,1042.76,41.37,Keep
+Mexico,2024,Fruits & Vegetables,48049.54,43047.97,87,826.01,56.03,Keep
+Russia,2024,Bakery Items,32596.97,30241.12,146.23,1260.58,55.28,Keep
+Saudi Arabia,2023,Bakery Items,18948.39,17147.31,24.01,891.92,37.56,Keep
+China,2023,Bakery Items,42853.92,49497.73,130.67,1040.86,58.34,Keep
+Indonesia,2024,Grains & Cereals,26409.46,26058.98,169.86,895.54,47.06,Keep
+Russia,2023,Dairy Products,49908.97,54435.3,51.24,832.2,36.05,Keep
+Spain,2023,Beverages,24355.91,20283.73,108.7,37.42,31.8,Keep
+India,2024,Prepared Food,26860.61,23558.94,110.56,1277.08,40.86,Keep
+Mexico,2024,Grains & Cereals,2223.06,2636.22,22.35,128.99,68.1,Keep
+USA,2024,Dairy Products,30531.9,27222.3,66.79,18.09,53.13,Keep
+Germany,2023,Prepared Food,13477.56,14833.4,132.43,719.6,31.27,Keep
+Russia,2024,Bakery Items,43678.73,40983.77,176.71,326.24,34.11,Keep
+Spain,2024,Frozen Food,30509.11,31009.16,125.06,1285.88,32.4,Keep
+Italy,2023,Prepared Food,15981.86,19043.85,191.24,1338.38,42.45,Keep
+Germany,2023,Frozen Food,11184.15,12986.34,180.49,1154.18,65.9,Keep
+Japan,2023,Dairy Products,23379.09,20570.08,141.42,579.53,60.32,Keep
+Mexico,2024,Dairy Products,40124.91,33316.74,111.39,917.67,56.47,Keep
+Spain,2024,Prepared Food,33758.23,37398.9,81.66,115.74,57.86,Keep
+Argentina,2023,Prepared Food,42635.97,48447.86,33.33,339.7,34.39,Keep
+Spain,2023,Dairy Products,10056.39,10564.4,45.67,1079.49,66.18,Keep
+Turkey,2024,Beverages,4702.02,4546.38,199.36,373.62,60.38,Keep
+Japan,2024,Bakery Items,43213.81,35272.67,127.87,57.24,50.07,Keep
+France,2024,Dairy Products,36879.91,39028.57,32.11,425.66,44.35,Keep
+Spain,2023,Grains & Cereals,39658.68,38532.97,106.97,653.25,36.15,Keep
+Canada,2024,Prepared Food,48831.48,45814.1,184.3,240.7,34.59,Keep
+Brazil,2024,Grains & Cereals,12092.46,10878.27,74.15,359.17,44.27,Keep
+Turkey,2024,Fruits & Vegetables,30040.55,35060.51,70.12,851.52,61.42,Keep
+Indonesia,2024,Frozen Food,43684.35,50495.65,88.83,250.71,67.41,Keep
+USA,2024,Fruits & Vegetables,43881.4,35413.78,108.2,1097.25,57.1,Keep
+Turkey,2024,Bakery Items,32356.46,32169.71,153.32,743.25,35.49,Keep
+South Africa,2023,Fruits & Vegetables,27944.44,23988.32,188.25,620.77,31.72,Keep
+Canada,2023,Fruits & Vegetables,44552.68,51187.91,45.36,281.25,33.74,Keep
+Australia,2024,Beverages,15627.62,13532.11,56.23,1002.43,36.9,Keep
+South Africa,2023,Fruits & Vegetables,23761.59,22926.52,90.49,726.35,44.46,Keep
+Russia,2024,Bakery Items,49583.39,41007.19,160.65,411.06,50.94,Keep
+China,2024,Dairy Products,38492.62,35957.74,140.84,562.97,35,Keep
+India,2023,Bakery Items,16867.17,15111.95,47.19,1024.52,59.32,Keep
+Argentina,2024,Frozen Food,18555.14,19320.52,170.77,609.14,49.21,Keep
+Indonesia,2023,Prepared Food,13408.63,13556.12,127.34,556.13,59.11,Keep
+China,2024,Beverages,39979.18,45547.1,57.75,615.36,59.99,Keep
+Turkey,2024,Prepared Food,25805.54,20723.45,116.33,230.13,42.7,Keep
+Turkey,2024,Grains & Cereals,4939.41,4710.95,44.83,943.5,60.5,Keep
+Italy,2023,Frozen Food,1833.6,2054.64,64.53,1210.24,57.23,Keep
+South Korea,2024,Beverages,6142.25,6736.91,191.9,598.62,37.55,Keep
+Italy,2023,Grains & Cereals,4160.38,4534.82,35.85,1361.06,47.91,Keep
+Italy,2024,Prepared Food,18217.73,16015.02,155.48,105.41,57.31,Keep
+Brazil,2023,Meat & Seafood,2797.59,2471.74,59.14,786.59,47.63,Keep
+Italy,2024,Meat & Seafood,30966.7,26421,84.97,333.78,48.28,Keep
+Brazil,2024,Dairy Products,11294.47,12771.33,96.39,1131.71,68.15,Keep
+Saudi Arabia,2024,Dairy Products,10844.82,11493.09,136.83,253.35,64.22,Keep
+Spain,2024,Grains & Cereals,39590.67,40289.66,91.65,211.41,51.45,Keep
+UK,2024,Fruits & Vegetables,25000.06,24375.61,63.9,1311.95,38.13,Keep
+France,2023,Bakery Items,19860.94,18002.13,197.47,1281.77,49.06,Keep
+France,2024,Fruits & Vegetables,10476.49,11197.17,129.51,543.05,38.77,Keep
+Australia,2023,Fruits & Vegetables,45663.39,52305.81,26.76,521.62,59.78,Keep
+Argentina,2023,Grains & Cereals,8411.76,8059.49,73.43,475.88,51.85,Keep
+Saudi Arabia,2024,Grains & Cereals,23330.7,24990.56,104.52,135.39,34.14,Keep
+Germany,2024,Frozen Food,33824.82,37275.06,151.76,608.36,41.68,Keep
+Indonesia,2024,Meat & Seafood,33443.55,26894.7,118.46,170.33,68.37,Keep
+Russia,2023,Prepared Food,40030.58,42681.97,62.25,1202.78,55.35,Keep
+Argentina,2024,Beverages,25338.81,28773.74,61.82,697.92,66.87,Keep
+USA,2023,Beverages,35957.36,41729.4,198.7,224.1,66.3,Keep
+China,2023,Frozen Food,34737.44,36898.57,156.25,347.41,36.67,Keep
+Brazil,2023,Meat & Seafood,832.45,735.25,98.17,718.86,43.76,Keep
+Australia,2024,Grains & Cereals,7890.78,9058.16,115.83,812.29,39.41,Keep
+Brazil,2024,Prepared Food,8845.75,8869.07,130.81,1133.91,35.45,Keep
+Saudi Arabia,2023,Bakery Items,46536.4,48535.68,153.28,820.64,50.26,Keep
+USA,2024,Grains & Cereals,17934.08,14468.9,165.23,743.25,65.68,Keep
+South Africa,2023,Fruits & Vegetables,47213.86,55320.76,20.09,996.68,66.23,Keep
+India,2024,Frozen Food,17773.96,14458.37,167.97,197.41,34.79,Keep
+Germany,2023,Prepared Food,9619.08,7756.08,34.24,76.2,37.21,Keep
+China,2023,Bakery Items,2853.19,2648.01,47.4,930.43,45.92,Keep
+Russia,2023,Beverages,1697.55,1700.03,159.52,66.77,62.6,Keep
+India,2024,Frozen Food,10539.7,9456.77,135.35,1013.08,59.43,Keep
+South Africa,2024,Beverages,35210.4,33667.68,125.58,487.37,63.92,Keep
+India,2024,Fruits & Vegetables,32340.21,31002.78,171.31,394.82,50.49,Keep
+Australia,2023,Bakery Items,45157,53564.49,115.23,812.87,33.9,Keep
+India,2024,Prepared Food,917.16,983.12,151.18,241.65,55.07,Keep
+Mexico,2024,Beverages,37067.86,41505.39,100.67,978.64,32.78,Keep
+South Africa,2023,Bakery Items,19958,17988.28,191.19,1167.48,30.29,Keep
+France,2023,Prepared Food,1329.78,1241.13,197.64,1122.05,37.02,Keep
+Italy,2023,Meat & Seafood,40075.57,42113.39,86.45,1316.48,35,Keep
+Saudi Arabia,2023,Fruits & Vegetables,7865.27,7212.47,41.79,1300.76,61.53,Keep
+Canada,2024,Meat & Seafood,30861.44,33051.89,51.45,1081.13,47.58,Keep
+Mexico,2024,Prepared Food,17666.7,18290.14,179.48,609.34,42.01,Keep
+Japan,2023,Meat & Seafood,22068.06,25370.79,125.75,1204.48,63.8,Keep
+South Korea,2024,Grains & Cereals,18182.49,17421.64,120.88,459.86,37.63,Keep
+France,2024,Bakery Items,33678.99,37845.96,182.7,1010.87,33,Keep
+Turkey,2023,Fruits & Vegetables,7728.67,6610.72,77.94,1000.73,59.21,Keep
+Indonesia,2024,Dairy Products,16939.91,16626.25,173.64,222.19,62.43,Keep
+Italy,2023,Beverages,44859.73,53743.68,126.17,611.76,34.67,Keep
+South Korea,2023,Meat & Seafood,39542.72,41554.81,30.7,1155.38,55.76,Keep
+Russia,2024,Frozen Food,2136.04,2213.57,24.64,1299.3,43.87,Keep
+Mexico,2024,Meat & Seafood,30474.95,34692.4,21.06,1315.27,61.48,Keep
+USA,2024,Bakery Items,28800.97,25638.14,116.79,574.23,46.81,Keep
+Argentina,2023,Beverages,17577.6,21040.48,173.11,258.5,39.16,Keep
+Mexico,2024,Prepared Food,44829.03,51182.3,105.46,188.33,36.05,Keep
+Russia,2023,Bakery Items,38587.95,36062.72,27.36,346.48,58.68,Keep
+USA,2023,Beverages,4411.22,4831.53,94.76,1142.37,39.86,Keep
+China,2023,Frozen Food,2117.79,2145.55,127.54,1034.96,45.75,Keep
+Germany,2023,Frozen Food,35756.15,38283.13,30.97,230.68,35.53,Keep
+Germany,2023,Prepared Food,20786.5,17814.84,142.72,106.31,41.81,Keep
+India,2023,Beverages,14758.58,13338.75,33.56,160.52,66.74,Keep
+Japan,2024,Grains & Cereals,19189.67,20150.25,156.62,1231.21,32.35,Keep
+Italy,2023,Grains & Cereals,2487.22,2017.79,112.9,1227.12,38.24,Keep
+Mexico,2023,Bakery Items,3960.36,4234.44,167.1,1089.64,64.66,Keep
+Turkey,2024,Prepared Food,8866.9,9119.73,128.34,352.17,60.37,Keep
+UK,2024,Dairy Products,36564.4,33677.47,64.34,992.44,60.63,Keep
+Russia,2023,Dairy Products,43481.64,40283.38,144.86,651.67,53.82,Keep
+South Africa,2024,Beverages,33624.81,30426.47,35.77,1198.18,59.59,Keep
+Indonesia,2023,Frozen Food,8867.9,7222.47,137.48,857.62,61.57,Keep
+Indonesia,2023,Bakery Items,18588.87,18061.9,25.23,1249.78,43.33,Keep
+Brazil,2023,Dairy Products,15200.39,16119.67,132.72,125.67,47.92,Keep
+Brazil,2024,Fruits & Vegetables,18787.07,15252.67,89.87,855.05,36.33,Keep
+Turkey,2023,Grains & Cereals,34994.12,40971.97,35.19,984.94,30.45,Keep
+Turkey,2024,Grains & Cereals,30355.8,35915.63,174.13,426.38,68.35,Keep
+Canada,2024,Frozen Food,20610.38,21082.9,109.55,668.71,61.27,Keep
+UK,2023,Frozen Food,2165.59,2074.38,111.62,1101.04,62.61,Keep
+Canada,2024,Dairy Products,44495.54,46433.4,146.32,306.97,63.58,Keep
+Japan,2023,Dairy Products,2180.53,1824.97,97.89,1396.11,67.39,Keep
+Saudi Arabia,2023,Dairy Products,42773.98,38199.7,165.69,435.98,30.31,Keep
+Spain,2024,Beverages,46527,54495.22,178.06,73.3,56.22,Keep
+UK,2023,Grains & Cereals,11067.52,12301.52,65.72,564.43,50.58,Keep
+Turkey,2024,Dairy Products,41860.32,43008.54,77.71,918.54,58.22,Keep
+Russia,2023,Beverages,8127.36,6730.21,21.22,481.47,44.69,Keep
+Indonesia,2024,Fruits & Vegetables,11770.28,10025.89,74.83,31.92,49.44,Keep
+Turkey,2023,Prepared Food,7476.49,7903.23,42.17,968.6,59.81,Keep
+Japan,2024,Frozen Food,43702.75,47876.05,130.6,569.47,44.84,Keep
+Turkey,2023,Beverages,36006.65,34868.11,186.3,18.6,62.31,Keep
+USA,2023,Fruits & Vegetables,28884.65,26367.11,172.06,1203.82,59.63,Keep
+Japan,2023,Grains & Cereals,41698,41346.57,108.68,1210.31,43.94,Keep
+Argentina,2024,Beverages,18433.58,16555.94,23.24,506.24,34.41,Keep
+Brazil,2024,Grains & Cereals,3817.6,3619.06,64.58,47.81,54.35,Keep
+Japan,2023,Frozen Food,8938.91,10254.62,55.76,101.15,36.33,Keep
+Saudi Arabia,2023,Beverages,29763.43,24929.14,113.06,789.98,54.73,Keep
+Indonesia,2023,Beverages,16345.31,17255.24,78.52,1331.88,44.28,Keep
+Australia,2024,Prepared Food,44030.37,39398.75,158.36,114.04,33.83,Keep
+Italy,2024,Prepared Food,4938.5,5830.95,115.81,986.02,58.81,Keep
+South Africa,2023,Bakery Items,21189.69,18966.1,27.27,268.98,67.19,Keep
+Saudi Arabia,2024,Meat & Seafood,751.55,823.84,71.55,929.16,64.7,Keep
+China,2024,Frozen Food,10652.69,9244.8,112.05,96.41,44.27,Keep
+Argentina,2024,Dairy Products,8610.42,9827.8,157.57,366.84,63.26,Keep
+Canada,2023,Fruits & Vegetables,13989.15,13444.84,162.74,840.78,60.99,Keep
+Germany,2023,Bakery Items,44697.08,45781.16,134.39,324.89,36.02,Keep
+Turkey,2023,Bakery Items,19131.17,15751.33,196.01,1328.66,62.45,Keep
+Saudi Arabia,2024,Meat & Seafood,2040.82,1756.33,147.04,815.25,38.84,Keep
+Mexico,2023,Prepared Food,35339.45,37949.35,29.39,598.35,36.17,Keep
+South Africa,2024,Dairy Products,32550.33,33202.71,105.86,508.83,34.61,Keep
+Germany,2023,Beverages,13552.15,11895.72,164.63,1135.79,56.47,Keep
+Canada,2024,Bakery Items,16495.93,17457,49.11,843.34,54.05,Keep
+Japan,2024,Beverages,49654.67,56043.32,88.07,920.95,31.05,Keep
+France,2024,Dairy Products,24034.9,22397.06,113.47,22.76,47.6,Keep
+South Africa,2024,Frozen Food,22627.61,26111.76,100.98,1286.39,47.63,Keep
+Japan,2024,Frozen Food,45137.2,50353.69,97.62,196.99,60.8,Keep
+Saudi Arabia,2024,Grains & Cereals,28350.62,23792.23,60.18,168.27,68.28,Keep
+Indonesia,2023,Beverages,29047.61,28857.37,171.48,1357.26,37.13,Keep
+USA,2023,Meat & Seafood,49989.46,52758.97,67.79,1059.46,34.59,Keep
+Russia,2024,Beverages,21130.61,20784.29,188.42,444.93,63.5,Keep
+Saudi Arabia,2023,Fruits & Vegetables,15727.37,17797.31,172.36,1043.82,60.43,Keep
+China,2024,Dairy Products,16317.89,18756.47,121.58,221.47,32.13,Keep
+Indonesia,2024,Grains & Cereals,29252.27,23592.89,115.09,575.22,63.47,Keep
+USA,2023,Beverages,11413.81,10952.46,29.42,1282.89,42.5,Keep
+Japan,2024,Prepared Food,31800.86,26061.76,187.07,167.89,61.25,Keep
+South Africa,2024,Fruits & Vegetables,28859.11,24785.6,101.06,1001.72,47.8,Keep
+Russia,2024,Meat & Seafood,15316.49,13959.37,33.17,544.98,46.42,Keep
+USA,2024,Fruits & Vegetables,29599.16,24192.02,93.89,625.33,52.19,Keep
+UK,2024,Beverages,47679.81,47791.63,23.65,1334.72,43.03,Keep
+France,2023,Meat & Seafood,25448.39,22962.63,182.05,1084.4,45.56,Keep
+USA,2024,Beverages,46686.12,49178.7,37.56,293.07,69.09,Keep
+India,2023,Grains & Cereals,33660.2,27989.89,71.87,391.26,63.09,Keep
+China,2023,Prepared Food,48007.8,50204.47,52.33,228.9,43,Keep
+Japan,2023,Beverages,23393.81,22134.34,121.65,366.94,60.17,Keep
+Indonesia,2024,Bakery Items,39720.21,32793.5,80.34,70.16,57.59,Keep
+Brazil,2023,Fruits & Vegetables,10079.68,11226.08,24.38,347.24,62.2,Keep
+Spain,2024,Prepared Food,26770.8,31303.22,142.51,1320.6,62.78,Keep
+Canada,2024,Dairy Products,18679.54,17280.66,33.13,864.28,64.96,Keep
+South Africa,2023,Frozen Food,13719.21,13662.63,192.54,843.3,54.05,Keep
+Russia,2023,Prepared Food,36196.43,35330.42,165.71,1102.16,46.46,Keep
+Turkey,2024,Dairy Products,10186.86,9369.44,89.42,848.93,54.29,Keep
+Italy,2023,Meat & Seafood,42665.31,36254.52,153.62,1173.1,45.1,Keep
+Italy,2024,Grains & Cereals,8173.54,9680.5,115.17,1173.09,30.69,Keep
+Spain,2024,Frozen Food,49613.22,46843.72,26.81,1153.46,64.52,Keep
+Spain,2024,Frozen Food,44565.93,47755.8,72.83,1054.08,36.24,Keep
+Indonesia,2023,Beverages,32493.37,35980.75,160.15,622.32,36.15,Keep
+UK,2023,Frozen Food,17989.88,17023.51,180.2,15.55,47.83,Keep
+Australia,2024,Prepared Food,25202.25,29278.35,176.6,667.61,65.37,Keep
+UK,2023,Bakery Items,7147.31,5759.76,194.18,879.39,63.85,Keep
+UK,2023,Dairy Products,35346.01,35164.24,90.3,1377.34,38.37,Keep
+Brazil,2024,Beverages,46185.83,39504.32,107.27,354.55,41.43,Keep
+Argentina,2023,Beverages,20826.12,20816.3,136.16,989.19,31.86,Keep
+Indonesia,2023,Dairy Products,35731.26,35463.59,57.22,1027.36,69.06,Keep
+China,2024,Frozen Food,27479.16,26256.31,114.44,1205.01,31.89,Keep
+France,2023,Prepared Food,8866.77,9231.98,29.46,138.08,61.23,Keep
+Russia,2024,Dairy Products,18881.04,15728.72,192.86,716.36,57.52,Keep
+Germany,2024,Bakery Items,24173.46,26831.34,149.3,1128.76,45.82,Keep
+Saudi Arabia,2024,Dairy Products,12250.67,14096.2,167.43,278.51,32.25,Keep
+Brazil,2023,Prepared Food,10507.84,12067.43,24.39,348.6,41,Keep
+Mexico,2024,Dairy Products,35501.26,37451.09,113.41,839.1,36.13,Keep
+India,2023,Meat & Seafood,31682.22,34419.23,125.04,515.79,67.23,Keep
+Mexico,2024,Meat & Seafood,28795.12,30722.18,28.34,1105.68,47.06,Keep
+France,2023,Frozen Food,49544.47,53191.19,22.54,791.14,64.93,Keep
+South Korea,2024,Bakery Items,6164.64,6301.18,141.44,1346.58,54.48,Keep
+Japan,2023,Prepared Food,17583.7,14602.34,83.05,685.5,44.63,Keep
+South Korea,2024,Dairy Products,39583.18,43098.3,112.77,991.16,63.82,Keep
+USA,2024,Meat & Seafood,19152.45,15679.6,136.23,179.83,47.56,Keep
+Japan,2023,Bakery Items,43549.61,39176.19,122.33,1110.61,38.38,Keep
+France,2024,Meat & Seafood,19377.14,21240.56,42.61,624.77,33.3,Keep
+Argentina,2024,Frozen Food,28618.26,32690.25,167.11,956.93,59.78,Keep
+UK,2023,Bakery Items,16276.69,16703.51,183.68,1011.68,55.11,Keep
+India,2024,Prepared Food,16319.38,16600.71,155.21,123.64,69.59,Keep
+India,2024,Bakery Items,13490.82,10997.21,48.18,45.98,42.32,Keep
+China,2024,Dairy Products,9885.28,10090,193.59,155.89,34.05,Keep
+South Africa,2023,Grains & Cereals,20302.19,20223.89,185.02,232.09,40.56,Keep
+Italy,2023,Bakery Items,47373.36,55692.26,129.24,1101.3,45.11,Keep
+Germany,2023,Beverages,21340.53,18787.62,120.91,1203.98,44.27,Keep
+South Korea,2024,Meat & Seafood,6094.39,6039.23,81.14,1340.57,31.16,Keep
+South Korea,2024,Prepared Food,35196.99,41710.61,40.34,1186.18,56.37,Keep
+Germany,2023,Fruits & Vegetables,32504.2,30432.43,67.4,1350.33,33.03,Keep
+China,2023,Bakery Items,12727.7,11221.47,130.86,459.11,55.8,Keep
+USA,2023,Bakery Items,26305.75,30688.14,128.15,1090.64,51.16,Keep
+USA,2023,Meat & Seafood,28762.81,23387.04,76.73,769.09,37.91,Keep
+Mexico,2024,Prepared Food,39062.57,37034.2,50.69,263.79,62.12,Keep
+USA,2023,Beverages,16197.32,17595.57,117.11,506.79,58.51,Keep
+Saudi Arabia,2024,Dairy Products,39141.04,46408.66,102.53,1300.6,62.69,Keep
+Brazil,2023,Prepared Food,25835.42,24080.3,166.84,74.73,56.25,Keep
+USA,2023,Beverages,40308.13,39763.46,129.72,1150.25,48.03,Keep
+France,2023,Meat & Seafood,17363.94,20058.8,104.17,1356.41,50.52,Keep
+India,2024,Frozen Food,12982.7,13913.86,129.7,569.61,56.53,Keep
+Brazil,2024,Prepared Food,29507.41,30625.79,89.02,601.24,55.77,Keep
+USA,2024,Grains & Cereals,1901.13,2239.79,42.76,453.7,51.22,Keep
+UK,2023,Beverages,10674.94,10306.22,89.03,78.38,54.07,Keep
+Australia,2023,Bakery Items,19242.9,19706.14,75.46,1021.61,67.03,Keep
+China,2023,Fruits & Vegetables,29295.27,24527.98,90.56,1391.16,34.26,Keep
+Spain,2023,Fruits & Vegetables,49990.76,42801.82,31.59,105.47,52.11,Keep
+Italy,2024,Grains & Cereals,28002.27,22590.63,49.68,604.05,53.84,Keep
+Russia,2024,Bakery Items,3942.39,3890.65,149.88,61.35,31.28,Keep
+Turkey,2024,Meat & Seafood,41534.44,36355.89,61.84,1280.08,59.48,Keep
+Argentina,2024,Fruits & Vegetables,40044.04,35715.51,111.75,130.39,40.56,Keep
+Turkey,2024,Beverages,18885.14,19560.38,115.2,294.63,35.49,Keep
+China,2023,Meat & Seafood,34012.71,31826.08,71.36,542.32,36.16,Keep
+Russia,2024,Grains & Cereals,42466.49,40712.08,62.88,671.81,54.53,Keep
+South Africa,2024,Meat & Seafood,20928.26,24655.67,184.88,713.52,51.73,Keep
+Italy,2024,Dairy Products,39133.39,40211.56,89.79,263.09,60.78,Keep
+UK,2023,Prepared Food,2771.73,2709.71,137.36,806.38,44.61,Keep
+Mexico,2023,Prepared Food,49852.33,49951.05,46.82,346.57,51.41,Keep
+Turkey,2023,Meat & Seafood,39004.75,34266.95,30.61,738.34,65.58,Keep
+Germany,2024,Bakery Items,19152.44,18329.72,126.57,189.89,43.54,Keep
+India,2024,Prepared Food,8691.04,9861.66,146.93,299.45,64.34,Keep
+Germany,2023,Bakery Items,2259.01,2390.27,114.47,343.08,66.88,Keep
+Canada,2023,Dairy Products,19505.47,19105.95,76.06,782.7,67.83,Keep
+Argentina,2023,Bakery Items,14903.6,14035.31,37.51,877.69,54.79,Keep
+Canada,2023,Grains & Cereals,13958.86,11903.19,157.1,564.27,69.31,Keep
+France,2023,Meat & Seafood,30862.8,28061.49,22.5,605.39,61.67,Keep
+Japan,2023,Grains & Cereals,33076.62,27055.64,32.99,1075.06,66.78,Keep
+South Korea,2024,Meat & Seafood,12538.16,11004.04,74.71,250.62,45.95,Keep
+Indonesia,2023,Meat & Seafood,47916.19,56688.98,173.25,499.28,60.44,Keep
+Argentina,2023,Frozen Food,49279.74,49982.07,166.35,852.67,65.08,Keep
+Russia,2023,Fruits & Vegetables,1221.62,984.57,96.88,547.78,36.53,Keep
+Germany,2024,Prepared Food,29489.02,30542.09,138.28,382.43,63.8,Keep
+USA,2024,Grains & Cereals,2469.34,2547.15,65.18,1204.7,34.35,Keep
+Saudi Arabia,2023,Meat & Seafood,26024.78,29269.93,29.33,576.62,60.99,Keep
+Mexico,2024,Bakery Items,41051.02,47576.89,128.4,220.64,63.26,Keep
+Turkey,2023,Prepared Food,46501.82,45442.62,109.76,23.36,64.43,Keep
+USA,2023,Frozen Food,19710.77,18712.96,162.09,1231.96,42.06,Keep
+Germany,2023,Beverages,14272.87,13616.01,45.6,857.44,31.5,Keep
+Germany,2023,Beverages,2267.39,2004.48,184.53,417.62,58.03,Keep
+South Korea,2023,Fruits & Vegetables,33972.57,38497.82,178.06,385.75,32.3,Keep
+UK,2024,Prepared Food,9277.38,9834.82,32.39,670.16,49.04,Keep
+South Korea,2024,Fruits & Vegetables,35696.79,32244.91,74.78,857.01,57.82,Keep
+South Korea,2023,Bakery Items,15390.05,12457.12,38.01,662.54,39.01,Keep
+France,2023,Prepared Food,25561.92,27983.11,153.81,305.69,41.21,Keep
+Russia,2024,Fruits & Vegetables,48698.53,52480.03,178.45,1066.76,66.85,Keep
+UK,2023,Bakery Items,29749.28,29411.3,199,1125.81,36.48,Keep
+Saudi Arabia,2023,Prepared Food,10271.44,10902.15,130.23,342.36,59.77,Keep
+South Africa,2023,Dairy Products,30586.38,28529.85,21.61,653.86,62.26,Keep
+Australia,2024,Fruits & Vegetables,30169.17,24451.32,145.75,560.4,38.95,Keep
+Italy,2023,Fruits & Vegetables,31640.72,35128.75,136.76,1095.91,56.7,Keep
+Mexico,2024,Beverages,44657.84,39602.83,112.49,1186.47,57.8,Keep
+Canada,2023,Beverages,38240.08,40202.81,81.28,1267.55,47.73,Keep
+Canada,2024,Meat & Seafood,49289.97,45872.9,193.92,785.38,39.14,Keep
+Germany,2023,Prepared Food,34123.41,28542.1,98.44,1087.99,42.48,Keep
+Japan,2024,Grains & Cereals,32403.48,34763.83,86.95,1116.02,42.14,Keep
+Argentina,2024,Frozen Food,45663.94,49092.95,193.39,1099.33,62.77,Keep
+France,2023,Meat & Seafood,45741,53825.92,118.48,486.24,54.47,Keep
+China,2024,Bakery Items,20898.45,18035.66,85.24,1037.91,69.63,Keep
+Spain,2023,Frozen Food,44885.35,44685.57,168.07,1255.06,57.06,Keep
+UK,2023,Beverages,48844.63,45591.87,155.9,252.03,60.28,Keep
+Spain,2024,Prepared Food,34453.36,37407.49,129.69,401.37,39.76,Keep
+Turkey,2023,Bakery Items,38423.54,38743.01,184.79,816.25,30.18,Keep
+USA,2023,Grains & Cereals,27290.77,24428.52,132.97,913.05,53.23,Keep
+South Korea,2024,Fruits & Vegetables,37078.59,39001.29,59.38,137.16,36.34,Keep
+Argentina,2023,Prepared Food,6588.75,6546.04,117.77,415.85,33.41,Keep
+Mexico,2023,Grains & Cereals,1807.34,1560.33,123.17,224.6,34.31,Keep
+Saudi Arabia,2024,Fruits & Vegetables,46722.63,51041.87,32.36,1361.24,51.98,Keep
+France,2023,Beverages,46815.03,40941.21,144.09,549.6,56.11,Keep
+China,2024,Bakery Items,16024.39,16640.57,20.84,1030.14,50.39,Keep
+India,2024,Frozen Food,15502.28,13784.37,131.25,1331.08,58.81,Keep
+Russia,2024,Fruits & Vegetables,8983.06,10583.84,72.74,402,54.62,Keep
+China,2023,Beverages,3712.38,3146.93,157.55,709.35,43.42,Keep
+Japan,2023,Dairy Products,5114.3,4884.28,33.62,148.41,31.32,Keep
+Indonesia,2024,Grains & Cereals,19616.76,16787.22,116.5,253.22,61.54,Keep
+Canada,2024,Dairy Products,1999.43,2209.15,81.15,250.93,45.9,Keep
+Mexico,2024,Beverages,43696.76,38169.41,104.85,1153.5,42,Keep
+UK,2023,Grains & Cereals,17496.98,20725.2,85.12,1235.29,35.16,Keep
+Italy,2024,Frozen Food,44426.82,39419.51,73.58,1397.97,53.59,Keep
+Japan,2023,Dairy Products,9282.85,7976.85,44.24,253.85,59.5,Keep
+Indonesia,2023,Bakery Items,4809.69,4984.28,39.14,107.84,60.11,Keep
+Turkey,2023,Bakery Items,533.57,560.98,134.44,69.81,37.15,Keep
+South Korea,2023,Bakery Items,17794.58,17921.04,20.63,904.78,61.89,Keep
+Russia,2024,Prepared Food,6267.9,5730.43,182.82,1254.11,37.77,Keep
+USA,2023,Prepared Food,35785.61,41521.98,150.06,163.45,41.76,Keep
+China,2024,Frozen Food,45552.71,53739.43,156.02,270.5,67.96,Keep
+Indonesia,2024,Frozen Food,44612.93,45623.52,93.88,1206.98,49.42,Keep
+China,2024,Meat & Seafood,44313.75,48631.01,108.24,684.06,53.34,Keep
+Turkey,2024,Fruits & Vegetables,5214.72,5805.35,52.33,1376.05,62.29,Keep
+Saudi Arabia,2023,Prepared Food,38470.53,32336.93,186.34,372.01,35.22,Keep
+Germany,2023,Meat & Seafood,36023.96,30105.02,39.73,1099.99,62.02,Keep
+India,2023,Bakery Items,37698.37,36436.28,28.26,90.79,34.42,Keep
+China,2024,Fruits & Vegetables,14112.86,16584.4,72.25,1333.34,34.54,Keep
+Indonesia,2023,Meat & Seafood,26972.75,23026.53,103.94,454.48,37.06,Keep
+Brazil,2023,Meat & Seafood,23314.59,20936.8,167.1,659.43,44.29,Keep
+South Africa,2023,Meat & Seafood,19412.2,18532.37,36.13,813.79,36.99,Keep
+Canada,2023,Prepared Food,46789.67,47361.14,174.92,1320.44,34.79,Keep
+Australia,2023,Meat & Seafood,24682.22,28654.54,182.5,1173.32,41.6,Keep
+Russia,2024,Fruits & Vegetables,9075.75,8738.84,83.56,869.57,44,Keep
+Japan,2023,Grains & Cereals,5238.17,4223.73,58.54,99.46,44.58,Keep
+UK,2023,Fruits & Vegetables,6249.74,6674.64,53.21,446.03,39.3,Keep
+UK,2024,Prepared Food,38206.78,32981.14,65.26,981.18,61.86,Keep
+Canada,2024,Dairy Products,25383.46,24480.33,22.15,201.71,56.01,Keep
+USA,2023,Dairy Products,22462.46,25994.95,69.93,1190.43,66.93,Keep
+Spain,2024,Frozen Food,17849.11,18029.79,69.27,545.32,59.11,Keep
+India,2024,Beverages,19678.15,19772.16,173.21,1137.81,55.62,Keep
+Germany,2024,Prepared Food,7322.68,7798.37,89.85,240.95,54.05,Keep
+Argentina,2024,Frozen Food,22381.44,23224.97,115.02,871.36,52.48,Keep
+Germany,2024,Grains & Cereals,29844.57,33358.93,139.27,966.21,33.66,Keep
+Australia,2024,Frozen Food,29146.86,29856.58,85.87,1050.94,49.12,Keep
+South Korea,2023,Dairy Products,28953.39,23474.35,85.73,692.25,48.77,Keep
+France,2023,Dairy Products,40955.59,44365.92,69.07,46.2,65.91,Keep
+China,2024,Dairy Products,5317.02,4775.77,112.06,768.63,34.47,Keep
+Germany,2024,Meat & Seafood,14143.32,13506.93,171.49,86.22,59.68,Keep
+Saudi Arabia,2023,Bakery Items,9972.79,8508.79,62.35,1286.68,48.2,Keep
+India,2024,Prepared Food,32300.63,31228.77,46.82,203.31,49.55,Keep
+France,2024,Beverages,33050.66,35584.18,80.09,12.82,38.53,Keep
+Turkey,2023,Bakery Items,42043.11,40712.88,54.14,983.64,59.16,Keep
+France,2024,Prepared Food,1068.09,1071.36,172.65,1130.56,52,Keep
+Spain,2023,Fruits & Vegetables,29527.31,32708.12,177.67,871.21,57.64,Keep
+Saudi Arabia,2024,Grains & Cereals,18392.83,19648.54,139.8,601.8,38.64,Keep
+South Korea,2023,Prepared Food,33989.45,33107.88,152.72,125.27,69.08,Keep
+Turkey,2024,Fruits & Vegetables,33614.07,32623.83,35.02,1045.46,49.35,Keep
+Australia,2024,Bakery Items,45258.75,42228.86,114.78,544.7,46.66,Keep
+South Africa,2023,Prepared Food,25617.1,30499.99,66.38,1284.1,53.8,Keep
+South Africa,2024,Grains & Cereals,28886.32,27282.46,142.77,1363.17,31.8,Keep
+Italy,2023,Prepared Food,28982.57,28253.05,47.06,191.98,33.6,Keep
+South Africa,2023,Prepared Food,24001.75,24944.99,73.74,857.66,47.13,Keep
+France,2023,Frozen Food,42441.31,45200.44,77.05,201.51,53.12,Keep
+Indonesia,2024,Beverages,10968.83,12751.88,186.86,62.95,69.84,Keep
+Germany,2023,Prepared Food,41325.75,46510.43,137.48,1331.94,53.83,Keep
+Brazil,2024,Prepared Food,32131.15,26414.69,171,841.62,30.67,Keep
+Australia,2024,Prepared Food,40280.78,44555.83,91.29,631.94,36.47,Keep
+Italy,2024,Prepared Food,39430.11,33967.67,195.56,1238.38,51.91,Keep
+Australia,2024,Fruits & Vegetables,33383.46,31641.85,179.15,700.52,42.09,Keep
+Italy,2023,Dairy Products,11076.21,9468.17,23.69,847.22,55.89,Keep
+South Korea,2023,Bakery Items,23698.47,26035.42,135.45,424.67,50.69,Keep
+Argentina,2024,Grains & Cereals,13083.38,13486.47,83.71,96.73,56.13,Keep
+Germany,2022,Dairy Products,9700.16,8909.16,166.94,1006.11,48.08,Keep
+Japan,2022,Frozen Food,41025.9,35437.9,49.95,1219.43,33.79,Keep
+USA,2022,Bakery Items,32457.98,27905.84,46.77,865.6,46.46,Keep
+UK,2022,Meat & Seafood,25829.56,20806.34,119.62,185.01,32.51,Keep
+Australia,2023,Frozen Food,34163.29,40069.69,91.17,635.01,56.12,Keep
+USA,2024,Fruits & Vegetables,10616.72,12150.96,149.33,1263.27,54.82,Keep
+Argentina,2022,Bakery Items,17868.63,20588.93,82.52,897.76,54.59,Keep
+Spain,2023,Frozen Food,43452.84,46978.35,169.27,1297.91,53.51,Keep
+USA,2022,Dairy Products,8731.68,10040.12,63.83,543.41,42.96,Keep
+France,2023,Grains & Cereals,18789.68,19530.43,86.12,53.04,66.46,Keep
+Australia,2022,Grains & Cereals,13313.78,13273.68,140.85,183.45,41.34,Keep
+Japan,2022,Prepared Food,3891.45,4059.29,183.91,160.01,43.77,Keep
+Turkey,2022,Prepared Food,11484.88,10827.65,196.26,39.26,63.03,Keep
+Australia,2023,Meat & Seafood,27759.88,31262.21,36.5,86.32,64.27,Keep
+Turkey,2022,Grains & Cereals,29147.18,33953.62,131.16,1317.63,44.8,Keep
+France,2022,Fruits & Vegetables,23626.74,24156.13,198.38,745.17,66.68,Keep
+UK,2023,Prepared Food,41999.88,35491.64,21.29,625.16,54.64,Keep
+Australia,2024,Grains & Cereals,49903.52,44884.59,129.95,64.36,40.59,Keep
+France,2024,Beverages,15469.35,17461.83,179.3,1024.33,62.56,Keep
+Argentina,2024,Bakery Items,8418.73,7673.55,120.96,340.94,55.71,Keep
+Germany,2022,Beverages,48456.51,42311.26,191.89,370.23,57.62,Keep
+South Africa,2023,Prepared Food,1765.31,1563.86,141.68,788.06,56.57,Keep
+Brazil,2022,Fruits & Vegetables,37440.24,33827.9,94.17,953.06,45.73,Keep
+Saudi Arabia,2022,Meat & Seafood,11318.5,12341.11,64.35,1018.05,69.02,Keep
+Russia,2022,Meat & Seafood,38383.37,42044.15,140.83,515.01,69.26,Keep
+Argentina,2022,Dairy Products,8037.7,8365.37,196.29,880.47,38.36,Keep
+India,2022,Frozen Food,11629.26,11829.8,64.13,716.37,32.13,Keep
+Mexico,2023,Beverages,8699.67,8805.29,189.81,345.31,64.42,Keep
+China,2024,Frozen Food,13669.91,12235.48,46.99,478.99,36.68,Keep
+Saudi Arabia,2022,Grains & Cereals,42281.31,42664.53,35.36,994.35,49.71,Keep
+China,2024,Prepared Food,47273.82,56132.73,158.63,692.1,49.21,Keep
+USA,2022,Bakery Items,48642.96,50037.63,57.61,1105.55,51.9,Keep
+Germany,2022,Beverages,14791.28,16497.72,159.67,667.57,58.89,Keep
+Turkey,2022,Prepared Food,43199.69,47597.87,60.43,1077.09,51.84,Keep
+Brazil,2022,Prepared Food,36132.58,36878.62,116.97,999.12,37.92,Keep
+Brazil,2023,Dairy Products,3612.24,3485.04,63.42,12.57,36.42,Keep
+Canada,2022,Dairy Products,40267.47,39933.88,171.17,844.93,42.93,Keep
+Argentina,2023,Dairy Products,48008.92,41651.09,115.44,1140.21,45.33,Keep
+Saudi Arabia,2022,Grains & Cereals,25689.2,27161.16,190.25,722.25,41.02,Keep
+USA,2023,Fruits & Vegetables,48670.4,56412.39,69.19,733.21,40.28,Keep
+South Africa,2022,Meat & Seafood,3751.19,3403.5,112.55,600.38,69.47,Keep
+USA,2022,Meat & Seafood,12712.22,11265.97,31.29,1167.45,48.77,Keep
+Spain,2022,Fruits & Vegetables,49893.96,42739.19,123.54,446.97,62.03,Keep
+Saudi Arabia,2023,Fruits & Vegetables,12533.98,13274.87,34.55,684.75,47.1,Keep
+France,2022,Dairy Products,739.5,763.45,172.65,673.21,59.47,Keep
+Italy,2022,Prepared Food,16593.43,16794.72,40,18.13,58.34,Keep
+South Korea,2022,Beverages,31835.4,33619.04,186.04,1085.21,40.81,Keep
+Saudi Arabia,2022,Dairy Products,37587.48,37984.64,60.13,361.08,43.27,Keep
+South Korea,2023,Bakery Items,6255.34,5710.01,185.16,1355.39,55.56,Keep
+Japan,2022,Frozen Food,47284.74,54679.88,86.66,891.21,34.15,Keep
+Indonesia,2024,Beverages,42685.71,34688.01,54.69,517.68,45.35,Keep
+Brazil,2023,Grains & Cereals,30858.1,28632.37,171.82,648.37,64.82,Keep
+Turkey,2024,Bakery Items,4237.6,4359.67,49.5,408.05,54.68,Keep
+Mexico,2024,Prepared Food,45968.75,45861.88,164.12,81.58,62.05,Keep
+China,2022,Frozen Food,19970.98,20997.66,100.95,180.09,57.56,Keep
+Australia,2022,Prepared Food,6445.46,6889.42,168.41,300.61,45.14,Keep
+UK,2023,Dairy Products,25519.74,27912.81,120.41,607.7,63.78,Keep
+Indonesia,2022,Prepared Food,10489.55,11668.87,116.66,1379.49,66.13,Keep
+Spain,2022,Beverages,16295.06,15742.71,194.26,1005.63,32.61,Keep
+Argentina,2022,Dairy Products,11936.85,13402.52,137.37,74.28,63.35,Keep
+Mexico,2022,Meat & Seafood,3703.66,3078.03,160.61,657.65,36.48,Keep
+Indonesia,2022,Beverages,30712.33,35453.71,84.58,1152.47,47.68,Keep
+Japan,2023,Fruits & Vegetables,32184.1,35437.17,164.27,1316.74,46.38,Keep
+South Korea,2022,Dairy Products,30609.13,26741.35,87.04,231.66,42.59,Keep
+Saudi Arabia,2024,Fruits & Vegetables,36201.48,37772.46,168.93,508.2,39.96,Keep
+Australia,2022,Meat & Seafood,25947.66,23899.18,48.07,469.91,62.42,Keep
+Argentina,2022,Fruits & Vegetables,43281.08,38481.97,187.09,1109.48,30.44,Keep
+UK,2023,Bakery Items,41956.05,49083.9,101.4,161.99,62.28,Keep
+Mexico,2022,Meat & Seafood,49188.61,44353.01,164.75,659.02,63.83,Keep
+Canada,2022,Dairy Products,8075.18,9515,192.64,552.09,62.82,Keep
+USA,2023,Bakery Items,18793.14,22519.58,75.35,676.81,68.93,Keep
+Brazil,2022,Bakery Items,37256.43,39190.01,38.82,1199.92,59.66,Keep
+USA,2023,Prepared Food,11778.4,13323.99,34.1,269.01,61.89,Keep
+Germany,2022,Dairy Products,740.99,831.86,53.1,1360.46,33.61,Keep
+Brazil,2023,Fruits & Vegetables,30851.35,28023.51,145.25,1160.69,61.55,Keep
+Australia,2023,Meat & Seafood,43985.69,36166.53,152.61,554.79,60.25,Keep
+Germany,2024,Prepared Food,34851.72,29922.81,137.1,178.34,40.51,Keep
+UK,2022,Dairy Products,49529.61,52776.18,118.72,903.19,41.13,Keep
+Mexico,2024,Fruits & Vegetables,7233.02,8039.87,55.81,751.03,58,Keep
+Brazil,2023,Fruits & Vegetables,29196.12,24627.33,186.14,889.4,69.98,Keep
+Canada,2022,Dairy Products,25268.13,22719.63,60.51,352.62,32.32,Keep
+Mexico,2022,Fruits & Vegetables,42384.09,36474.21,67.16,943.85,54.9,Keep
+Spain,2024,Fruits & Vegetables,1128.02,1033.7,43.5,94.81,55.88,Keep
+France,2024,Meat & Seafood,10040.72,8441.74,153.21,1034.64,31.35,Keep
+Canada,2024,Grains & Cereals,45521.6,50145.26,71.92,1262.21,66.52,Keep
+Argentina,2022,Fruits & Vegetables,49520.12,43991.89,53.18,1390.46,30.72,Keep
+Mexico,2022,Bakery Items,39084.33,38765.74,137.49,443.4,52.83,Keep
+Canada,2022,Dairy Products,37496.51,42211.61,156.9,70.03,46.42,Keep
+Germany,2022,Bakery Items,17933.14,16338.87,55.04,533.84,35.51,Keep
+Turkey,2024,Grains & Cereals,31340.38,26943.89,26.84,963.26,45.96,Keep
+France,2022,Prepared Food,47744.44,53650.75,31.56,760.44,51.24,Keep
+Saudi Arabia,2022,Prepared Food,1452.89,1463.53,151.26,967.76,58.87,Keep
+Germany,2024,Meat & Seafood,803.87,772.65,49.71,682.1,44.36,Keep
+China,2024,Frozen Food,33680.27,31829.4,74.82,801.48,31.36,Keep
+Canada,2023,Frozen Food,5297.17,5731.9,129.41,358.81,62.13,Keep
+France,2024,Dairy Products,8921.51,7409.04,61.46,1161.41,32.54,Keep
+Brazil,2022,Dairy Products,11765.21,13641.61,174.43,1237.19,53.33,Keep
+Russia,2022,Meat & Seafood,17362.26,16343.72,139.27,710.02,69.66,Keep
+Italy,2024,Beverages,42071.87,43296.13,77.35,609.47,45.24,Keep
+Turkey,2022,Meat & Seafood,34057.08,39020.78,184.44,361.57,48.02,Keep
+UK,2022,Dairy Products,4585.3,5242.22,190.76,683.92,60.47,Keep
+Saudi Arabia,2022,Beverages,24701.03,25708.18,54.58,1017.71,57.49,Keep
+Mexico,2023,Meat & Seafood,21051.75,19053.44,87.34,173.01,65.86,Keep
+South Africa,2023,Grains & Cereals,4936.9,4139.34,189.81,18.95,62.66,Keep
+Saudi Arabia,2024,Bakery Items,22479.3,19768.33,174,670.27,35.06,Keep
+Canada,2022,Grains & Cereals,19812.18,21933.49,39.2,1005.65,44.74,Keep
+Germany,2023,Bakery Items,11091.2,10718.69,183.99,649.55,42.2,Keep
+South Africa,2022,Beverages,33231.3,33766.93,113.61,1232.97,50.24,Keep
+Mexico,2022,Beverages,12742.04,12835.43,66.34,683.77,42.23,Keep
+Russia,2022,Beverages,29561.89,27591.25,169.82,949.89,39.65,Keep
+UK,2022,Grains & Cereals,2157.21,2050.67,27.7,1299.73,45.37,Keep
+Brazil,2024,Bakery Items,42784.14,36700.24,98.32,395.53,53.34,Keep
+India,2023,Beverages,17289.99,17628.25,70.06,404.93,40.57,Keep
+USA,2022,Meat & Seafood,39571.91,37077.05,89.73,612.95,52.89,Keep
+Italy,2022,Prepared Food,27081.29,24870.73,52.05,1101.68,58.15,Keep
+Turkey,2022,Prepared Food,7696.78,8450.6,77.25,1340.4,41.97,Keep
+UK,2022,Grains & Cereals,7115.91,7979.12,40.1,175.89,61.09,Keep
+Russia,2022,Meat & Seafood,22093.45,22206.46,43.27,636,57.83,Keep
+Russia,2023,Meat & Seafood,29278.85,33984.53,125.56,1382.06,47.18,Keep
+USA,2022,Bakery Items,2909.42,3013.57,165.59,497.79,61.8,Keep
+Spain,2023,Grains & Cereals,14495.05,11697.29,94.35,792.01,37.36,Keep
+Japan,2022,Grains & Cereals,34191.95,27453.58,88.82,1025.12,61.86,Keep
+South Korea,2022,Grains & Cereals,36554.67,38456.4,132.92,327.44,65.88,Keep
+Russia,2022,Prepared Food,34297.8,39263.78,50.86,1032.2,62.91,Keep
+Argentina,2022,Meat & Seafood,28725.46,28821.33,126.02,412.4,48.87,Keep
+Spain,2022,Fruits & Vegetables,34773.59,38031.52,147.56,665.77,31.45,Keep
+Turkey,2022,Fruits & Vegetables,22312.82,23816.82,165.49,680.69,46.33,Keep
+Germany,2022,Meat & Seafood,31865.01,30788.79,181.09,1304.01,58.7,Keep
+France,2023,Fruits & Vegetables,5349.94,5829.07,46.26,1251.1,45.07,Keep
+Argentina,2024,Dairy Products,16859.4,15936.64,136.15,748.17,52.32,Keep
+Canada,2023,Fruits & Vegetables,17628.33,20816.6,58.42,475.26,63.55,Keep
+Spain,2022,Grains & Cereals,31901.94,36181.41,103.08,157.45,41.4,Keep
+Japan,2022,Meat & Seafood,19458.71,22447.19,82.62,1061.73,50.84,Keep
+Canada,2022,Bakery Items,40766.07,40014.78,102.87,956.46,69.94,Keep
+Canada,2024,Grains & Cereals,12997.52,14324.93,22.11,138.41,54.06,Keep
+Saudi Arabia,2022,Beverages,15899.39,16551.56,196.11,1357.47,68.19,Keep
+Argentina,2022,Frozen Food,33412.34,34850.59,104.15,331.23,64.99,Keep
+Mexico,2024,Dairy Products,22909.3,26242.35,194.53,960.24,49.32,Keep
+Brazil,2024,Dairy Products,41263.11,48331.29,163.97,1255.23,35.38,Keep
+Italy,2023,Dairy Products,42229.35,39681.24,191.28,626.18,40.96,Keep
+Canada,2022,Dairy Products,4388.44,4018.63,81.76,1385.96,30.99,Keep
+UK,2022,Fruits & Vegetables,11625.2,13304.61,51.32,1224.54,60.51,Keep
+India,2022,Grains & Cereals,32365.55,27479.09,191.92,1218.2,53.68,Keep
+Spain,2023,Bakery Items,17014.53,19897.45,132.66,1040.56,40.29,Keep
+USA,2022,Bakery Items,43533.11,42609.12,100,729.14,31.33,Keep
+China,2024,Dairy Products,36317.93,30656.91,104.43,1131.98,45.72,Keep
+USA,2024,Meat & Seafood,19352.44,19488.92,77.03,1127.53,69.76,Keep
+Russia,2022,Fruits & Vegetables,38657.09,36583.54,67.33,1013.78,44.04,Keep
+USA,2022,Frozen Food,1746.66,1480.35,104.05,873.39,66.42,Keep
+Russia,2022,Dairy Products,41031.17,41606,198.76,1379.01,39.85,Keep
+Indonesia,2022,Dairy Products,17070.67,19787.98,170.23,216.56,39.59,Keep
+Canada,2022,Prepared Food,39270.11,33056.94,67.81,368.05,50.42,Keep
+France,2022,Beverages,41661.37,46602.71,148.49,1234.67,34.77,Keep
+UK,2022,Prepared Food,45377.13,37742,155.56,680.98,63.51,Keep
+Italy,2024,Beverages,39257.04,43549.74,110.57,720.43,64.18,Keep
+Russia,2022,Prepared Food,12914.29,11233.79,190.73,1101.96,68.18,Keep
+Saudi Arabia,2022,Prepared Food,9735.28,10734.45,59.33,969.71,56.87,Keep
+Argentina,2022,Beverages,15696.72,14452.61,57.68,1096.97,47.01,Keep
+Russia,2022,Fruits & Vegetables,28964.9,26287.08,123.57,378.62,41.7,Keep
+USA,2022,Fruits & Vegetables,26681.9,27854.54,70.71,1159.15,47.61,Keep
+Japan,2024,Fruits & Vegetables,6894.25,7326,122.79,313.46,33.55,Keep
+Italy,2023,Fruits & Vegetables,13884.82,14410.92,144.27,1163.04,66.9,Keep
+USA,2022,Beverages,22759.44,22153.17,76.02,1049.57,68.54,Keep
+China,2022,Dairy Products,43568.25,41325.89,68.51,1158.91,38.3,Keep
+Russia,2023,Prepared Food,3067.42,3053.2,113.42,445.43,52.52,Keep
+UK,2023,Grains & Cereals,7256.8,5877.43,63.78,1183.61,41.67,Keep
+South Korea,2024,Fruits & Vegetables,29881.69,29847.43,169.12,359.36,48.5,Keep
+Spain,2024,Meat & Seafood,5005.02,4506.29,54.28,1307.97,30.96,Keep
+Brazil,2024,Prepared Food,15306.6,15829.19,162.8,69.71,34.34,Keep
+India,2023,Beverages,47204.66,48115.64,48.03,1180.66,32.15,Keep
+Indonesia,2022,Bakery Items,47937.02,39218.6,164.71,953.46,38.55,Keep
+Spain,2023,Meat & Seafood,25784.26,23359.31,52.46,358.21,49.42,Keep
+USA,2022,Meat & Seafood,35709.12,34134.17,141.9,57.58,46.73,Keep
+Canada,2022,Bakery Items,32266.14,28182.03,62.43,618.72,61.01,Keep
+Italy,2024,Beverages,39379.5,35484.15,135.79,627.49,30.64,Keep
+UK,2022,Fruits & Vegetables,33854.23,30364.97,82.99,510.15,36.84,Keep
+Brazil,2024,Fruits & Vegetables,24519.45,27371.31,103.22,1044.77,68.01,Keep
+China,2022,Fruits & Vegetables,44291.93,47222.04,70.22,99.98,50.39,Keep
+Russia,2022,Beverages,14279.35,12857.6,69.69,962.01,32.31,Keep
+Brazil,2022,Frozen Food,2544.85,2094.59,54.43,158.79,50.68,Keep
+China,2022,Meat & Seafood,46425.16,51894.08,119.52,1232.34,32.77,Keep
+Spain,2022,Bakery Items,38743.72,34924.65,175.76,906.74,52.6,Keep
+Spain,2022,Bakery Items,18914.73,17461.66,141.39,953.38,60.57,Keep
+China,2022,Frozen Food,43403.34,50453.95,121.87,609.88,51.11,Keep
+Mexico,2022,Fruits & Vegetables,13377.2,13169.52,124.92,233.39,48.27,Keep
+UK,2024,Frozen Food,44300.46,43616.35,123.86,429.22,52.14,Keep
+Argentina,2022,Frozen Food,13620.65,11080.62,42.48,625.3,32.53,Keep
+Italy,2022,Fruits & Vegetables,15570.99,18315.75,189.25,164.5,36.89,Keep
+Argentina,2022,Fruits & Vegetables,34127.57,38894.66,178.13,1044.28,41.8,Keep
+USA,2022,Fruits & Vegetables,37308.22,35650.72,38.46,993.5,48.88,Keep
+Russia,2022,Prepared Food,26371.71,29653.89,101.13,549.29,69.63,Keep
+Italy,2023,Prepared Food,26233.47,25248.35,31.35,315.21,68.62,Keep
+China,2022,Fruits & Vegetables,6956.39,8270.97,53.14,1079.91,44.37,Keep
+Australia,2023,Beverages,12509.03,12718.88,26.14,1072.82,30.95,Keep
+France,2022,Bakery Items,4249.76,3658.99,188.54,1375.48,34.06,Keep
+UK,2022,Beverages,3352.93,3963.47,74.94,452.83,43.26,Keep
+India,2024,Grains & Cereals,21192.16,18305.17,176.32,330.16,55.87,Keep
+Russia,2023,Dairy Products,16739.67,18537.92,121.72,1032.79,54.41,Keep
+Spain,2022,Prepared Food,27503.07,32988.39,192.1,936.51,57.31,Keep
+Indonesia,2022,Dairy Products,28840.44,25910.74,102.04,948.24,36.51,Keep
+Japan,2024,Frozen Food,43484.37,40215,102.46,1151.38,57.96,Keep
+South Africa,2024,Meat & Seafood,22039.34,21863.99,181.91,1310.96,38.87,Keep
+Turkey,2022,Fruits & Vegetables,38945.29,39970.75,78.25,643.38,62.42,Keep
+Turkey,2024,Grains & Cereals,11432.67,11243.18,56.74,1003.13,41.91,Keep
+China,2022,Prepared Food,25645.86,20939.16,87.21,1036.46,66.56,Keep
+Spain,2023,Prepared Food,30414.62,36451.49,85.7,20.58,40.79,Keep
+France,2022,Grains & Cereals,12831.68,10856.01,187.33,247.28,49.36,Keep
+Russia,2022,Meat & Seafood,27577.58,22782.98,71.64,608.53,54.86,Keep
+Australia,2022,Fruits & Vegetables,44744.89,37652.47,114.65,23.87,33.19,Keep
+Italy,2022,Meat & Seafood,27169.47,27439.48,157.77,1326.82,66.28,Keep
+Germany,2022,Frozen Food,23099.58,25032.75,162.46,543.41,58.07,Keep
+South Africa,2022,Beverages,28529.39,26199.69,64.18,1060.6,39.56,Keep
+Mexico,2022,Dairy Products,5170.01,6192.15,141.83,911.34,35.81,Keep
+Spain,2022,Dairy Products,8499.64,8074.29,97.02,1353.16,40.54,Keep
+South Africa,2022,Prepared Food,12719.37,12611.99,129.64,524.76,51.47,Keep
+Italy,2024,Grains & Cereals,18515.86,17545.54,153.31,55.7,44.68,Keep
+Spain,2022,Bakery Items,9297.42,8204.09,185.11,63.16,66.39,Keep
+Saudi Arabia,2022,Beverages,15774.47,15802.45,175.73,1024.41,58.37,Keep
+Argentina,2024,Fruits & Vegetables,11161.41,12094.6,72.15,1366.98,56.03,Keep
+UK,2022,Meat & Seafood,10858.33,11545.39,167.61,1338.74,60.65,Keep
+Germany,2024,Fruits & Vegetables,37046.95,40037.62,94.86,279.45,67.17,Keep
+Russia,2024,Dairy Products,10931.38,12160.96,72.73,924.85,61.3,Keep
+UK,2022,Meat & Seafood,11038.81,11671.56,117.63,494.43,39.87,Keep
+France,2022,Fruits & Vegetables,35777.37,41960.35,101.92,690.45,65.48,Keep
+Russia,2022,Bakery Items,25136.24,23880.07,162.68,662.96,55.93,Keep
+Brazil,2022,Frozen Food,4987.56,4933.79,144.57,459.48,57.33,Keep
+USA,2022,Beverages,506.76,489.15,149.12,569,59.39,Keep
+India,2023,Meat & Seafood,34194.37,29599,100.29,709.57,43.3,Keep
+Brazil,2024,Prepared Food,48171.35,54688.41,62.15,1050.41,35.65,Keep
+Australia,2023,Bakery Items,1329.28,1220.13,152.26,515.72,31.62,Keep
+India,2022,Grains & Cereals,8699.68,8021.62,44.52,760.48,68.35,Keep
+Canada,2022,Frozen Food,26936.48,27192.47,93.51,193.61,33.5,Keep
+USA,2024,Meat & Seafood,36406.66,38257.65,86.83,1025.96,40.15,Keep
+France,2022,Frozen Food,21759.95,20158.29,178.59,267.77,68.79,Keep
+Germany,2024,Beverages,23530.66,24956.85,35.86,1362.79,37.5,Keep
+South Korea,2022,Beverages,23262.53,25824.94,75.9,1263.71,30.63,Keep
+Australia,2023,Fruits & Vegetables,43827.67,45552.98,173.72,745.41,32.51,Keep
+USA,2022,Dairy Products,25753.42,25942.47,71.51,577.14,65.23,Keep
+Germany,2022,Dairy Products,6965.54,6131.14,174.3,84.59,31.59,Keep
+Italy,2023,Dairy Products,804.2,907.98,140.12,494.37,44.63,Keep
+Italy,2022,Beverages,13803,12865.32,185.07,957.42,66.26,Keep
+Italy,2024,Meat & Seafood,26533.04,23117.07,110.72,189.41,62.45,Keep
+Indonesia,2022,Fruits & Vegetables,2428.52,2418.17,52.27,70.69,61.93,Keep
+USA,2022,Fruits & Vegetables,46965.32,54387.08,173.34,948.45,44.49,Keep
+Indonesia,2024,Meat & Seafood,16944.66,18989.34,174,1220.97,62.35,Keep
+Brazil,2022,Bakery Items,7366.15,6829.31,58.14,1384.79,46.29,Keep
+Mexico,2024,Bakery Items,45967.48,46924.8,181.02,1025.26,48.85,Keep
+Brazil,2023,Fruits & Vegetables,11186.25,11885.8,146.25,1353.71,36.75,Keep
+Turkey,2022,Fruits & Vegetables,8983.57,7739.29,190.57,146.56,53.63,Keep
+USA,2022,Bakery Items,22652.62,25093.08,123.3,1249.55,64.54,Keep
+UK,2022,Frozen Food,35280.5,35456.5,199.44,859.08,60.34,Keep
+South Korea,2023,Frozen Food,5896.86,6313.63,140.24,933.29,32.89,Keep
+Turkey,2022,Meat & Seafood,41263.64,35583.19,37.78,417.22,40.68,Keep
+Russia,2022,Grains & Cereals,6234.85,7062.98,21.23,508.75,64.79,Keep
+Australia,2023,Dairy Products,47757.98,52330.54,87.2,261.3,65.82,Keep
+Mexico,2022,Bakery Items,16359,17432.88,197.08,525.36,49.28,Keep
+Turkey,2022,Fruits & Vegetables,10766.12,10972.16,182.51,118.34,32.3,Keep
+Saudi Arabia,2022,Grains & Cereals,13946.56,16195.95,29.15,384.94,52.54,Keep
+Russia,2022,Prepared Food,43572.95,41125.1,140.18,821.32,57.11,Keep
+Indonesia,2022,Meat & Seafood,27393.87,28681.65,140.04,360.21,53.1,Keep
+Spain,2024,Meat & Seafood,3335.93,2697.39,173.1,1281.32,47.84,Keep
+Japan,2022,Prepared Food,3620.29,3800.3,151.72,910.07,59.25,Keep
+Canada,2023,Prepared Food,40958.23,45227.94,100.92,1256.74,43.82,Keep
+Canada,2024,Bakery Items,15633.24,15697.13,139.15,1330.71,33.3,Keep
+China,2022,Bakery Items,13434.62,15556.38,69.43,1265.99,34.42,Keep
+Germany,2024,Prepared Food,34319.79,34261.08,197.79,732.93,50.48,Keep
+Canada,2022,Grains & Cereals,37200.74,41753.73,57.46,1337.2,31.29,Keep
+South Africa,2022,Beverages,37881.41,38285.5,75.96,693.08,52.16,Keep
+India,2022,Dairy Products,39749.49,36414.43,103.6,556.56,40.84,Keep
+Spain,2022,Dairy Products,22076.13,23085.51,146.49,500.08,69.31,Keep
+China,2022,Bakery Items,17883.92,20562.78,70.73,493.07,61.99,Keep
+Australia,2024,Fruits & Vegetables,48288.75,47935.55,125.12,216.45,32.38,Keep
+Saudi Arabia,2023,Bakery Items,36776.95,41808.37,185.28,1335.68,36.07,Keep
+South Korea,2022,Frozen Food,44421.56,52735.74,49.55,289.01,67.15,Keep
+Indonesia,2023,Frozen Food,13011.74,14987.95,45.55,17.03,69.2,Keep
+India,2022,Prepared Food,16898.09,18118.42,169.95,151.66,63.02,Keep
+UK,2022,Grains & Cereals,46158.97,41857.98,86.73,661.77,68.1,Keep
+Indonesia,2022,Beverages,39179.76,41903.84,20.53,853.93,55.68,Keep
+Mexico,2022,Frozen Food,10530.07,9172.97,136.9,511.7,55.72,Keep
+Brazil,2024,Bakery Items,10227.92,9614.77,52.35,108.07,61.37,Keep
+Mexico,2022,Dairy Products,2835.61,2322.24,64.81,1090.54,39.7,Keep
+Japan,2023,Bakery Items,28724.78,29908.47,135.86,1383.32,48.97,Keep
+Italy,2024,Fruits & Vegetables,39363.88,38203.95,55.09,322.55,63.49,Keep
+Indonesia,2022,Fruits & Vegetables,19354.4,20751.86,64.75,1049.56,35.73,Keep
+Russia,2024,Bakery Items,19933.91,22347.45,165.12,1115.19,52.42,Keep
+Indonesia,2022,Frozen Food,43637.05,38890.96,79.13,524.46,66.53,Keep
+France,2022,Fruits & Vegetables,46668.91,47669.01,109.29,647,51.51,Keep
+USA,2022,Frozen Food,35232.72,40282.97,103.69,682.19,43.94,Keep
+Spain,2022,Dairy Products,34661.41,41175.81,199.19,729.14,54.28,Keep
+Germany,2023,Beverages,24881.93,22405.35,81.53,452.31,30.87,Keep
+Italy,2022,Dairy Products,23421.47,24931.67,158.37,560.84,66.88,Keep
+China,2022,Bakery Items,11941.14,10013.69,157.15,1387.28,45.86,Keep
+Brazil,2022,Prepared Food,32541.66,31769.86,181.61,958.99,66.05,Keep
+Japan,2022,Grains & Cereals,38902.24,41321.62,183.52,155.41,54.63,Keep
+Saudi Arabia,2024,Meat & Seafood,23485.33,26696.48,111.9,627.04,65.84,Keep
+Spain,2023,Prepared Food,13772.37,12965.94,199.4,1243.65,39.87,Keep
+Turkey,2022,Meat & Seafood,45621.2,44279.58,31.47,766.29,68.54,Keep
+Turkey,2024,Grains & Cereals,26605.16,28734.29,194.42,998.99,44.43,Keep
+Argentina,2022,Frozen Food,8594.59,9752.72,77.76,718.5,68.44,Keep
+Italy,2023,Dairy Products,2591.28,2539.45,184.37,894.26,63.12,Keep
+Germany,2022,Prepared Food,5379.46,6107.14,48.99,1088.12,45.81,Keep
+Germany,2024,Fruits & Vegetables,13107.39,14142.18,133.78,488.34,33.13,Keep
+Indonesia,2022,Meat & Seafood,47785.73,54367.08,193.43,46.42,67.79,Keep
+Australia,2024,Meat & Seafood,24658.77,21150.24,190.65,987.02,55.65,Keep
+South Korea,2022,Frozen Food,44157.47,43402.56,35.06,235.52,43.08,Keep
+Argentina,2022,Grains & Cereals,23398.53,21432.11,150.91,780.7,60.33,Keep
+Turkey,2022,Grains & Cereals,29640.04,24538.41,52.38,1038.17,44.37,Keep
+Italy,2024,Frozen Food,25751.15,27543.65,82.04,169.01,59.64,Keep
+Saudi Arabia,2022,Meat & Seafood,5153.47,5204.55,111.25,1055.8,36.23,Keep
+Italy,2022,Meat & Seafood,12120.39,12122.38,77.39,133.38,34.16,Keep
+Germany,2022,Grains & Cereals,32734.18,37934.01,30.94,349.5,43.62,Keep
+Mexico,2024,Prepared Food,25896.07,27820.57,62.31,913.57,45.84,Keep
+Mexico,2024,Frozen Food,16759.44,14835.52,159.4,635.84,39.73,Keep
+Spain,2022,Fruits & Vegetables,43162.29,46159.5,119.68,650.34,66.47,Keep
+Argentina,2023,Fruits & Vegetables,33831.35,30292,171.24,793.74,62.6,Keep
+South Africa,2024,Grains & Cereals,25462.07,20702.75,152.13,957.59,53.4,Keep
+Australia,2022,Beverages,4103.34,3481.24,162.15,724.16,40.73,Keep
+Australia,2022,Grains & Cereals,23468.74,26836.79,74.17,1235.34,42.45,Keep
+Spain,2022,Prepared Food,27453.18,32326.41,59.33,635.64,68.7,Keep
+South Korea,2022,Frozen Food,34892.77,30087.1,163.47,167.87,56.14,Keep
+South Africa,2022,Frozen Food,6241.82,6550.61,151.63,155.33,63.15,Keep
+UK,2022,Prepared Food,14507.24,15751.93,103.51,814.7,52.6,Keep
+USA,2023,Grains & Cereals,9799.74,9998.61,130.16,157.64,38.6,Keep
+South Korea,2022,Fruits & Vegetables,37034.74,31161.26,111.83,152.33,68.43,Keep
+Spain,2022,Bakery Items,12957.08,13583.24,26.58,1015.98,50.05,Keep
+Turkey,2022,Beverages,39228.94,42712.73,164.94,1094.14,44.58,Keep
+South Korea,2022,Dairy Products,19720.77,22541.93,161.86,327.56,35.11,Keep
+Canada,2022,Dairy Products,31653.3,35258.38,136.29,98.77,47.28,Keep
+Mexico,2022,Frozen Food,40757.12,39501.14,123.04,668.61,62.18,Keep
+Japan,2022,Fruits & Vegetables,16373.89,14440.85,118.1,1242.49,32.01,Keep
+Turkey,2022,Bakery Items,6263.58,7038.29,183.38,1030.14,68.59,Keep
+Australia,2024,Beverages,19597.5,21349.34,135.19,647.32,33.33,Keep
+Turkey,2022,Prepared Food,46070.81,46684.82,58.47,674.67,42.72,Keep
+Mexico,2022,Bakery Items,6358.72,6242.26,85.89,220.23,47.19,Keep
+France,2022,Prepared Food,29885.99,28704.65,187.19,411.09,39.21,Keep
+France,2022,Bakery Items,31197.91,28484.77,174.88,445.65,56.67,Keep
+USA,2022,Bakery Items,48136.96,43590.5,199.41,766.17,69.19,Keep
+China,2024,Frozen Food,6522.86,5334.03,164.16,576.36,59.15,Keep
+Australia,2024,Grains & Cereals,6128.27,5386.6,87.95,250.02,60.31,Keep
+Russia,2023,Dairy Products,31553.31,27883.34,92.26,1356.17,47.73,Keep
+India,2022,Fruits & Vegetables,42863.19,45929.85,115.61,143.68,32.36,Keep
+Russia,2024,Dairy Products,3771.8,3221.32,42.31,1374.53,38.63,Keep
+Brazil,2022,Meat & Seafood,6583.48,7133.03,53.19,1238.58,68.19,Keep
+Japan,2022,Bakery Items,9672.11,11579.58,139.34,899.64,62.32,Keep
+Saudi Arabia,2024,Bakery Items,40280.76,45344.83,141.42,607.47,54.25,Keep
+Australia,2022,Frozen Food,49145.2,52483.15,198.37,430.64,48.06,Keep
+Russia,2022,Fruits & Vegetables,15263.75,14975.08,87.9,111.01,60.75,Keep
+Italy,2022,Prepared Food,46237.24,45419.13,117.46,303.71,36.44,Keep
+Spain,2022,Fruits & Vegetables,15003.92,13428.76,70.34,1150.31,69.51,Keep
+China,2023,Grains & Cereals,38744.41,31808.42,123.07,603,31.41,Keep
+Indonesia,2022,Fruits & Vegetables,4892.76,5052.86,28.46,981.08,52.17,Keep
+Italy,2022,Grains & Cereals,517.61,576.78,60.93,245.82,35.85,Keep
+Australia,2022,Frozen Food,27743.51,25956.39,91.64,163.76,34.36,Keep
+Spain,2022,Fruits & Vegetables,26025.35,26034.02,75.12,256.32,53.89,Keep
+Turkey,2022,Frozen Food,19155.88,17069.74,33.68,12.54,53.73,Keep
+Turkey,2022,Grains & Cereals,34891.84,31559.15,141.45,434.77,52.19,Keep
+Brazil,2023,Beverages,25255.87,29351.15,160.37,643.73,36.61,Keep
+USA,2022,Grains & Cereals,5391.43,6068.79,138.09,122.74,68.8,Keep
+Japan,2024,Beverages,7290.09,6996.1,131.23,502.55,56.59,Keep
+Spain,2022,Dairy Products,25959.21,25386.49,92.56,304.05,47.21,Keep
+Australia,2023,Meat & Seafood,19342.06,19006.54,175.68,985.03,66.09,Keep
+South Korea,2023,Prepared Food,4171.2,3903.89,130.46,1045.87,32.58,Keep
+Canada,2023,Bakery Items,34600.63,33104.38,185.05,478.41,61.26,Keep
+Japan,2023,Beverages,18902.4,18747.79,100.82,369.03,45.41,Keep
+Australia,2023,Dairy Products,17597.05,17582.88,164.06,222.8,59.52,Keep
+Australia,2022,Grains & Cereals,46452.95,49081.57,176.89,476.77,60.28,Keep
+India,2022,Frozen Food,16327.38,18419.43,133.81,823.27,61.29,Keep
+Canada,2022,Fruits & Vegetables,26416.84,28843.62,54.22,1122.68,30.98,Keep
+South Korea,2024,Dairy Products,48474.74,43605.18,39.27,840.18,65.97,Keep
+France,2022,Frozen Food,10751.44,8987.4,131.56,1296.98,63.74,Keep
+Australia,2022,Beverages,38371.75,37851.62,67,1198,53.97,Keep
+Italy,2022,Prepared Food,44346.35,45835.32,68.84,246.61,31.12,Keep
+USA,2022,Beverages,22160.77,18453.23,144.19,814.77,49.32,Keep
+Brazil,2023,Dairy Products,28810.62,34553.6,129.68,856.13,50.22,Keep
+USA,2022,Frozen Food,31304.33,28928.51,176.79,1013.41,51.35,Keep
+Japan,2022,Frozen Food,9697.91,9427.62,44.7,56.85,55.06,Keep
+Spain,2023,Grains & Cereals,32843.06,27504.95,143.86,491.46,54.56,Keep
+South Africa,2022,Prepared Food,11836.21,10700.73,78.14,520.91,58.2,Keep
+Brazil,2024,Bakery Items,31449.81,34344.23,119.49,1207.32,46.1,Keep
+Turkey,2022,Frozen Food,49364.51,49360.9,128.31,114.22,57.73,Keep
+Saudi Arabia,2022,Frozen Food,3940.06,4568.88,164.76,268.85,53.06,Keep
+India,2022,Fruits & Vegetables,49620.52,59228.93,65.58,1269.49,49.1,Keep
+Indonesia,2023,Meat & Seafood,22413.83,18004.61,53.68,891.19,39.61,Keep
+Canada,2023,Beverages,20235.81,16744.08,108.17,94.52,54.46,Keep
+China,2022,Dairy Products,12292.07,12281.97,86.92,692.13,39.12,Keep
+Mexico,2024,Frozen Food,12488.76,13219.64,27.03,710.49,54.35,Keep
+Indonesia,2022,Grains & Cereals,30749.52,35421.32,188.62,1048.7,57.56,Keep
+Mexico,2022,Beverages,28203.03,33832.7,154.59,789.8,61.08,Keep
+Italy,2022,Bakery Items,41651.4,46007.13,59.15,18.29,30.34,Keep
+Turkey,2024,Prepared Food,41099.29,43634.85,148.06,1054.79,59.01,Keep
+Russia,2022,Meat & Seafood,42794.25,44156.2,48.79,844.28,56.12,Keep
+India,2022,Fruits & Vegetables,39155.97,44076.29,135.54,434.9,64.27,Keep
+Argentina,2022,Fruits & Vegetables,33269.48,32891.5,75.6,936.04,41.32,Keep
+Canada,2023,Meat & Seafood,38683.68,46155.58,103.97,785.29,54.22,Keep
+Italy,2022,Bakery Items,2961.25,2885.45,118.25,1338.62,61.53,Keep
+Indonesia,2022,Dairy Products,1484.47,1234.04,48.37,477.14,36.07,Keep
+India,2024,Dairy Products,9720.84,10304.87,40.11,116.33,53.31,Keep
+Argentina,2023,Frozen Food,41009.81,44634.39,98.55,706.53,65.8,Keep
+Japan,2022,Meat & Seafood,45348.53,40814.97,79.58,405.35,60.25,Keep
+China,2023,Fruits & Vegetables,13158.48,14397.43,43.99,1323.82,50.27,Keep
+Germany,2022,Frozen Food,5817.52,6103.72,31.06,1102.26,46.32,Keep
+France,2022,Meat & Seafood,45264.66,39253.92,62.04,1094.28,63.98,Keep
+Brazil,2022,Meat & Seafood,43415.16,35330.62,123.32,366.42,63.24,Keep
+Germany,2022,Frozen Food,5772.53,6403.4,163.62,1252.55,56.34,Keep
+India,2022,Beverages,46679.66,50458.52,97.62,1104.62,61.78,Keep
+Argentina,2022,Meat & Seafood,14768.04,14570.61,90.3,181.41,49.34,Keep
+South Africa,2023,Bakery Items,9508.41,10582.75,20.66,48.13,40.75,Keep
+South Korea,2022,Bakery Items,45786.18,40409.74,187.79,833.26,42.24,Keep
+Italy,2024,Beverages,24121.2,28455.91,23.33,710.14,32.32,Keep
+France,2022,Bakery Items,45520.34,50610.21,119.5,218.64,60.73,Keep
+France,2022,Dairy Products,45069.58,40138.57,131.14,1165.87,44.42,Keep
+Germany,2022,Prepared Food,18104.97,19402.95,118.84,239.4,43.94,Keep
+South Korea,2022,Prepared Food,35237.47,35622.63,116.27,1369.87,53.21,Keep
+USA,2022,Meat & Seafood,26712.79,26848.34,66.14,761.93,52.13,Keep
+UK,2022,Prepared Food,32439.13,37580.81,164.52,696.56,56.04,Keep
+Spain,2023,Prepared Food,45324.58,48623.38,83.97,167.59,62.21,Keep
+Turkey,2023,Prepared Food,26357.4,31374.01,110.76,189.93,35.75,Keep
+Indonesia,2022,Prepared Food,25172.33,22498.63,111.99,958.92,55.87,Keep
+South Africa,2023,Meat & Seafood,37116.04,32648.86,177.79,374.43,31.2,Keep
+South Africa,2022,Frozen Food,20091.78,17367.8,156.4,1355.95,65.67,Keep
+USA,2022,Meat & Seafood,36926.85,29718.74,49.29,552.76,48.35,Keep
+South Korea,2022,Dairy Products,28930.73,26402.82,65.69,754.75,53.04,Keep
+South Africa,2022,Fruits & Vegetables,39712.35,41529.26,99.07,1092.9,41.42,Keep
+South Africa,2023,Beverages,17821.64,16109.76,24.35,66.18,68.81,Keep
+UK,2022,Prepared Food,23928.44,21243.15,163.29,396.86,45.63,Keep
+Germany,2024,Frozen Food,24366.95,23847.84,29.73,1298.63,42.29,Keep
+Argentina,2022,Dairy Products,31658.66,32503.18,113.37,51.5,53.27,Keep
+Mexico,2024,Dairy Products,25626.17,20892.25,168.75,850.52,43.5,Keep
+UK,2022,Meat & Seafood,13519.64,14221.21,40.12,860.01,66.66,Keep
+Japan,2023,Grains & Cereals,2267.05,2347.17,146.55,129.91,35.9,Keep
+USA,2022,Bakery Items,31220.86,36959.44,184.7,1372.14,52.9,Keep
+Russia,2022,Beverages,41474.48,39921.34,48.86,852.42,34.83,Keep
+UK,2023,Fruits & Vegetables,14270.47,16875.48,131.8,672.26,45.11,Keep
+South Korea,2024,Bakery Items,10750.06,11143.47,194.86,539.34,42.15,Keep
+Canada,2022,Beverages,10556.1,8660.98,132.6,1304.55,34.11,Keep
+France,2023,Meat & Seafood,31881.43,36280.05,188.46,587.85,60.03,Keep
+Spain,2023,Frozen Food,24170.61,24194.62,35.97,487.76,53.64,Keep
+South Africa,2022,Bakery Items,9084.81,9106.69,114.47,640.84,57.48,Keep
+France,2024,Grains & Cereals,46890.11,50991.35,101.17,970.27,69.48,Keep
+Mexico,2022,Dairy Products,36705.17,33000.48,151.23,1135.49,49.5,Keep
+Russia,2022,Beverages,40109.93,42459.75,195.77,928.28,63.71,Keep
+Canada,2022,Dairy Products,17139.36,17798.58,79.47,296.25,30.6,Keep
+South Africa,2022,Fruits & Vegetables,44413.09,50839.16,101.44,731.38,45.24,Keep
+South Africa,2022,Bakery Items,40533.78,42367.39,197.89,425.81,46.35,Keep
+South Korea,2022,Fruits & Vegetables,36243.19,32173.44,22.91,1359.27,59.5,Keep
+Australia,2023,Grains & Cereals,41819.44,36925.57,196.26,813.71,67.98,Keep
+South Korea,2023,Prepared Food,49107.7,50025.56,115.42,233.71,57.95,Keep
+Turkey,2023,Grains & Cereals,42525.41,43267.76,95.59,1200.86,34.98,Keep
+India,2023,Bakery Items,11040.53,11278.52,83.92,172.33,64.77,Keep
+Argentina,2022,Bakery Items,40689.92,32794.75,52.19,884.34,55.33,Keep
+Mexico,2023,Prepared Food,35076.45,35115.4,56.36,377.48,31.52,Keep
+Australia,2022,Beverages,43272.07,44745.57,127.93,1079.86,34.64,Keep
+Turkey,2024,Dairy Products,41633.95,38231.15,168.63,563.08,65.24,Keep
+Turkey,2022,Fruits & Vegetables,39587.56,38946.61,184.85,1328.83,57.33,Keep
+UK,2022,Prepared Food,44113,47014.28,192.98,967.44,59.65,Keep
+Australia,2023,Meat & Seafood,22703.51,24955.67,66.84,1357.71,49.76,Keep
+Italy,2023,Dairy Products,13326.03,11474.94,139.32,1018.74,43.19,Keep
+Spain,2023,Meat & Seafood,19686,21084.15,36.77,1092.68,35.82,Keep
+South Africa,2022,Meat & Seafood,1474.04,1208.28,104.39,828.2,31.77,Keep
+Germany,2022,Beverages,49956.72,54284.18,115.03,327.46,33.73,Keep
+Indonesia,2022,Meat & Seafood,15785.95,14969.94,89.02,1219.19,42.42,Keep
+UK,2024,Bakery Items,32539.06,36744,159.49,52.6,33.8,Keep
+India,2022,Fruits & Vegetables,25330.28,23617.35,149.22,484.02,32.41,Keep
+Australia,2023,Frozen Food,18746.74,17600.48,66.86,832.71,57.07,Keep
+Mexico,2023,Grains & Cereals,44680.27,53062.49,140.02,904.94,61.57,Keep
+Canada,2022,Beverages,34547.54,27917.66,176.46,1143.81,60.94,Keep
+Saudi Arabia,2022,Grains & Cereals,47226.15,41252.03,192.94,1385.29,38.21,Keep
+Italy,2022,Bakery Items,26687,26492.81,99.71,396.82,51.39,Keep
+Mexico,2022,Fruits & Vegetables,26877.12,26874.74,74.08,1219.56,41.75,Keep
+Australia,2022,Grains & Cereals,42604.34,42108.82,182.62,685.22,56.14,Keep
+Canada,2024,Dairy Products,39004.36,44355.91,58.31,896.32,38.52,Keep
+Brazil,2023,Meat & Seafood,38139.33,41925,58.97,1053.52,59.51,Keep
+Italy,2022,Prepared Food,37308.08,36947.35,118.13,873.64,32.28,Keep
+Italy,2022,Prepared Food,28613.26,33929.54,172.13,477.67,44.32,Keep
+Japan,2022,Beverages,44882.71,51488.54,83.65,1024.39,52.93,Keep
+Germany,2022,Prepared Food,47978.53,48842.03,114.25,111.77,58.91,Keep
+Mexico,2022,Beverages,38332.25,35162.41,33.43,1343.89,60.76,Keep
+USA,2022,Grains & Cereals,4429.76,5034.96,100.2,977.93,43.67,Keep
+Canada,2022,Dairy Products,48968.97,47044.66,174.05,766.53,51.77,Keep
+South Korea,2022,Meat & Seafood,19778.66,17597.46,157.66,251.85,38.61,Keep
+USA,2024,Frozen Food,7125.82,6079.02,165.78,684.89,32.08,Keep
+Russia,2022,Meat & Seafood,42078.64,35469.58,22.55,1352.61,43.07,Keep
+Argentina,2022,Beverages,2481.87,2326.77,155.84,128.11,56.8,Keep
+France,2024,Fruits & Vegetables,32948.34,27988.9,58.41,925.96,36.92,Keep
+USA,2022,Bakery Items,34495.83,33564.3,114.58,197.76,68.21,Keep
+Argentina,2024,Grains & Cereals,16270.95,16900.74,144.49,846.88,47.01,Keep
+India,2022,Prepared Food,755.35,856.23,176.64,98.7,58.54,Keep
+Russia,2022,Frozen Food,7876.24,7870.43,198.28,1112.61,43.97,Keep
+Canada,2022,Beverages,26200.53,29637.18,46.49,1237.89,57.5,Keep
+Mexico,2022,Frozen Food,47286.8,41615.04,31.9,1333.97,47.01,Keep
+UK,2022,Prepared Food,4738.62,5043.42,99.09,629.72,38.12,Keep
+Canada,2023,Beverages,5164.03,5766.99,189.15,1245.91,51.75,Keep
+Canada,2022,Fruits & Vegetables,20168.3,23300.52,150.91,941.01,68.16,Keep
+India,2022,Bakery Items,14091.09,13971.36,167.9,899.81,49.07,Keep
+Argentina,2023,Meat & Seafood,41910.99,47436.94,89.8,324.8,67.44,Keep
+Spain,2022,Prepared Food,38549.89,39132.69,92.88,850.27,60.05,Keep
+China,2022,Fruits & Vegetables,43181.63,46396.12,55.05,998.51,51.84,Keep
+Indonesia,2022,Beverages,47089.75,51628.68,120.49,422.46,66.81,Keep
+Germany,2022,Bakery Items,23179.55,25727.14,172.19,1384.77,38.07,Keep
+Indonesia,2022,Beverages,13677.6,11904.54,26.95,236.04,54.38,Keep
+Japan,2024,Frozen Food,2886.99,3327,147.87,13.72,65.87,Keep
+France,2022,Frozen Food,15594.99,14825.92,78.92,202.99,33.17,Keep
+Italy,2023,Meat & Seafood,28316.47,30769.01,178.99,518.97,62.13,Keep
+USA,2024,Grains & Cereals,34832.33,32198.66,198.47,1366.62,31.53,Keep
+South Korea,2022,Grains & Cereals,22942.38,19277.51,113.71,522.25,53.82,Keep
+USA,2022,Grains & Cereals,19540.97,17882.5,183.25,214.17,33.81,Keep
+Russia,2023,Frozen Food,32703.24,32320.61,73.56,1392.18,31.6,Keep
+Russia,2024,Fruits & Vegetables,23569.68,27289.4,199.15,1095.32,58.4,Keep
+UK,2022,Fruits & Vegetables,24194.55,24007,72.43,703.37,65.48,Keep
+Russia,2022,Dairy Products,28166.03,32064.33,135.33,73.53,45.78,Keep
+Brazil,2022,Bakery Items,49442.91,42866.87,69.15,144.79,37.58,Keep
+Indonesia,2022,Grains & Cereals,48773.09,49979.19,110.86,885.95,35.71,Keep
+China,2022,Meat & Seafood,7481.55,7570.6,100.16,148.58,61.13,Keep
+India,2022,Frozen Food,46634.87,45070.38,26.42,1124.13,53.75,Keep
+India,2022,Dairy Products,40407.94,46063.83,141.29,716.07,46.59,Keep
+UK,2022,Prepared Food,21406.41,22080.12,179.61,100.57,38.28,Keep
+UK,2022,Meat & Seafood,20915.43,16804.55,63.75,1254.72,53.38,Keep
+Germany,2022,Beverages,16954.84,15739.66,72.94,61.59,44.13,Keep
+Canada,2022,Prepared Food,16761.78,15154.43,124.14,580.61,52.78,Keep
+Japan,2022,Beverages,4353.59,4874.66,28.05,1152.48,48.57,Keep
+UK,2023,Bakery Items,8619.86,9439.1,74.56,1106.7,45.19,Keep
+France,2024,Grains & Cereals,22354.93,18257.96,27.61,690.29,46.97,Keep
+Mexico,2022,Fruits & Vegetables,13381.14,15056.57,131.13,603.48,32.25,Keep
+Mexico,2022,Frozen Food,12188.72,14306.6,74.88,241.25,44.18,Keep
+Spain,2023,Bakery Items,30417.22,28835.35,25.72,680.5,61.9,Keep
+Argentina,2022,Prepared Food,8753.69,7156.15,194.2,1126.43,65.66,Keep
+Spain,2022,Bakery Items,28903.66,33001.6,183.31,1034.21,48.82,Keep
+UK,2022,Bakery Items,5065.24,5905.3,149.57,325.33,45.42,Keep
+Canada,2023,Prepared Food,16069.8,16316.85,42.72,1354.29,54.06,Keep
+Brazil,2023,Prepared Food,19085.74,21107.47,168.14,872.11,62.02,Keep
+Mexico,2023,Beverages,45330.2,45565.69,135.78,854.62,39.71,Keep
+Italy,2022,Prepared Food,30444.72,33319.75,174.02,1072.82,33.8,Keep
+France,2022,Meat & Seafood,27795.89,27809.32,124.26,812.38,50.26,Keep
+Saudi Arabia,2023,Prepared Food,35127.95,38873.69,186.21,877.4,51.37,Keep
+South Africa,2023,Beverages,13534.93,12427.64,148.55,1189.8,54.12,Keep
+Mexico,2022,Beverages,9891.78,10715.3,178.53,1363.16,55.37,Keep
+Japan,2022,Meat & Seafood,16387.81,14306.93,22.2,33.72,40.81,Keep
+South Korea,2022,Dairy Products,23221.41,21893.64,50.27,1273.04,43.9,Keep
+Japan,2024,Meat & Seafood,37100.54,35853.13,144.38,321.21,40.1,Keep
+Mexico,2024,Meat & Seafood,12930,13350.78,172.99,86.63,52.4,Keep
+Canada,2024,Bakery Items,13512.16,15702.23,168.7,406.53,37.2,Keep
+Italy,2022,Grains & Cereals,47045.88,46778.65,183.74,876.35,45.62,Keep
+South Korea,2022,Prepared Food,12137.82,10808.48,85.69,327.26,50.77,Keep
+South Korea,2024,Frozen Food,13338.14,12307.87,112.42,450.02,43.32,Keep
+Canada,2022,Bakery Items,46897.32,39414.29,24.22,826.28,61.51,Keep
+Australia,2023,Grains & Cereals,1434.79,1521.97,98.79,1150.57,61.54,Keep
+Australia,2024,Bakery Items,17941.25,14499.25,165.11,492.54,32.91,Keep
+China,2022,Beverages,45817.97,39883.48,109.08,575.72,65.44,Keep
+USA,2024,Dairy Products,9666.4,9795.89,192.07,300.96,62.59,Keep
+Mexico,2022,Prepared Food,45332.39,51674.39,91.59,416.18,65.91,Keep
+China,2022,Fruits & Vegetables,11786.75,10759.21,182.31,252.68,50.89,Keep
+Italy,2022,Fruits & Vegetables,3467.04,3261.48,130.76,1018.38,52.19,Keep
+Germany,2023,Dairy Products,39760.39,38052.74,70.24,841.5,41.85,Keep
+Germany,2024,Prepared Food,47659.16,56031.37,89.22,1024.82,62.61,Keep
+China,2022,Beverages,28296.54,30760.33,158.78,1291.92,46.61,Keep
+Indonesia,2023,Grains & Cereals,21517.15,25165.97,61.64,511.25,30.58,Keep
+India,2022,Dairy Products,4778.72,4000.5,43.61,1068.43,35.34,Keep
+Turkey,2023,Bakery Items,48952.68,45037.44,127.04,485.67,62.91,Keep
+Argentina,2023,Grains & Cereals,18528.17,15310.1,39.67,585.84,33.51,Keep
+Russia,2022,Fruits & Vegetables,9273.87,8570.01,126.89,1303.12,68.1,Keep
+Indonesia,2023,Dairy Products,42686.47,35909.27,131.08,932.12,39.68,Keep
+Japan,2024,Dairy Products,35892.2,36287.72,154.65,183.52,30.62,Keep
+Russia,2023,Fruits & Vegetables,6482.29,6869.84,30.16,291.71,54.49,Keep
+South Africa,2022,Beverages,29805.05,26847.65,183.1,841.8,61.84,Keep
+Italy,2023,Beverages,20092.05,18645.74,24.02,317.2,64.09,Keep
+USA,2022,Bakery Items,47969.67,55274.78,25.01,111.06,55.71,Keep
+Mexico,2024,Grains & Cereals,17324.62,20112.65,140,243.99,31.13,Keep
+Spain,2022,Frozen Food,19381.72,22132.49,35.49,1398.58,46.16,Keep
+Brazil,2023,Bakery Items,6367.24,5602.06,136.13,857.6,58.67,Keep
+Indonesia,2022,Frozen Food,32192.22,26729.66,143.03,1010.28,67.53,Keep
+Mexico,2023,Meat & Seafood,26861.08,23432.21,107.89,853.88,55.24,Keep
+South Korea,2022,Frozen Food,2278.7,2142.54,181.23,321.96,58.94,Keep
+Spain,2022,Fruits & Vegetables,10206.05,10741.59,139.67,1189.12,34.15,Keep
+France,2024,Dairy Products,11016.36,10330.11,199.71,1212.3,57.56,Keep
+UK,2024,Grains & Cereals,30251.98,30485.18,155.22,673.12,33.25,Keep
+South Korea,2022,Grains & Cereals,8406.55,9188.41,171.68,1077.82,31.52,Keep
+France,2022,Fruits & Vegetables,29035.55,32125.02,22.31,769.02,39.7,Keep
+China,2023,Dairy Products,29274.27,32530.11,131.41,472.82,52.1,Keep
+India,2022,Bakery Items,49277.74,41076.84,72.04,339.89,55.85,Keep
+Spain,2023,Grains & Cereals,20059.23,20402.65,86.38,691.1,48.02,Keep
+India,2022,Beverages,8007.28,9495.3,103.7,109.77,58.37,Keep
+India,2022,Meat & Seafood,45503.17,36840.95,166.32,497.53,49.41,Keep
+South Korea,2022,Prepared Food,779.44,887.93,75.86,527.12,69.74,Keep
+Canada,2024,Bakery Items,44657.28,35786.01,61.37,532.43,67.86,Keep
+Russia,2024,Fruits & Vegetables,6638.89,7472.43,190.81,859.16,46.5,Keep
+Italy,2022,Grains & Cereals,35558.23,40005.64,102.15,629.49,36.12,Keep
+India,2024,Frozen Food,21206.07,22699.83,122.95,828.48,66.38,Keep
+India,2023,Prepared Food,26977.56,24530.02,193.92,341.15,68.48,Keep
+France,2022,Bakery Items,18047.51,19246.75,25.15,1241.65,40.88,Keep
+China,2022,Bakery Items,26894.67,27476.66,111.71,1164.74,53.72,Keep
+Italy,2022,Bakery Items,4785.15,4529.71,78.19,1007.65,44.04,Keep
+South Korea,2024,Fruits & Vegetables,5443.2,6472.66,91.07,781.44,61.41,Keep
+Mexico,2024,Frozen Food,27555.01,32211.96,198.85,879.18,58.24,Keep
+France,2023,Dairy Products,17163.86,15214.37,93.25,795.91,37.65,Keep
+Germany,2022,Fruits & Vegetables,4027.06,4161.64,39.1,1103.69,53.65,Keep
+Mexico,2022,Dairy Products,45255.38,52762.12,112.77,1315.81,67.33,Keep
+Australia,2023,Dairy Products,37510.62,39567.06,163.64,483.55,62.31,Keep
+USA,2024,Grains & Cereals,34569.48,40686.83,139.98,1130.72,51.8,Keep
+Turkey,2022,Grains & Cereals,34983.66,37743.95,96.33,612,33.22,Keep
+Italy,2023,Bakery Items,4743.07,4114.13,114.16,344.64,57.84,Keep
+Argentina,2022,Dairy Products,38141.73,37376.6,80.64,1046.48,60.19,Keep
+India,2022,Meat & Seafood,25569.5,25134.78,169.4,548.21,41.9,Keep
+South Africa,2022,Prepared Food,30807.18,32697.62,40.46,162.26,42.31,Keep
+Australia,2022,Meat & Seafood,21556.95,17602.2,113.88,1306.53,58.27,Keep
+Mexico,2024,Meat & Seafood,46119.45,49919.74,167.45,74.18,67.86,Keep
+Indonesia,2024,Fruits & Vegetables,19489.91,16282.94,74.42,741.77,64.61,Keep
+Mexico,2022,Prepared Food,6200.24,5526.87,136.68,143.32,41.36,Keep
+Saudi Arabia,2022,Fruits & Vegetables,16504.06,19657.42,94.68,399.1,48.13,Keep
+Russia,2022,Prepared Food,31479.34,31546.7,150.02,1004.63,68.21,Keep
+France,2022,Meat & Seafood,24035.89,24015.47,63.73,272.6,52.7,Keep
+Russia,2022,Dairy Products,39056.71,46470.62,94.79,1292.74,65.38,Keep
+Indonesia,2022,Grains & Cereals,12214.35,12612.64,69.67,393.64,35.74,Keep
+Spain,2022,Bakery Items,4975.04,4138.17,69.22,234.27,30.36,Keep
+South Africa,2022,Grains & Cereals,37858.74,34972.42,78.05,486.42,64.67,Keep
+Turkey,2022,Grains & Cereals,29974.31,32496.03,65.29,1100.63,60.6,Keep
+UK,2022,Frozen Food,49337.57,42934.92,103.54,482.65,32.02,Keep
+Turkey,2022,Beverages,3762.04,3618.29,27.4,996.2,39.89,Keep
+France,2022,Meat & Seafood,21473.25,19444.45,80,1222.16,53.73,Keep
+Brazil,2022,Dairy Products,14489.65,13756.34,141.69,282.11,39.79,Keep
+India,2023,Fruits & Vegetables,11603.07,11644.19,26.14,140.02,45.24,Keep
+Indonesia,2023,Bakery Items,11475.82,12885.65,136.27,20.81,38.52,Keep
+Canada,2024,Grains & Cereals,10072.96,9513.04,181.16,27.82,43.75,Keep
+Spain,2024,Prepared Food,34364.95,32364.26,80.99,117.11,68.44,Keep
+Russia,2022,Prepared Food,37844.67,39814.87,130.72,20.03,30.33,Keep
+Brazil,2022,Dairy Products,14117.53,12597.16,159.8,406.27,44.22,Keep
+Australia,2022,Fruits & Vegetables,18067.07,16203.86,185.11,281.01,34.06,Keep
+Argentina,2024,Grains & Cereals,9529.03,7712.48,29.71,205.53,52.34,Keep
+India,2023,Prepared Food,37980.82,40452.6,28.37,1076.39,57.82,Keep
+Mexico,2022,Prepared Food,15312.77,13090.17,28.72,992.86,49.73,Keep
+USA,2023,Beverages,22494.61,22123.44,110.24,907.33,33.97,Keep
+France,2023,Grains & Cereals,21227.75,17377.69,20.51,538.56,31,Keep
+USA,2022,Dairy Products,12611.69,13049.41,137.25,638.69,42.76,Keep
+Canada,2022,Bakery Items,17391.9,16126.72,114.09,221.61,48.85,Keep
+Mexico,2023,Beverages,15736.94,18485.23,42.93,675.35,35.19,Keep
+Japan,2022,Grains & Cereals,45691.23,42724.89,185.1,1376.12,41.51,Keep
+Turkey,2022,Beverages,13364.72,12820.98,91.65,719.34,45.88,Keep
+South Africa,2022,Meat & Seafood,47998.97,42542.48,21.12,1259.95,58.23,Keep
+UK,2022,Bakery Items,11966.64,13301.59,115.83,915.51,31.98,Keep
+Japan,2022,Fruits & Vegetables,34535.45,40893.1,118.14,935.55,62.39,Keep
+Italy,2023,Frozen Food,7047.63,7770.09,192.1,1066.28,38.35,Keep
+Indonesia,2022,Prepared Food,10946.27,9985.4,22.7,41.39,32.25,Keep
+Japan,2022,Fruits & Vegetables,36016.94,41810.77,143.73,380.81,35.09,Keep
+India,2022,Bakery Items,16918.08,13849.39,60.7,1373.73,35.69,Keep
+South Korea,2022,Prepared Food,19416.71,19012.69,174.09,850.25,31.9,Keep
+Russia,2023,Beverages,25544.81,20534.78,83.1,254.13,61.58,Keep
+China,2023,Meat & Seafood,31227.83,27531.76,175.43,426.57,30.56,Keep
+France,2022,Dairy Products,36132.8,38019.37,174.75,291.54,30.7,Keep
+South Africa,2023,Bakery Items,34812.38,40287.24,113.55,948.77,43.02,Keep
+South Africa,2024,Dairy Products,6165.28,6649.18,59.55,587.31,52.46,Keep
+UK,2023,Prepared Food,7564.96,8080.02,84.93,622.85,49.72,Keep
+India,2022,Prepared Food,15110.91,13466.97,103.86,183.22,34.09,Keep
+Spain,2022,Prepared Food,48130.47,46308.2,52.01,1163.34,33.79,Keep
+Spain,2024,Meat & Seafood,44974.08,51881.79,35.98,309.36,58.07,Keep
+UK,2024,Grains & Cereals,19391.4,22473.12,145.34,954.1,49.5,Keep
+Australia,2024,Fruits & Vegetables,22251.13,22714.85,64.89,1289.83,31.34,Keep
+Russia,2022,Grains & Cereals,10154.62,11557.75,121.16,93.24,52.13,Keep
+India,2023,Frozen Food,2719.91,2582.01,27.85,361.98,44.08,Keep
+USA,2024,Frozen Food,43993.85,51377.53,93.19,827.64,66.88,Keep
+Russia,2024,Frozen Food,36252.86,40806,124.33,948.36,54.8,Keep
+Italy,2022,Fruits & Vegetables,7387.67,6592.27,162.25,310.59,35.77,Keep
+Canada,2023,Meat & Seafood,35565.43,32461.74,165.87,286.81,65.95,Keep
+Germany,2022,Frozen Food,18581.47,17912.97,25.24,636.98,46.62,Keep
+Saudi Arabia,2024,Meat & Seafood,42109.96,38051.03,121.87,153.07,65.54,Keep
+China,2022,Beverages,9330.53,10553.98,198.22,477.18,38.71,Keep
+Argentina,2022,Prepared Food,49077.56,43299.18,157.78,751.16,58.34,Keep
+Brazil,2024,Dairy Products,36311.05,37535.07,153.46,255.12,53.38,Keep
+Australia,2022,Fruits & Vegetables,44018.09,40651.87,56.74,520.98,50.79,Keep
+Italy,2023,Frozen Food,37300.19,34241.74,117.96,1162.68,57.89,Keep
+UK,2022,Prepared Food,11790.92,10744.15,76.64,1181.97,68.11,Keep
+South Korea,2022,Prepared Food,22759.88,23150.96,140.15,1164.68,30.96,Keep
+USA,2024,Frozen Food,34920.22,41297.31,119.51,166.78,34.07,Keep
+Australia,2023,Dairy Products,20112.72,23111.23,182.53,397.74,46.93,Keep
+Saudi Arabia,2024,Beverages,7001.67,6253.55,115.35,506.46,52.79,Keep
+Russia,2022,Fruits & Vegetables,4066.93,3535.25,34.09,763.98,48.21,Keep
+Argentina,2024,Prepared Food,9741.44,10923.48,120.83,1136.78,51.6,Keep
+Mexico,2022,Fruits & Vegetables,19883.54,20482.16,89.54,143.28,41.04,Keep
+Mexico,2022,Prepared Food,25266.57,29103.97,23.08,365.87,30.77,Keep
+Mexico,2022,Grains & Cereals,29858.48,26602,148.96,1148.6,60.14,Keep
+USA,2022,Bakery Items,41358.45,38242.08,29.43,1344.69,69.82,Keep
+France,2023,Dairy Products,40463.95,38574.46,197.39,725.6,58.54,Keep
+France,2022,Grains & Cereals,32301.18,37418.51,88.09,208.25,57.91,Keep
+Indonesia,2022,Bakery Items,39060.62,34962.3,199.92,885.96,44.17,Keep
+Saudi Arabia,2023,Dairy Products,39089.47,43319.68,146,1208.04,54.47,Keep
+South Africa,2023,Beverages,16404.78,16488.93,144.96,1258.65,48.67,Keep
+UK,2023,Beverages,18477.47,16169.26,189.68,116.27,62.14,Keep
+Argentina,2024,Prepared Food,23781.08,20518.47,95.72,220.58,62.52,Keep
+China,2022,Dairy Products,46538.54,48512.62,28.93,200.8,54.15,Keep
+Italy,2023,Prepared Food,42517.89,45806.9,40.38,1119.79,39.87,Keep
+Spain,2022,Bakery Items,26722.17,27929.17,129.95,1242.06,37.52,Keep
+Germany,2022,Prepared Food,8866.15,7180.84,151.04,1211.41,55.91,Keep
+Canada,2023,Dairy Products,23820.09,22406.26,123.31,1363.28,56.33,Keep
+Turkey,2023,Dairy Products,38824.25,31165.16,89.32,1155.79,67.7,Keep
+Brazil,2023,Dairy Products,38384.3,41110.12,155.28,301.83,42.32,Keep
+Japan,2022,Prepared Food,29107.43,29245.63,41.61,218.47,64.35,Keep
+Italy,2023,Fruits & Vegetables,26493.15,24338.43,68.05,893.81,69.94,Keep
+Spain,2023,Grains & Cereals,22081.35,21954.34,64.9,417.68,57.16,Keep
+UK,2022,Prepared Food,46401.05,48577,126.89,258.06,63.37,Keep
+Saudi Arabia,2024,Dairy Products,48061.2,40348.26,102.55,148.08,67.86,Keep
+South Africa,2024,Fruits & Vegetables,14884.47,16805.56,33.18,427.48,61,Keep
+Indonesia,2023,Dairy Products,6932.17,5755.96,98.51,862.35,45.62,Keep
+Mexico,2022,Prepared Food,8042.22,7615.36,23.76,697.81,55.53,Keep
+South Korea,2022,Grains & Cereals,27519,27745.27,163.55,791.56,42.95,Keep
+Mexico,2022,Dairy Products,21686.39,18997.42,82.69,440.06,64.18,Keep
+UK,2022,Beverages,17580.51,19982.08,58.39,1265.72,54.68,Keep
+Argentina,2022,Prepared Food,23655.31,23348.89,79.57,83.43,48.77,Keep
+South Africa,2022,Grains & Cereals,46451.63,39707.99,104.93,1223.69,58.84,Keep
+Germany,2024,Meat & Seafood,15446.96,14357.89,184.54,807.79,55.9,Keep
+Canada,2023,Bakery Items,38768.71,42416.9,164.11,228.2,50.76,Keep
+UK,2023,Beverages,8414.8,9984.14,158.88,25.39,57.91,Keep
+USA,2023,Beverages,44969.56,48115.31,178.15,330.28,37.99,Keep
+Argentina,2022,Meat & Seafood,12421.08,12731.67,114.22,1324.66,53.11,Keep
+Australia,2023,Frozen Food,24491.1,28821.19,153.93,320,44.13,Keep
+China,2022,Bakery Items,1393.35,1181.65,97.46,1196.78,33.39,Keep
+Mexico,2024,Beverages,12211.81,11994.85,66.66,1324.92,52.25,Keep
+India,2022,Beverages,31791.18,27882.5,140.94,272.42,58.72,Keep
+India,2022,Fruits & Vegetables,19895.02,18052.81,90.72,360.53,43.25,Keep
+Indonesia,2022,Fruits & Vegetables,36567.57,39207.3,153.83,362.32,59.99,Keep
+USA,2022,Grains & Cereals,47623.36,41440.21,63.62,1017.66,36.88,Keep
+Italy,2023,Dairy Products,37128.77,31765.22,93.57,671.42,62.43,Keep
+Mexico,2023,Meat & Seafood,8534.59,8703.64,43.65,487.73,56.02,Keep
+Argentina,2022,Prepared Food,14467.99,16747.79,52.17,642.86,52,Keep
+USA,2024,Fruits & Vegetables,17611.63,18603.78,142.77,154.37,68.38,Keep
+Brazil,2022,Fruits & Vegetables,16101.93,13941.75,59.26,849.77,64.66,Keep
+Italy,2023,Fruits & Vegetables,16001.7,17823.32,107.75,755.37,60.5,Keep
+Australia,2022,Frozen Food,37582.45,41611.09,167.94,1209.51,48.1,Keep
+USA,2022,Meat & Seafood,4581.11,4174.81,155.34,211.45,62.13,Keep
+Argentina,2022,Fruits & Vegetables,16702.75,19585.76,58.49,387.21,40.65,Keep
+Australia,2022,Dairy Products,33923.62,28921.39,195.02,909.28,68.7,Keep
+Argentina,2022,Bakery Items,40591.28,45816.8,28.55,866.04,43.32,Keep
+Germany,2022,Frozen Food,8884.49,9205.54,106.43,466.41,55.13,Keep
+Saudi Arabia,2022,Beverages,28267.81,27957.45,190.88,509.25,38.79,Keep
+Mexico,2022,Fruits & Vegetables,28403.53,31672.29,99.03,11.58,55.44,Keep
+Germany,2022,Prepared Food,37743.88,38738.98,46.66,119.76,32.52,Keep
+USA,2023,Frozen Food,20356.45,21635.28,32.2,928.58,65.99,Keep
+Spain,2022,Dairy Products,17552.92,18078.2,29.92,918.87,40.64,Keep
+Canada,2024,Fruits & Vegetables,30718.53,30692.35,71.42,131.67,41.46,Keep
+Indonesia,2022,Beverages,6814.9,5714.47,155.41,175.92,61.03,Keep
+Indonesia,2023,Beverages,23321.82,26952.6,133.44,735.15,40.47,Keep
+Canada,2022,Meat & Seafood,41155.07,36779.53,167.03,218.12,43.33,Keep
+USA,2022,Meat & Seafood,37796.42,39306.88,164.53,1122.28,31.53,Keep
+Saudi Arabia,2023,Bakery Items,48787.45,57469.17,111.93,919.52,40.95,Keep
+Indonesia,2022,Beverages,9380.46,10402.32,132.16,891.06,47.86,Keep
+Mexico,2022,Prepared Food,35453.2,29871.31,120.72,162.58,62.82,Keep
+Canada,2022,Bakery Items,41808.81,42236.58,67.75,655.29,45.16,Keep
+Mexico,2024,Beverages,42070.19,44375.44,103.24,1127.86,36.38,Keep
+Japan,2022,Grains & Cereals,6212.78,6174.84,178.86,1001.38,40.75,Keep
+USA,2022,Meat & Seafood,27413.78,31419.33,195.72,211.42,69.43,Keep
+France,2023,Fruits & Vegetables,15155.89,17812.77,95.41,1243.55,42.32,Keep
+Indonesia,2022,Bakery Items,47546.87,48143.04,146.6,796.35,33.62,Keep
+Brazil,2022,Beverages,27497.52,22111.98,63.61,648.04,47.3,Keep
+Turkey,2022,Fruits & Vegetables,14405.3,17091.03,29.48,437.01,61.75,Keep
+USA,2023,Meat & Seafood,16834.41,19328.03,50.06,1187.4,56.01,Keep
+Spain,2023,Prepared Food,23852.66,27457.11,41.4,170.52,40.6,Keep
+UK,2022,Bakery Items,3179.96,2720.75,73.39,1042.55,62.84,Keep
+Saudi Arabia,2022,Beverages,34130.79,35657.33,170.5,577.34,32.27,Keep
+France,2022,Prepared Food,37384.57,32795.85,198.77,1125.95,30.05,Keep
+UK,2022,Frozen Food,41708.45,43196.51,141.07,143.92,65.48,Keep
+Russia,2022,Fruits & Vegetables,19157.12,20112.12,55.94,763.12,63.51,Keep
+South Africa,2024,Meat & Seafood,33622.66,37639.57,150.86,76.83,41.28,Keep
+Russia,2022,Meat & Seafood,32917.54,38422.03,58.78,1232.8,66.02,Keep
+Germany,2022,Frozen Food,49311.94,52127.51,176.29,818.32,51.58,Keep
+Brazil,2022,Meat & Seafood,650.11,603.05,33.37,350,43.18,Keep
+Australia,2024,Bakery Items,48239.94,50223.97,158.2,1032.6,42.16,Keep
+Indonesia,2022,Bakery Items,8737.74,9012.64,72.03,476.62,46.52,Keep
+South Africa,2022,Grains & Cereals,8740.28,8843.52,142.61,1133.63,37.14,Keep
+Australia,2023,Fruits & Vegetables,24162.4,19831.43,177.6,1092.63,39.72,Keep
+Russia,2022,Bakery Items,7681.12,8210.6,126.49,957.91,55.71,Keep
+Russia,2024,Frozen Food,9049.12,7668.69,52.21,1111.26,47.61,Keep
+Saudi Arabia,2024,Bakery Items,10519.94,11336.34,134.36,1201.63,66.7,Keep
+Germany,2022,Frozen Food,21432.99,25269.32,76.49,804.72,64.77,Keep
+UK,2022,Fruits & Vegetables,42313.38,50532.46,108.37,1176.64,44.09,Keep
+Turkey,2022,Bakery Items,4888.86,4334.89,108.03,1106.8,42.73,Keep
+China,2024,Prepared Food,34744.9,30622.04,98.46,546.3,34.22,Keep
+France,2024,Dairy Products,19279.87,20683.87,107.37,164.65,53.62,Keep
+Australia,2022,Frozen Food,10942.22,10530.58,50.42,690.47,46.93,Keep
+Indonesia,2022,Bakery Items,43005.41,44585.89,170.28,88.76,69.67,Keep
+India,2022,Bakery Items,21169.63,18682.5,146.8,596.55,50.59,Keep
+Indonesia,2022,Bakery Items,25307.75,24920.78,154.39,215.25,54.39,Keep
+Australia,2022,Fruits & Vegetables,27386.44,31621.42,97.9,1293.4,69.21,Keep
+Argentina,2024,Bakery Items,39454.31,39951.72,104.91,1200.15,54.22,Keep
+Mexico,2022,Grains & Cereals,30839.37,35023.2,117.33,1244.87,57.23,Keep
+Indonesia,2024,Meat & Seafood,10487.16,10653.06,57.36,1054.81,43.74,Keep
+USA,2024,Frozen Food,5223.14,5743.53,48.44,1135.58,54.71,Keep
+France,2022,Prepared Food,45022.32,52601.32,193.47,414.18,37.85,Keep
+Australia,2023,Bakery Items,42006.8,42368.02,33.38,636.92,36.29,Keep
+USA,2022,Prepared Food,39022.45,36291.98,168.07,794.76,51.95,Keep
+Brazil,2022,Bakery Items,45076.43,49600.71,59.27,1060.66,60.5,Keep
+USA,2023,Prepared Food,10355.42,9724.63,182.31,38.82,32.02,Keep
+Turkey,2022,Grains & Cereals,16025.83,14500.02,94.43,1042.1,51.17,Keep
+Italy,2022,Bakery Items,43108.6,37808.92,155.2,414.48,59.87,Keep
+UK,2024,Prepared Food,20177.39,19881.84,64.67,191.53,62.55,Keep
+Mexico,2022,Grains & Cereals,45819.44,47170.79,129.93,1258.56,48.37,Keep
+Turkey,2024,Bakery Items,14744.2,12073.93,162.52,414.5,57.27,Keep
+Brazil,2022,Bakery Items,14575.48,17266.43,67.43,805.91,30.74,Keep
+Canada,2022,Fruits & Vegetables,38189.07,40072.3,49.81,558.44,50.58,Keep
+India,2022,Grains & Cereals,24589.27,20840.73,143.07,811.88,46.19,Keep
+UK,2024,Fruits & Vegetables,22500.01,21129.02,52.15,737.52,47.4,Keep
+Turkey,2022,Frozen Food,39737.36,37233.21,164.5,505.75,61.35,Keep
+Indonesia,2022,Frozen Food,2307.08,1887.99,73.51,26.91,59.31,Keep
+China,2024,Meat & Seafood,28541.94,29937.14,38.07,311.81,62.16,Keep
+China,2023,Frozen Food,5307.21,4368.62,82.8,967.12,54.49,Keep
+Indonesia,2022,Bakery Items,710.96,574.69,63.36,897.31,66.63,Keep
+Italy,2022,Bakery Items,45351,44837.17,75.8,139.71,62.17,Keep
+Russia,2022,Fruits & Vegetables,3276.1,3186.36,128.06,141.24,53.5,Keep
+UK,2022,Frozen Food,45818.4,47474.91,163.87,423.39,38.76,Keep
+Indonesia,2022,Bakery Items,25218.13,21911.21,157.17,1151.71,65.83,Keep
+France,2024,Prepared Food,31850.76,37235.91,166.61,397.67,68.28,Keep
+South Africa,2022,Fruits & Vegetables,30072.7,30370.68,97.55,64.42,69.06,Keep
+Russia,2022,Grains & Cereals,22926.98,24139.73,194.18,965.7,35.02,Keep
+Turkey,2022,Prepared Food,32959.47,39527.46,148.19,876.25,39.45,Keep
+Brazil,2022,Fruits & Vegetables,41810.55,49687.65,47.97,711,62.29,Keep
+UK,2022,Dairy Products,31151.33,32018.28,60.68,907.81,50.74,Keep
+UK,2022,Prepared Food,1364.29,1239.2,178.83,1203.27,36.29,Keep
+Australia,2022,Dairy Products,4506.02,4669.49,48.83,810.54,44.16,Keep
+Australia,2023,Bakery Items,4270.43,5040.7,69.09,637.62,50.96,Keep
+Mexico,2023,Dairy Products,47563.03,44152.92,50.81,1104.15,61.07,Keep
+Argentina,2023,Frozen Food,29183.93,24719.3,182.49,156.89,40.02,Keep
+Turkey,2023,Meat & Seafood,25255.13,21478.56,128.32,458.67,68.52,Keep
+Germany,2023,Fruits & Vegetables,4781.44,4913.99,174.3,677.87,62.47,Keep
+South Africa,2022,Frozen Food,27412.14,24285.52,29.08,1032.17,37.87,Keep
+Turkey,2022,Bakery Items,11754.6,13589.36,38.41,1325.99,39.56,Keep
+Saudi Arabia,2024,Dairy Products,48884.83,49493.39,53.16,750.5,39.8,Keep
+Saudi Arabia,2022,Bakery Items,34878.89,28723.34,109.99,1393.23,42.47,Keep
+Brazil,2022,Fruits & Vegetables,5881.53,5929.15,196.4,230.31,62.64,Keep
+Argentina,2022,Bakery Items,11947.95,12681.14,56.45,1179.45,66.07,Keep
+Indonesia,2023,Prepared Food,25607.05,26209.52,172.27,624.95,39.28,Keep
+Mexico,2022,Grains & Cereals,8949,8542.5,27.53,605.81,47.54,Keep
+Turkey,2023,Prepared Food,7295.93,6657.76,166.02,366.41,58.51,Keep
+Russia,2022,Fruits & Vegetables,14859.9,14172.89,80.6,1244.35,64.89,Keep
+Australia,2023,Grains & Cereals,35501.37,36953.27,198.19,1305.18,37.67,Keep
+UK,2022,Meat & Seafood,41283.64,42195.46,78.15,513.62,46.16,Keep
+Saudi Arabia,2022,Frozen Food,33558.64,36201.96,44.06,1099.07,65.53,Keep
+USA,2022,Grains & Cereals,11479.76,12719.36,144.51,454.91,34.01,Keep
+Germany,2024,Fruits & Vegetables,29925.45,31118.14,95.47,1136.32,68.75,Keep
+India,2022,Frozen Food,38352.58,36719.57,55.06,1118.04,52.91,Keep
+UK,2022,Fruits & Vegetables,8352.25,7851.65,50.15,1108.56,37.32,Keep
+Indonesia,2022,Frozen Food,20372.16,21673.06,141.76,758.88,56.79,Keep
+Brazil,2022,Prepared Food,18814.31,16286.36,89.87,1387.49,35.71,Keep
+Japan,2022,Frozen Food,24800.87,28942.48,94.71,1060.06,68.3,Keep
+Mexico,2022,Meat & Seafood,35852.3,41996.52,167.88,1307.15,55.63,Keep
+Australia,2022,Grains & Cereals,16867.64,19167.49,157.32,1287.85,44.16,Keep
+Brazil,2022,Frozen Food,37794.81,31849.6,48.76,76.6,38.69,Keep
+Indonesia,2023,Meat & Seafood,26834.02,28019.55,134.12,1106.66,44.36,Keep
+Germany,2023,Grains & Cereals,45074.35,54083.25,177.56,537.68,31.91,Keep
+Brazil,2022,Prepared Food,12289.15,13239.72,137.34,1037.97,60.7,Keep
+Canada,2024,Prepared Food,9355.97,9822.33,86.16,1361.33,42.61,Keep
+USA,2022,Fruits & Vegetables,23481.71,19223.31,73.28,828.05,60.52,Keep
+Mexico,2022,Dairy Products,43147.54,35382.31,43.19,843.07,44.77,Keep
+Mexico,2024,Dairy Products,11269.07,13498.84,38.35,1230.65,31.35,Keep
+Turkey,2024,Frozen Food,17898.72,14550.68,75.37,545.64,50.77,Keep
+India,2022,Grains & Cereals,5759.15,6427.88,168.77,1394.2,37.22,Keep
+Russia,2024,Frozen Food,17975.33,19843.9,167.86,371.59,51.81,Keep
+India,2022,Fruits & Vegetables,4710.18,5007.17,121.85,315.22,32.35,Keep
+Italy,2024,Dairy Products,46977.59,38449.13,122.48,270.52,30.24,Keep
+Italy,2023,Beverages,36629.83,41345.52,170.98,1394.89,34.21,Keep
+Spain,2023,Prepared Food,44685.41,50697.78,31.08,666.22,31.19,Keep
+Japan,2022,Prepared Food,34343.36,37433.1,137.02,467.65,32.24,Keep
+Germany,2022,Dairy Products,15916.02,14934.3,135.53,733.39,51.45,Keep
+Italy,2022,Grains & Cereals,14919.1,17084.2,132.51,803.19,36.11,Keep
+Italy,2022,Grains & Cereals,28088.1,24215.09,76.32,729.94,54.91,Keep
+Russia,2022,Prepared Food,48638.45,41147.2,165.93,112.72,33.42,Keep
+Canada,2022,Beverages,27384.23,27460.01,166.87,1125.17,32.88,Keep
+France,2022,Frozen Food,37658.84,44908.91,161.7,1057.61,61.06,Keep
+Germany,2022,Meat & Seafood,41004.31,46604.29,25.18,647.17,54.86,Keep
+Saudi Arabia,2024,Dairy Products,40479.95,45457.05,146.15,768,49.72,Keep
+Brazil,2023,Frozen Food,19435.29,17713.11,188.88,86.56,69.95,Keep
+South Korea,2024,Dairy Products,21718.22,25018.76,147.72,634.49,34.56,Keep
+Turkey,2024,Bakery Items,33486.25,35017.71,97.42,200.3,54.79,Keep
+Mexico,2022,Grains & Cereals,34149.18,38842.47,101.9,942.49,35.92,Keep
+Indonesia,2022,Meat & Seafood,46815.5,42424.43,118.25,1051.34,31.52,Keep
+Italy,2022,Prepared Food,20946.36,17515.05,161.73,517.33,62.44,Keep
+UK,2022,Dairy Products,31688.19,25866.5,26.21,266.91,64.94,Keep
+Spain,2024,Frozen Food,49203.54,48789.55,157.65,770.05,57.34,Keep
+South Africa,2022,Prepared Food,20894.32,20180.47,109.99,624.72,39.49,Keep
+Saudi Arabia,2022,Dairy Products,13520.49,12198.85,168.69,1060.38,46.82,Keep
+Japan,2022,Beverages,46515.03,45618.46,100.96,335.06,54.33,Keep
+Turkey,2022,Bakery Items,37878.43,45092.53,32.95,245.46,45.18,Keep
+Brazil,2022,Fruits & Vegetables,2042.26,2256.48,78.13,212.94,43.55,Keep
+Turkey,2023,Prepared Food,16263.94,13066.74,146.14,532.68,40.63,Keep
+Australia,2022,Meat & Seafood,8997.95,8132.68,165.36,585.42,54.71,Keep
+Spain,2022,Dairy Products,44003.89,35541.28,93.26,1175.91,31.42,Keep
+Russia,2022,Prepared Food,19047.02,16267.32,170.58,272.33,32.49,Keep
+Japan,2022,Grains & Cereals,3719.16,3803.6,61.05,882.69,50.28,Keep
+Germany,2022,Grains & Cereals,5457.06,5389.62,147.7,667.61,41.52,Keep
+Spain,2022,Frozen Food,21309.4,17977.6,161.31,811.37,55.74,Keep
+South Africa,2022,Beverages,29919.89,25147.81,32.57,1017.44,54.87,Keep
+Germany,2022,Bakery Items,18850.26,18542.54,167.04,946.56,67.68,Keep
+China,2023,Prepared Food,24201.12,25444.62,149.36,880.91,35.58,Keep
+Australia,2023,Bakery Items,21391.07,21174.67,60.25,562,61.38,Keep
+USA,2022,Frozen Food,11890.66,13680.35,178.86,381.88,52.96,Keep
+Brazil,2022,Fruits & Vegetables,41759.37,35161.45,92.07,1097.09,42.12,Keep
+Turkey,2022,Meat & Seafood,29113.22,27117.15,21.72,725.76,46.3,Keep
+Brazil,2022,Fruits & Vegetables,43846.87,44810.33,67.92,167.79,40.76,Keep
+South Korea,2022,Beverages,14779.69,12125.54,183.18,830.63,50.83,Keep
+UK,2022,Meat & Seafood,10642.53,9247.43,73.8,1201.16,52.48,Keep
+Australia,2024,Bakery Items,15025.78,15189.24,133.36,598,38.1,Keep
+Japan,2022,Meat & Seafood,48372.88,48305,177.17,1289.27,35.56,Keep
+Mexico,2022,Prepared Food,24836.07,23121.8,68.62,1310.94,50.31,Keep
+Brazil,2022,Prepared Food,49395.14,40327.45,100.35,1122.91,41.63,Keep
+Saudi Arabia,2022,Beverages,14009.07,12256.59,145.34,1284.28,50.62,Keep
+Canada,2022,Grains & Cereals,44914.43,37679.79,167.65,907.89,59.33,Keep
+Australia,2022,Dairy Products,48373.39,50449.34,58.89,1328.37,33.97,Keep
+South Africa,2024,Prepared Food,1272.94,1162.15,46.61,474.04,30.52,Keep
+Brazil,2024,Grains & Cereals,45457.1,53715.15,83.69,1103.59,38.58,Keep
+Mexico,2022,Beverages,16309.24,13445.9,54.53,286.48,56.3,Keep
+Canada,2022,Meat & Seafood,47128.3,42676.68,74.29,783.58,32.16,Keep
+France,2024,Grains & Cereals,8544.62,9823.34,77.69,523.41,69.48,Keep
+Indonesia,2022,Meat & Seafood,15955.86,15880.58,41.11,1178.63,62.6,Keep
+Argentina,2022,Frozen Food,44822.55,49895.35,197.44,147.11,58.43,Keep
+China,2022,Beverages,3118.62,2909.39,53.67,718.13,69.49,Keep
+USA,2022,Prepared Food,25659.44,27457.72,59.04,560.91,58.83,Keep
+Japan,2024,Beverages,8603.66,9492.05,180.94,844.33,50.24,Keep
+South Korea,2022,Meat & Seafood,30588.9,31101.57,21.56,964.88,57.23,Keep
+USA,2022,Dairy Products,42054.56,40586.17,164.65,677.49,53.46,Keep
+Brazil,2023,Dairy Products,33238.1,39785.69,95.99,628.71,66.81,Keep
+India,2024,Meat & Seafood,1018.55,1113.39,80.91,629.54,46.08,Keep
+UK,2022,Fruits & Vegetables,23277.06,22356.43,46.29,629.91,32.05,Keep
+USA,2023,Prepared Food,41492.82,42210.23,116.67,1212.89,43.25,Keep
+Russia,2023,Dairy Products,47943.19,55889.29,115.49,880.02,54.88,Keep
+UK,2022,Prepared Food,14430.76,16888.06,144.34,963.08,44.8,Keep
+UK,2022,Prepared Food,31463.73,28077.99,132.09,726.58,55.88,Keep
+France,2024,Beverages,22568.53,19426.19,34.78,337.57,46.97,Keep
+China,2022,Meat & Seafood,26277.31,30674.72,20.75,656.63,43.06,Keep
+Saudi Arabia,2022,Beverages,30652.52,26069.74,76.6,112.13,65.33,Keep
+China,2022,Meat & Seafood,1011.68,919.94,37.25,956.73,45.72,Keep
+Argentina,2023,Grains & Cereals,3551.88,3421.91,188.57,163.24,48.64,Keep
+Mexico,2023,Fruits & Vegetables,24249.02,25360.3,68.54,327.16,51.89,Keep
+Australia,2024,Bakery Items,13016.6,11189.42,89.81,380.82,36.44,Keep
+South Korea,2022,Beverages,37480.14,30030.39,167.72,498.14,47.75,Keep
+Canada,2024,Beverages,36988.46,36817.82,64.52,975.59,43,Keep
+South Africa,2022,Fruits & Vegetables,21318.41,25152.62,179.31,1114.25,30.27,Keep
+Brazil,2022,Bakery Items,574.78,680.3,75.4,1104.87,54.17,Keep
+Italy,2022,Prepared Food,6744.99,6123.36,28.23,1308.31,36.85,Keep
+Germany,2022,Grains & Cereals,29993.64,26143.71,170.9,1395.33,30.97,Keep
+India,2022,Dairy Products,1993.1,1653.46,149.71,1042.48,49.14,Keep
+Saudi Arabia,2023,Meat & Seafood,29863.47,33995.1,180.59,448.42,48.87,Keep
+France,2022,Prepared Food,5117.99,4340.83,148.17,860.14,49.71,Keep
+USA,2022,Frozen Food,22874.2,19013.91,128.93,952.95,56.07,Keep
+China,2022,Beverages,25815.31,29076.17,192.98,173.91,34.65,Keep
+UK,2022,Fruits & Vegetables,37787.32,41231.55,83.06,222.81,50.4,Keep
+Japan,2022,Meat & Seafood,5754.96,5176.17,138.03,876.07,47.77,Keep
+Mexico,2024,Prepared Food,10757.54,12190.96,62.42,1002.29,49.69,Keep
+Argentina,2022,Frozen Food,13640.73,12172.06,193.59,879.77,57.32,Keep
+France,2023,Frozen Food,1914.02,2194.11,73.57,644.03,34.79,Keep
+UK,2023,Dairy Products,49946.21,44175.06,136.91,114.6,60.76,Keep
+USA,2022,Frozen Food,43266.7,45722.33,56.36,1289.02,32.05,Keep
+Australia,2022,Grains & Cereals,23374.75,20755.29,88.6,1282.72,68.07,Keep
+South Korea,2024,Fruits & Vegetables,19512.89,22673,125.7,203.15,30.5,Keep
+France,2024,Bakery Items,30320.54,34017.9,99.02,638.57,37.63,Keep
+Italy,2022,Frozen Food,38347.96,41285.16,72.47,506.24,59.52,Keep
+South Africa,2024,Grains & Cereals,14103.65,12207.56,147.59,552.99,62.34,Keep
+Mexico,2022,Bakery Items,22620.3,21652.05,138.18,665.27,42.14,Keep
+UK,2022,Beverages,21153.26,21898.79,144.72,1168.57,46.53,Keep
+Brazil,2023,Grains & Cereals,16056.57,13556.44,48.71,699.83,38.1,Keep
+Spain,2022,Frozen Food,10883.89,12004.85,77.59,687.98,39.44,Keep
+India,2022,Prepared Food,17404.36,16904.52,94.17,825.6,57.59,Keep
+South Korea,2022,Fruits & Vegetables,20115.81,21021.75,124.74,33.52,60.25,Keep
+USA,2022,Dairy Products,31844.6,28277.58,168.62,779.34,39.78,Keep
+USA,2022,Prepared Food,29791.77,34363.63,170.28,639.18,47.95,Keep
+Russia,2022,Beverages,2849.62,2986.54,20.21,177.3,64.93,Keep
+South Korea,2022,Frozen Food,1035.72,984.88,37.01,1166.98,53.83,Keep
+Australia,2022,Prepared Food,31651.36,26405.59,67.6,884.79,65.7,Keep
+India,2022,Bakery Items,22099.49,18873.66,175.5,1277.99,60.29,Keep
+South Korea,2024,Meat & Seafood,31221.6,34554.54,162.65,574.63,64.48,Keep
+UK,2023,Bakery Items,18014.05,15852.44,180.34,944.68,61.14,Keep
+India,2024,Grains & Cereals,39440.62,43051.91,82.83,1317.74,50.69,Keep
+China,2022,Fruits & Vegetables,32986.36,34639.82,60.94,873.46,54.73,Keep
+Australia,2022,Fruits & Vegetables,40051.48,39577.85,145.96,1369.91,40.42,Keep
+Japan,2024,Fruits & Vegetables,38598.67,37070.92,185.59,884.49,57.46,Keep
+South Korea,2022,Frozen Food,40755.53,45348.62,123.59,271.65,56.39,Keep
+Germany,2022,Fruits & Vegetables,14359.43,15849.56,127.62,468.67,56.42,Keep
+UK,2022,Dairy Products,22836.46,20920.04,64.96,820.66,47.49,Keep
+India,2022,Beverages,42201.42,49235.91,84.23,205.94,49.13,Keep
+China,2022,Grains & Cereals,16867.83,19455.59,124.35,214.15,45.91,Keep
+Russia,2022,Beverages,33284.79,28126.49,138.45,1113.87,64.06,Keep
+South Korea,2023,Fruits & Vegetables,32016.16,30111.2,73.96,65.96,62.98,Keep
+Indonesia,2022,Dairy Products,35663.6,38690.79,43.77,467.77,64.44,Keep
+South Korea,2024,Bakery Items,47238.43,44081.88,48.9,280.32,63.51,Keep
+France,2022,Grains & Cereals,49249.34,46203.04,130.9,554.42,66.07,Keep
+Russia,2023,Meat & Seafood,48342.31,54488.55,61.5,1378.57,69.56,Keep
+South Korea,2022,Grains & Cereals,37365.34,43081.43,150.77,237.06,40.41,Keep
+Canada,2024,Fruits & Vegetables,40762.09,45030.05,112.73,1283.53,51.92,Keep
+Russia,2022,Prepared Food,4292.19,4940.03,198.75,1073.16,47.07,Keep
+Japan,2023,Bakery Items,27778.91,23145.16,105.48,782.65,31.75,Keep
+China,2022,Beverages,37990.58,41710.73,38.29,627.03,68.12,Keep
+Australia,2024,Bakery Items,49147.86,56321.02,183.59,1395.51,35.14,Keep
+Canada,2024,Meat & Seafood,29351.78,24462.85,197.13,1072.06,52.28,Keep
+Japan,2024,Fruits & Vegetables,14970.85,15563.82,145.72,1060.87,67.54,Keep
+Brazil,2022,Frozen Food,31665.64,31253.42,107.86,315.01,49.21,Keep
+India,2024,Grains & Cereals,19242.47,16275.03,73.29,539.1,66.09,Keep
+Spain,2024,Bakery Items,31031.85,28026.74,84.55,998.56,44.95,Keep
+Germany,2022,Grains & Cereals,24563.9,20249.73,178.92,566.23,61.88,Keep
+South Africa,2023,Beverages,26751.05,29812.25,187.89,1002.72,50.54,Keep
+Spain,2022,Fruits & Vegetables,29204.96,24683.22,85.66,870.28,36.45,Keep
+Canada,2023,Meat & Seafood,12845.61,12010.8,182.01,49.3,50.94,Keep
+Russia,2023,Frozen Food,27669.02,22227.77,194.11,501.96,46.69,Keep
+USA,2022,Prepared Food,32441.69,30647.04,116.98,585.25,36.49,Keep
+Germany,2022,Prepared Food,31959.38,32497.74,168.9,213.83,60.96,Keep
+Italy,2022,Dairy Products,12152.83,13781.51,59.92,1186.71,51.41,Keep
+Canada,2022,Fruits & Vegetables,4052.81,3583.44,96.86,1363.66,59.7,Keep
+Germany,2022,Fruits & Vegetables,29670.13,30742.73,172.11,161.94,62.48,Keep
+Australia,2022,Frozen Food,47030.67,42346.44,192.88,883.32,33.77,Keep
+UK,2023,Grains & Cereals,45170.97,36197.04,108.1,618.86,44.88,Keep
+Saudi Arabia,2022,Meat & Seafood,10015.2,11946.25,23.9,1220.39,56.67,Keep
+USA,2022,Meat & Seafood,2912.45,3297.05,140.49,819.3,31.42,Keep
+Argentina,2024,Prepared Food,10996.23,11939.82,150.33,628.47,64.72,Keep
+South Africa,2022,Fruits & Vegetables,47424.14,52059.72,120.63,813.98,55.74,Keep
+UK,2022,Fruits & Vegetables,13833.1,15670.87,21.07,934.88,48.76,Keep
+Mexico,2022,Beverages,4458.37,5320.8,107.31,887.89,49.09,Keep
+Italy,2022,Beverages,12988.33,14462.26,179.56,722.51,34.58,Keep
+UK,2022,Dairy Products,33815.51,36419.48,51.61,1276.84,52.2,Keep
+France,2023,Frozen Food,48056.64,42840.51,41.67,65.21,50.34,Keep
+Spain,2022,Bakery Items,49863.6,48160.79,93.37,456.04,56.01,Keep
+Australia,2022,Meat & Seafood,11494.16,9480.19,135.55,13.02,63.72,Keep
+China,2022,Prepared Food,39736.58,40836.99,181.15,260.3,50.77,Keep
+Russia,2022,Meat & Seafood,36615.48,30051.68,183.7,714.62,56.81,Keep
+Canada,2022,Frozen Food,16907.04,16406.2,28.41,276.76,33.46,Keep
+Italy,2023,Beverages,33360.77,27292.27,169.06,1035.81,49.84,Keep
+Saudi Arabia,2022,Beverages,7656.09,8767.08,116.73,668.48,59.25,Keep
+UK,2022,Frozen Food,1056.36,1092.62,36.17,863.52,39.72,Keep
+Brazil,2024,Meat & Seafood,7310.4,7589.49,21.95,1189.45,51.92,Keep
+Turkey,2024,Meat & Seafood,14383.99,12328.25,40.13,544.34,30.42,Keep
+South Africa,2022,Prepared Food,6861.18,6515.67,177.28,992.66,56.4,Keep
+Japan,2022,Fruits & Vegetables,43837.31,52355.28,39.83,726.66,35.28,Keep
+Russia,2024,Beverages,45578.99,53724.37,135.47,234.25,36.34,Keep
+Mexico,2022,Dairy Products,40603.04,45593.42,41.33,49.59,58.38,Keep
+Mexico,2022,Dairy Products,28090.89,27605.03,59.51,897.04,51.59,Keep
+Argentina,2022,Frozen Food,30397.21,32529.22,164.45,384.01,63.29,Keep
+Turkey,2022,Meat & Seafood,667.04,723.18,116.05,855.07,38.86,Keep
+Mexico,2024,Fruits & Vegetables,5026.34,4505.63,180.57,621.12,58.77,Keep
+South Africa,2022,Meat & Seafood,18732.3,16899.36,134.05,705.09,56.43,Keep
+Mexico,2023,Beverages,26355.09,23707.1,166.17,526.26,50.52,Keep
+Italy,2022,Bakery Items,25329.17,20287.27,141.22,697.69,55.98,Keep
+France,2022,Dairy Products,15099.47,15702.68,156.85,780.13,50.43,Keep
+Mexico,2022,Frozen Food,30285.61,34430.51,189.56,826.89,47.57,Keep
+Brazil,2023,Frozen Food,49354.39,40732.13,145.56,993.5,31.45,Keep
+Canada,2023,Meat & Seafood,16354.7,14218.16,29.29,1296.16,61.24,Keep
+Spain,2024,Grains & Cereals,4773.9,5048.74,137.16,1380.39,46.47,Keep
+Indonesia,2022,Meat & Seafood,45275.35,37831.82,103.89,1079.34,56.99,Keep
+France,2022,Beverages,16567.1,16473.93,92.13,557.53,68.05,Keep
+Mexico,2022,Meat & Seafood,44297.49,44282.37,57.05,813.38,40.5,Keep
+Australia,2022,Fruits & Vegetables,8853.71,10483.39,188.06,664.73,57.54,Keep
+Mexico,2022,Dairy Products,14342.41,11795.32,196.2,555.71,42.31,Keep
+India,2022,Bakery Items,40990.98,40497.51,24.31,463.06,52.8,Keep
+France,2022,Prepared Food,40765.37,34446.24,169.23,907.62,40.11,Keep
+China,2023,Grains & Cereals,33417.69,38195.07,96.26,1398.6,48.15,Keep
+France,2022,Grains & Cereals,39051.33,37515.63,112.51,1128.01,42.57,Keep
+Italy,2022,Fruits & Vegetables,45805.21,41400.33,36.53,402.4,61.27,Keep
+Brazil,2023,Dairy Products,18301.61,15305.6,166.22,1368.68,66.79,Keep
+UK,2022,Beverages,21861.61,21387.28,57.56,525.58,68.84,Keep
+Germany,2022,Fruits & Vegetables,774.9,828.01,98.07,1038.16,57.79,Keep
+France,2022,Prepared Food,22616.21,23341.3,145.32,795.67,61.63,Keep
+Mexico,2024,Beverages,36005.36,31410.97,111.78,120.03,59.35,Keep
+Indonesia,2023,Prepared Food,15185.55,14374.28,166.84,1226.47,49.81,Keep
+UK,2022,Meat & Seafood,20520.29,17776.85,195.94,878.38,65.68,Keep
+Argentina,2022,Meat & Seafood,4328.31,4270.03,78.76,977.54,59.95,Keep
+Indonesia,2023,Bakery Items,14212.01,14161.88,94.42,539.65,59.81,Keep
+Spain,2024,Meat & Seafood,4778.57,3898.87,152.62,1308.47,30.75,Keep
+Mexico,2022,Meat & Seafood,15743.78,13878.75,119.34,1276.98,35.79,Keep
+Canada,2022,Prepared Food,9703.04,10265.17,112.27,516.48,57.59,Keep
+South Africa,2023,Grains & Cereals,2205.14,1966.44,97.16,162.25,44.34,Keep
+Saudi Arabia,2022,Meat & Seafood,30563.44,33735.76,93.44,1035.86,43.95,Keep
+France,2022,Fruits & Vegetables,1050.83,927.65,30.01,107,49.22,Keep
+UK,2024,Frozen Food,43604.59,43474.62,173.77,1328.97,49.61,Keep
+France,2022,Dairy Products,10423.98,10154.95,110.85,904.77,66.37,Keep
+Argentina,2023,Grains & Cereals,21088.7,17571.1,178.19,1192.2,44.45,Keep
+Canada,2024,Meat & Seafood,39686.45,43305.99,63.98,1060.47,69.62,Keep
+USA,2023,Dairy Products,9821.36,8333.6,50.23,60.53,66.21,Keep
+India,2022,Dairy Products,13987.54,16784.34,160.47,49.9,67.25,Keep
+Russia,2022,Prepared Food,24389.2,22916.51,42.54,727.53,69.98,Keep
+India,2022,Grains & Cereals,49492.05,40998.09,50.81,335.3,45.81,Keep
+Mexico,2022,Meat & Seafood,46394.35,41792.65,77.59,1071.06,65.03,Keep
+Indonesia,2023,Prepared Food,39980.4,37618.45,32.34,27.08,56.38,Keep
+France,2022,Bakery Items,8236.95,7306.92,28.16,313.2,30.22,Keep
+Italy,2022,Grains & Cereals,21611.84,19333.92,129.82,391.78,41.07,Keep
+South Africa,2022,Meat & Seafood,3925.48,4499.38,47.21,79.18,38.1,Keep
+France,2024,Bakery Items,8860.27,7360.38,51.5,879.67,54.27,Keep
