@@ -98,3 +98,5 @@ elif page == "🍽️ Food Wastage Level Prediction":
             prediction = wastage_model.predict(input_lda)
             mapped_prediction = wastage_mapping.get(prediction[0], 'Unknown')
             st.success(f'🍽️ Predicted Food Wastage Level: **{mapped_prediction}**')
+
+"""
